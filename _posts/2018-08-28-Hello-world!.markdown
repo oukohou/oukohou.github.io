@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 Hello there!
 
-This is my first blog on my blog [site](www.oukohou.wang).
+This is my first blog on my blog [site](http://www.oukohou.wang/).
 
 That's all.
 
@@ -20,7 +20,7 @@ print_hi("I'm oukohou")
 {% endhighlight %}
 
 
-<h9 align = "right">oukohou.</h9>
+<h4 align = "right">oukohou.</h4>
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
