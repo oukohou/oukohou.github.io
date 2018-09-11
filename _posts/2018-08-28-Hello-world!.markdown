@@ -19,13 +19,9 @@ def print_hi(name):
 print_hi("I'm oukohou")
 {% endhighlight %}
 
-```python
-def print_hi(name):
-   print("Hi, " + name)
-print_hi("I'm oukohou")
-```
 
-<h9 align = "right">oukohou.</h1>
+<h9 align = "right">oukohou.</h9>
+
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
