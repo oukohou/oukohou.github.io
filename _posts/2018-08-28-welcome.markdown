@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Welcome!"
+title:  "Hello world!"
 date:   2018-08-28 19:42:35 +0800
 categories: jekyll update
 ---
 Hello there!
-This is my first blog on my blog [site](www.oukohou.wang).
-That's all.
-regards.
-<div align = right>oukohou.</div>
 
+This is my first blog on my blog [site](www.oukohou.wang).
+
+That's all.
+
+regards.
+
+<h1 align = "right">oukohou.</h1>
 
 {% highlight python %}
 def print_hi(name):
