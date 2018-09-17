@@ -2,7 +2,7 @@
 title: oukohou
 subtitle: oukohou's blog
 keywords: oukohou
-description: oukohou's blog。我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
+description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.oukohou.wang/" # 你的域名
 page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
@@ -46,11 +46,11 @@ menu:
     directory: guestbook/
     icon: icon-guestbook
   - page: 关于
-    directory: assets/imgs/wechat_official_account.png
+    directory: about.md
     icon: icon-about
-  - page: 订阅
-    directory: feed.xml
-    icon: icon-rss
+#  - page: 订阅
+#    directory: feed.xml
+#    icon: icon-rss
 
 # Link settings
 links: # 友情链接

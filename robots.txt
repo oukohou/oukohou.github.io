@@ -1,4 +1,4 @@
 # robots.txt  
 User-agent: *
 Disallow: 
-Sitemap: http://blog.konghy.cn/sitemap.xml
+Sitemap: http://www.oukohou.wang/sitemap.xml
