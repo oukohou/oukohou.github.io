@@ -1,0 +1,8 @@
+<div class="widget">
+  <div class="widget-title"><i class="icon-link"> 友情链接</i></div>
+  <ul class="link-list">
+  {% for link in site.links %}
+    <li class="link-list-item"><a href="{{ link.url }}" title="{{ link.title }}" target="_blank">{{ link.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div>

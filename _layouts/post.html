@@ -1,15 +1,51 @@
 ---
-layout: default
+layout: base
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <p class="post-meta">
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+            <i class="icon-post-date">{{ page.date | date: "%b %-d, %Y" }}</i>
+        </time> {% if page.categories.size > 0 %} |
+        <span class="post-category">
+            <i class="icon-post-category">
+            {% for page_category in page.categories %}
+                <a href="{{ site.baseurl }}/category/#{{ page_category }}">{{ page_category }}</a>
+            {% endfor %}
+            </i>
+        </span> {% endif %} {% if page.tags.size > 0 %} |
+        <span class="post-tag">
+            <i class="icon-post-tag">
+            {% for page_tag in page.tags %}
+                <a href="{{ site.baseurl }}/tags/#{{ page_tag }}">{{ page_tag }}</a>
+            {% endfor %}
+            </i>
+        </span>{% endif %}
+    </p>
   </header>
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
   </div>
+
+  <div id="donate">
+    <a href="/donate/" style="text-decoration: none">
+      <button>$ 您的支持是作者写作最大的动力!</button>
+    </a>
+  </div>
+
+  {% include plugins/share_button %}
+
+  <div class="post-nav">
+    {% if page.previous %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="pre"><i class="icon-post-pre"> {{ page.previous.title }}</i></a>
+    {% endif %} {% if page.next %}
+    <a href="{{ page.next.url | prepend: site.baseur }}" class="next">{{ page.next.title }} <i class="icon-post-next"></i></a>
+    {% endif %}
+  </div>
+
+  {% include plugins/comments_duoshuuo %}
 
 </article>

@@ -1,0 +1,17 @@
+---
+layout: null
+title : Posts JSON data
+---
+
+[
+{% for post in site.posts %}
+{% if post.keywords %}{% assign keywords = post.keywords %}{% else %}{% assign keywords = post.tags %}{% endif %}
+{
+"title": {{ post.title | jsonify }},
+"url": {{ post.url | jsonify }},
+"date": {{ post.date | date: '%Y-%m-%d' | jsonify }},
+"keywords": {{ keywords | jsonify }},
+"summary": {{ post.content | strip_html | truncate:120 | jsonify }}
+}{% unless forloop.last %}, {% endunless %}
+{% endfor %}
+]

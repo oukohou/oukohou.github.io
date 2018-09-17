@@ -1,0 +1,8 @@
+<div class="widget">
+    <div class="widget-title">标签</div>
+    <div class="tagcloud">
+        {% for tag in site.tags %}
+        <a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" style="font-size: 15px;">{{ tag[0] }}</a>
+        {% endfor %}
+    </div>
+</div>

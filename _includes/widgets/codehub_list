@@ -1,0 +1,8 @@
+<div class="widget">
+  <div class="widget-title"><i class="icon-code-hub"> 代码仓库</i></div>
+  <ul class="codehub-list">
+  {% for hub in site.codehub %}
+    <li class="codehub-list-item"><a href="{{ hub.url }}" title="{{ hub.title }}" target="_blank">{{ hub.title }}</a></li>
+  {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,14 @@
+<div class="widget">
+  {% if site.baidu_search %}
+    <form action="//www.baidu.com/s?gpc=stf" method="get" accept-charset="utf-8" target="_blank" class="search-form">
+      <input type="text" name="q1" maxlength="20" placeholder="Search" class="search-form-input">
+      <input type="hidden" name="q6" value="blog.konghy.cn">
+    </form>
+  {% endif %}
+  {% if site.google_search %}
+    <form action="//www.google.com/search" method="get" accept-charset="utf-8" target="_blank" class="search-form">
+    <input type="text" name="q" maxlength="20" placeholder="Search" class="search-form-input">
+    <input type="hidden" name="sitesearch" value="blog.konghy.cn">
+    </form>
+  {% endif %}
+</div>

@@ -1,0 +1,8 @@
+<div class="widget">
+    <div class="widget-title"><i class="icon-new-post"> 最新文章({{ site.posts | size }})</i></div>
+    <ul class="post-list">
+    {% for post in site.posts limit:10 %}
+      <li class="post-list-item"><a class="post-list-link" href="{{ post.url | prepend: site.baseurl }}">{% if post.title %} {{ post.title }} {% else %} {{ site.page_no_title }} {% endif %}</a></li>
+    {% endfor %}
+    </ul>
+</div>

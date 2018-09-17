@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN" >
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+  <meta content="yes" name="apple-mobile-web-app-capable">
+  <meta content="black-translucent" name="apple-mobile-web-app-status-bar-style">
+  <meta content="telephone=no" name="format-detection">
+
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {{ site.subtitle}}</title>
+  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords | split: ' ' | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="baidu-site-verification" content="fjE6fa4d3J" />
+  <meta name="author" content="{{ site.author }}">
+
+  <link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/normalize.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/pure-min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/grids-responsive-min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css?v=1514870841" | prepend: site.baseurl }}">
+
+  <script type="text/javascript" src="/assets/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/assets/js/tongji.baidu.js"></script>
+</head>
+
+  <body>
+    <div class="body_container">
+      <div id="header">
+        <div class="site-name">
+          <h1 class="hidden">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+          <a id="logo" href="/.">{{ site.title }}</a>
+          <p class="description">{{ site.subtitle }}, Focus on Thinking</p>
+        </div>
+        <div id="nav-menu">
+          {% for menu in site.menu %}
+            <a href="{{ site.baseurl }}/{{ menu.directory }}"><i class="{{ menu.icon }}"> {{ menu.page }}</i></a>
+          {% endfor %}
+        </div>
+      <script type="text/javascript">
+      var menus=document.getElementById('nav-menu');
+      var ishome = true;
+      for (var i=1;i<menus.childElementCount;i++) {
+        var path = location.href;
+        var current = path.startsWith(menus.children[i].href);
+        if (current) {
+          menus.children[i].className ='current';
+          ishome = false;
+          break;
+        }
+      }
+      if (ishome) {
+      	menus.children[0].className ='current';
+      }
+      </script>
+      </div>
+
+      <div id="layout" class="pure-g">
+        <div class="pure-u-1 pure-u-md-3-4">
+          <div class="content_container">
+            {{ content }}
+          </div>
+        </div>
+
+        <div class="pure-u-1-4">
+          <div id="sidebar">
+            {% include widgets/search_box_new %}
+
+            {% include widgets/essay %}
+
+            {% include widgets/category_list %}
+
+            {% include widgets/star_post_list %}
+
+            {% include widgets/codehub_list %}
+
+            {% include widgets/link_list %}
+
+            {% include widgets/post_toc %}
+          </div>
+        </div>
+      </div>
+
+      <div id="footer">
+        Copyright &copy; 2015-<span id="cur_year"></span> <a href="http://konghy.cn">Huoty</a> - All Rights Reserved.
+        Powered by <a href="http://jekyllrb.com" target="_blank">Jekyll</a> @ <a href="https://github.com/kuanghy/luring" target="_blank">Github.com</a>
+        <script type="text/javascript">var cur_date = new Date();document.getElementById("cur_year").innerHTML = cur_date.getFullYear();</script>
+        {% if site.beian %}
+        <a rel="nofollow" target="_blank" href="http://www.miitbeian.gov.cn/"> {{ site.beian }}.</a>
+        {% endif %}
+      </div>
+
+      <a id="rocket" href="#top" class="show"></a>
+      <script src="/assets/js/totop.js" type="text/javascript"></script>
+    </div>
+
+    {% include plugins/baidu_push %}
+
+  </body>
+
+</html>

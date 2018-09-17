@@ -1,0 +1,10 @@
+<div class="widget">
+    <div class="widget-title"><i class="icon-category"> 文章分类</i></div>
+    <ul class="category-list">
+      {% for category in site.categories %}
+        <li class="category-list-item">
+          <a class="category-list-link" href="{{ site.baseurl }}/category/#{{ category[0] }}">{{ category[0] }} ({{ category[1] | size }})</a>
+        </li>
+      {% endfor %}
+    </ul>
+</div>

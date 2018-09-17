@@ -1,22 +1,77 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: oukohou
-email: oukohou@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  我梦扬州，便想到扬州梦我。
-  幸会。
+title: 旷世的忧伤
+subtitle: Huoty's Blog
+keywords: huoty, konghy, 旷世的忧伤, 计算机技术, 感悟, Linux, Python, Web
+description: Huoty's blog，旷世的忧伤。专注于各类计算机技术，记录所感所想所思。分享 Linux 使用技巧，Python 开发技术，以及其他程序设计经验
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.oukohou.wang/" # the base hostname & protocol for your site
-twitter_username: oukohou2
-github_username:  oukohou
+url: "http://blog.konghy.cn" # 你的域名
+page_no_title: "旷世的忧伤 | Huoty's Blog" # 文章无标题时默认显示内容
+beian: # "备案号"
+author: Huoty
+email: sudohuoty@gmail.com
 
 # Build settings
-markdown: kramdown
+permalink: /:year/:month/:day/:title/
+exclude: ["README.md", "changelog.md", "server", "tools", "Pipfile"]
+plugins: [jekyll-paginate]
+markdown: redcarpet
+redcarpet:
+    extensions: ["fenced_code_blocks",
+                 "tables",
+                 "highlight",
+                 "strikethrough",
+                 "no_intra_emphasis",
+                 "with_toc_data"]
 
-theme: jekyll-theme-leap-day
+# Pageinate settings
+paginate: 8 # 分页大小
+paginate_path: "page/:num/"
+
+# Search settings
+baidu_search: true
+google_search: # true
+
+# Menu settings
+menu:
+  - page: 首页
+    directory: .
+    icon: icon-home
+  - page: 归档
+    directory: archives/
+    icon: icon-archive
+  - page: 标签
+    directory: tags/
+    icon: icon-tags
+  - page: 留言
+    directory: guestbook/
+    icon: icon-guestbook
+  - page: 关于
+    directory: //konghy.cn
+    icon: icon-about
+  - page: 订阅
+    directory: feed.xml
+    icon: icon-rss
+
+# Link settings
+links: # 友情链接
+  - title: Huoty's Opus
+    url: http://opus.konghy.cn
+  - title: Jekyll 博客系统
+    url: http://jekyllcn.com/
+  - title: 聚宽量化交易平台
+    url: https://www.joinquant.com/
+  - title: 晚晴幽草轩
+    url: http://jeffjade.com/
+  - title: 卢松松博客
+    url: http://lusongsong.com/
+  - title: 搜外SEO问答
+    url: http://ask.seowhy.com
+
+# Code hub settings
+codehub: # 代码仓库
+  - title: Github
+    url: https://github.com/kuanghy
+  - title: Git@OSC
+    url: https://git.oschina.net/kuanghy
+  - title: Coding
+    url: https://coding.net/u/konghy

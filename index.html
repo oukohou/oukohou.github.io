@@ -1,25 +1,39 @@
 ---
-layout: default
+layout: base
 ---
 
-<div class="home">
+{% for post in paginator.posts %}
+<div class="post">
 
-  <h1 class="page-heading">Posts</h1>
+  <h2 class="post-title">
+  	<a href="{{ post.url | prepend: site.baseurl }}">
+  	{% if post.title %}
+  		{{ post.title }}
+  	{% else %}
+  		{{ site.page_no_title }}
+  	{% endif %}
+  	</a>
+  </h2>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <div class="post-meta"><i class="icon-post-date"> {{ post.date | date: "%Y年%m月%d日" }}</i></div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="post-content">{{ post.content | strip_html | truncate:300 }}</div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">阅读更多</a></p>
 
 </div>
-Hello World!
+{% endfor %}
 
+<div class="page-navigator">
+{% if paginator.previous_page %}
+{% if paginator.page == 2 %}
+<a href="/" class="previous">上一页</a>
+{% else %}
+<a href="/page/{{ paginator.previous_page }}/" class="previous">上一页</a>
+{% endif %}
+{% endif %}
+<span class="page-number">第 {{ paginator.page }}/{{ paginator.total_pages }} 页</span>
+{% if paginator.next_page %}
+<a href="/page/{{ paginator.next_page }}/" class="next">下一页</a>
+{% endif %}
+</div>
