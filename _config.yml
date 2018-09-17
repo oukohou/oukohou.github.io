@@ -1,14 +1,14 @@
 # Site settings
-title: 旷世的忧伤
-subtitle: Huoty's Blog
-keywords: huoty, konghy, 旷世的忧伤, 计算机技术, 感悟, Linux, Python, Web
-description: Huoty's blog，旷世的忧伤。专注于各类计算机技术，记录所感所想所思。分享 Linux 使用技巧，Python 开发技术，以及其他程序设计经验
+title: oukohou
+subtitle: oukohou's blog
+keywords: oukohou
+description: oukohou's blog。我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.konghy.cn" # 你的域名
-page_no_title: "旷世的忧伤 | Huoty's Blog" # 文章无标题时默认显示内容
+url: "http://www.oukohou.wang/" # 你的域名
+page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
-author: Huoty
-email: sudohuoty@gmail.com
+author: oukohou
+email: oukohou@outlook.com
 
 # Build settings
 permalink: /:year/:month/:day/:title/
@@ -46,7 +46,7 @@ menu:
     directory: guestbook/
     icon: icon-guestbook
   - page: 关于
-    directory: //konghy.cn
+    directory: assets/imgs/wechat_official_account.png
     icon: icon-about
   - page: 订阅
     directory: feed.xml
@@ -54,24 +54,15 @@ menu:
 
 # Link settings
 links: # 友情链接
-  - title: Huoty's Opus
-    url: http://opus.konghy.cn
+  - title: oukohou's github
+    url: https://github.com/oukohou
+#  - title:
+#    url: http://jekyllcn.com/
   - title: Jekyll 博客系统
     url: http://jekyllcn.com/
-  - title: 聚宽量化交易平台
-    url: https://www.joinquant.com/
-  - title: 晚晴幽草轩
-    url: http://jeffjade.com/
-  - title: 卢松松博客
-    url: http://lusongsong.com/
-  - title: 搜外SEO问答
-    url: http://ask.seowhy.com
+
 
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
-    url: https://github.com/kuanghy
-  - title: Git@OSC
-    url: https://git.oschina.net/kuanghy
-  - title: Coding
-    url: https://coding.net/u/konghy
+    url: https://github.com/oukohou
