@@ -44,7 +44,7 @@ $(document).ready(function() {
                 html += '</div>';
             }
         } else {
-            html += "<h4>您输入的关键词没有搜索结果，请更换关键词！ O(∩_∩)O~</h4>"
+            html += "<h4>Whoops,您输入的关键词没有搜索结果，请更换关键词！ O(∩_∩)O~</h4>"
         }
         $('.content_container').html(html);
         $('.content_container').show();
