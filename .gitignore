@@ -124,3 +124,10 @@ venv.bak/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
+/laboratory/
+laboratory/ali_pay.png
+laboratory/images_in_one_line.md
+laboratory/resize_image.py
+laboratory/wechat_official_account.png
+laboratory/wechat_pay.png
+/laboratory/__init__.py
