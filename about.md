@@ -10,6 +10,6 @@ permalink: /about/
 
 微信公众号：
 
-![wechat_official_account](./assets/imgs/wechat_official_account.png)
+![wechat_official_account](/assets/imgs/wechat_official_account.png)
 
 Scan and we'll see.

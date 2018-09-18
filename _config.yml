@@ -46,7 +46,7 @@ menu:
     directory: guestbook/
     icon: icon-guestbook
   - page: 关于
-    directory: about.md
+    directory: about/
     icon: icon-about
 #  - page: 订阅
 #    directory: feed.xml
