@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/essay" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/personlized_signature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/star_post_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/star_post_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+            <state relative-caret-position="330">
+              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -34,13 +31,36 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="personlized_signature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="personlized_signature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/widgets/personlized_signature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="44">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search_box_new" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/widgets/search_box_new">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="60" column="41" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-488">
+              <caret line="6" column="65" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="favicon.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/favicon.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -54,12 +74,17 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>favicon</find>
       <find>favi</find>
       <find>link</find>
       <find>site</find>
       <find>style</find>
       <find>tag</find>
+      <find>find_posts</find>
+      <find>data</find>
+      <find>json</find>
+      <find>favicon</find>
+      <find>apple-touch-icon.png</find>
+      <find>title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -93,9 +118,11 @@
         <option value="$PROJECT_DIR$/_site/donate/index.html" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_includes/widgets/star_post_list" />
-        <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_includes/widgets/personlized_signature" />
+        <option value="$PROJECT_DIR$/_includes/widgets/search_box_new" />
+        <option value="$PROJECT_DIR$/_layouts/base.html" />
+        <option value="$PROJECT_DIR$/_includes/plugins/share_button" />
       </list>
     </option>
   </component>
@@ -135,12 +162,6 @@
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="widgets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -158,6 +179,12 @@
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -302,20 +329,35 @@
       <option name="project" value="LOCAL" />
       <updated>1537241237583</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="change contents of sidebar.">
+      <created>1537247430635</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1537247430635</updated>
+    </task>
+    <task id="LOCAL-00015" summary="udpate personalized signature,share button, serach_box_new and base.html.">
+      <created>1537260232482</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1537260232482</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.501382" side_tool="true" weight="0.4380252" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50193477" side_tool="true" visible="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.498618" visible="true" weight="0.24474789" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49806523" visible="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.32983193" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.41281512" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25483692" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25483692" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -374,51 +416,14 @@
     <MESSAGE value="update several pictures and configures." />
     <MESSAGE value="update .config.yml, about.md and several images." />
     <MESSAGE value="add CNAME." />
-    <option name="LAST_COMMIT_MESSAGE" value="add CNAME." />
+    <MESSAGE value="change contents of sidebar." />
+    <MESSAGE value="udpate personalized signature,share button, serach_box_new and base.html." />
+    <option name="LAST_COMMIT_MESSAGE" value="udpate personalized signature,share button, serach_box_new and base.html." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tools/nginx-proxy.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
-          <caret line="7" column="8" lean-forward="true" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/pushm.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/runserver.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/supervisorapp.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="72" selection-start-line="1" selection-start-column="72" selection-end-line="1" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.scss" />
-    <entry file="file://$PROJECT_DIR$/_sass/_base.scss" />
-    <entry file="file://$PROJECT_DIR$/_sass/_layout.scss" />
-    <entry file="file://$PROJECT_DIR$/_includes/footer/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer/icon-github.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer/icon-github.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer/icon-twitter.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer/icon-twitter.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -433,14 +438,8 @@
     <entry file="file://$PROJECT_DIR$/_includes/plugins/fancybox">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/plugins/share_button">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html" />
     <entry file="file://$PROJECT_DIR$/_sass/_normalize.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/imgs/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/imgs/wechat_pay.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -566,12 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/imgs/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/widgets/category_list">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -586,9 +579,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/widgets/tags">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/widgets/tag_cloud">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -599,13 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
@@ -613,10 +596,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/post_toc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2574" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/tags">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/weibo_show">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/link_list">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/widgets/personlized_signature">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/data/posts.json">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/search_box_new">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="60" column="41" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/plugins/share_button">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="394" selection-start-line="1" selection-start-column="394" selection-end-line="1" selection-end-column="394" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/imgs/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/imgs/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/imgs/messages.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/imgs/wechat_official_account.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-488">
+          <caret line="6" column="65" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
         </state>
       </provider>
     </entry>
