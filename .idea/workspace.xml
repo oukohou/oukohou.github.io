@@ -4,11 +4,6 @@
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/laboratory/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/wechat_pay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/wechat_pay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/weixin_pay.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/zhifubao_pay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/ali_pay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donate.md" beforeDir="false" afterPath="$PROJECT_DIR$/donate.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/donate.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="320">
-                <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
+              <first_editor relative-caret-position="510">
+                <caret line="40" column="77" selection-start-line="40" selection-start-column="77" selection-end-line="40" selection-end-column="77" />
               </first_editor>
               <second_editor />
             </state>
@@ -367,21 +362,27 @@
       <option name="project" value="LOCAL" />
       <updated>1537260850568</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="resize several images to relatively smaller size, and update donate.md">
+      <created>1537263681020</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1537263681020</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5002764" side_tool="true" weight="0.32983193" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49806523" weight="0.24474789" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49806523" visible="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.32983193" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" visible="true" weight="0.32983193" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4997236" weight="0.32983193" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.41281512" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25483692" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25483692" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -443,7 +444,8 @@
     <MESSAGE value="change contents of sidebar." />
     <MESSAGE value="udpate personalized signature,share button, serach_box_new and base.html." />
     <MESSAGE value="delete favicon.ico and add favicon.png" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete favicon.ico and add favicon.png" />
+    <MESSAGE value="resize several images to relatively smaller size, and update donate.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="resize several images to relatively smaller size, and update donate.md" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -717,8 +719,8 @@
     <entry file="file://$PROJECT_DIR$/donate.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="320">
-            <caret line="45" column="62" selection-start-line="45" selection-start-column="62" selection-end-line="45" selection-end-column="62" />
+          <first_editor relative-caret-position="510">
+            <caret line="40" column="77" selection-start-line="40" selection-start-column="77" selection-end-line="40" selection-end-column="77" />
           </first_editor>
           <second_editor />
         </state>
