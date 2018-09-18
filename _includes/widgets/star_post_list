@@ -1,12 +1,6 @@
 <div class="widget">
     <div class="widget-title"><i class="icon-star"> 推荐文章</i></div>
     <ul class="post-list">
-        <li class="post-list-item"><a class="post-list-link" href="//opus.konghy.cn/shell-tutorial/">Shell 程序设计教程</a></li>
-        <li class="post-list-item"><a class="post-list-link" href="/2015/05/07/forget-isbest-teacher/">忘记是最好的老师</a></li>
-        <li class="post-list-item"><a class="post-list-link" href="/2016/09/26/python-optimize/">Python 性能优化技巧</a></li>
-        <li class="post-list-item"><a class="post-list-link" href="/2017/04/04/python-modules/">Python 模块收集</a></li>
-        <li class="post-list-item"><a class="post-list-link" href="/2016/09/01/linux-softwares/">Linux 下一些有用或者有趣的软件</a></li>
-        <li class="post-list-item"><a class="post-list-link" href="/2016/06/23/python3-new-feature/">Python3 的一些新特性</a></li>
-        <li class="post-list-item"><a class="post-list-link" href="/2016/06/14/python-bisect/">Python 二分查找与 bisect 模块</a></li>
+        <li class="post-list-item"><a class="post-list-link" href="https://blog.csdn.net/oukohou/article/details/82683821">Shell S3FD:Single Shot Scale-invariant Face Detector</a></li>
     </ul>
 </div>

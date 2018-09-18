@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="update .config.yml, about.md and several images.">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-github.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-twitter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/icon-twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/messages.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/messages.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/donate.md" beforeDir="false" afterPath="$PROJECT_DIR$/donate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/html5shiv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/respond.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/supervisorapp.conf" beforeDir="false" afterPath="$PROJECT_DIR$/tools/supervisorapp.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/essay" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/personlized_signature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/star_post_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/star_post_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,14 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="968">
-                <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -49,32 +28,17 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="902">
-              <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+            <state relative-caret-position="343">
+              <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="donate.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/donate.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-26">
-                <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="temp.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/temp.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="576">
-                <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="personlized_signature" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/widgets/personlized_signature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -95,6 +59,7 @@
       <find>link</find>
       <find>site</find>
       <find>style</find>
+      <find>tag</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -110,7 +75,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2018-08-28-welcome-to-jekyll.markdown" />
         <option value="$PROJECT_DIR$/feed.xml" />
@@ -123,11 +87,15 @@
         <option value="$PROJECT_DIR$/tools/supervisorapp.conf" />
         <option value="$PROJECT_DIR$/guestbook.md" />
         <option value="$PROJECT_DIR$/_site/about.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/temp.md" />
         <option value="$PROJECT_DIR$/donate.md" />
         <option value="$PROJECT_DIR$/_site/donate/index.html" />
+        <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/_includes/widgets/star_post_list" />
+        <option value="$PROJECT_DIR$/_layouts/base.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_includes/widgets/personlized_signature" />
       </list>
     </option>
   </component>
@@ -141,10 +109,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="78" />
-    <option name="y" value="49" />
-    <option name="width" value="1855" />
-    <option name="height" value="1056" />
+    <option name="x" value="77" />
+    <option name="y" value="4" />
+    <option name="width" value="1853" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -162,6 +130,22 @@
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,6 +153,17 @@
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
               <item name="donate" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,19 +295,26 @@
       <option name="project" value="LOCAL" />
       <updated>1537185830504</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add CNAME.">
+      <created>1537241237583</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1537241237583</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.501382" side_tool="true" weight="0.4380252" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.498618" weight="0.44537815" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.498618" visible="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.32983193" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" visible="true" weight="0.3077731" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.41281512" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25483692" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -371,43 +373,13 @@
     <MESSAGE value="change contents in Hello world." />
     <MESSAGE value="update several pictures and configures." />
     <MESSAGE value="update .config.yml, about.md and several images." />
-    <option name="LAST_COMMIT_MESSAGE" value="update .config.yml, about.md and several images." />
+    <MESSAGE value="add CNAME." />
+    <option name="LAST_COMMIT_MESSAGE" value="add CNAME." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/server/SimpleTornadoServer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3356">
-          <caret line="25" column="53" lean-forward="true" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/__main__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/server/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/create-post.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-232">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tools/githook-post-receive.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/tools/nginx-proxy.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-417">
@@ -464,14 +436,8 @@
     <entry file="file://$PROJECT_DIR$/_includes/plugins/share_button">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/widgets/category_list">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html" />
     <entry file="file://$PROJECT_DIR$/_sass/_normalize.scss" />
-    <entry file="file://$PROJECT_DIR$/assets/imgs/apple-touch-icon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/imgs/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -528,16 +494,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/about.md" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="968">
-            <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/tags/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -563,38 +519,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/footer.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/default.html" />
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="902">
-          <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor>
             <caret selection-end-line="6" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/donate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-26">
-            <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>
@@ -607,13 +536,87 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp.md">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="576">
-            <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+          <first_editor>
+            <caret column="16" selection-start-column="16" selection-end-column="16" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/donate.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-26">
+            <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="445">
+            <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/imgs/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/category_list">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/codehub_list">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/tags">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/tag_cloud">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/star_post_list">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="67" column="32" lean-forward="true" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/widgets/personlized_signature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
