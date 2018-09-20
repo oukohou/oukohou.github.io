@@ -62,6 +62,22 @@ links: # 友情链接
     url: http://jekyllcn.com/
 
 
+
+# Google Analytics
+ga_track_id: 'UA-126058460-1'            # Format: UA-xxxxxx-xx
+ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: Iv1.042c5629457a3528                            #生成的clientID
+  clientSecret: 9e20585681a8218bd4b628f9d5d7cd9a8562f8d5    #生成的clientSecret
+  repo: oukohou.github.io    #仓库名称
+  owner: kohou-wang    #github用户名
+  admin: kohou-wang
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
+
 # Code hub settings
 codehub: # 代码仓库
   - title: Github
