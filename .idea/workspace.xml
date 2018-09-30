@@ -29,8 +29,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4">
-              <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+            <state relative-caret-position="244">
+              <caret line="71" column="5" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -65,8 +65,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="261">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -97,6 +97,7 @@
       <find>apple-touch-icon.png</find>
       <find>gita</find>
       <find>j</find>
+      <find>ena</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -450,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1538278499506</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="fix several bugs.">
+      <created>1538279002397</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1538279002397</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -460,9 +468,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" weight="0.24474789" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" visible="true" weight="0.21533613" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.21533613" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26036483" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -532,7 +540,8 @@
     <MESSAGE value="update donate.md again." />
     <MESSAGE value="try adding comment function, not sure succeed or not." />
     <MESSAGE value="test comment function, not sure succeed or not." />
-    <option name="LAST_COMMIT_MESSAGE" value="test comment function, not sure succeed or not." />
+    <MESSAGE value="fix several bugs." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix several bugs." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -802,8 +811,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="49" column="20" lean-forward="true" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+        <state relative-caret-position="244">
+          <caret line="71" column="5" selection-start-line="71" selection-start-column="2" selection-end-line="71" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -817,8 +826,8 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="261">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
