@@ -80,7 +80,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: Iv1.042c5629457a3528                            #生成的clientID
   clientSecret: 9e20585681a8218bd4b628f9d5d7cd9a8562f8d5    #生成的clientSecret
-  repo: issue-support    #仓库名称
+  repo: issue-support.github.io    #仓库名称
   owner: kohou-wang    #github用户名
   admin: kohou-wang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
