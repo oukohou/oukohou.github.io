@@ -82,7 +82,7 @@ gitalk:
   clientSecret: c8c0726a177a1265fdec64a66626592757a9df8a    #生成的clientSecret
   repo: issue-support.github.io    #仓库名称
   owner: kohou-wang    #github用户名
-  admin: kohou-wang
+  admin: ['kohou-wang']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
