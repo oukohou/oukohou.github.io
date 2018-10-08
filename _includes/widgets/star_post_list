@@ -1,6 +1,6 @@
 <div class="widget">
     <div class="widget-title"><i class="icon-star"> 推荐文章</i></div>
     <ul class="post-list">
-        <li class="post-list-item"><a class="post-list-link" href="https://blog.csdn.net/oukohou/article/details/82683821">Shell S3FD:Single Shot Scale-invariant Face Detector</a></li>
+        <li class="post-list-item"><a class="post-list-link" href="https://blog.csdn.net/oukohou/article/details/82683821">S3FD:Single Shot Scale-invariant Face Detector</a></li>
     </ul>
 </div>
