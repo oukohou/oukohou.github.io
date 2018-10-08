@@ -84,6 +84,7 @@ gitalk:
   owner: kohou-wang    #github用户名
   admin: kohou-wang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  pagerDirection: first
 
 
 # Code hub settings
