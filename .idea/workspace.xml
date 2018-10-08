@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="78" column="7" lean-forward="true" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+            <state relative-caret-position="357">
+              <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -474,7 +475,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538962739304</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="change gitalk setting:clientID and clientSecret.">
+      <created>1538964606972</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1538964606972</updated>
+    </task>
+    <task id="LOCAL-00032" summary="change gitalk setting:admin's format.">
+      <created>1538964778714</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1538964778714</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -485,9 +500,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" weight="0.24474789" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" visible="true" weight="0.21533613" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.21533613" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26036483" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -562,7 +577,9 @@
     <MESSAGE value="fix gitalk bug,when commit using Pycharm, do not set &quot;Reformat code&quot; as true." />
     <MESSAGE value="change markdown parser to kramdown, and gitalk repo setting." />
     <MESSAGE value="change gitalk admin setting." />
-    <option name="LAST_COMMIT_MESSAGE" value="change gitalk admin setting." />
+    <MESSAGE value="change gitalk setting:clientID and clientSecret." />
+    <MESSAGE value="change gitalk setting:admin's format." />
+    <option name="LAST_COMMIT_MESSAGE" value="change gitalk setting:admin's format." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -850,8 +867,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="78" column="7" lean-forward="true" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+        <state relative-caret-position="357">
+          <caret line="84" column="19" lean-forward="true" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
         </state>
       </provider>
     </entry>
