@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="" />
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +29,8 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+            <state relative-caret-position="381">
+              <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -44,8 +47,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+            <state relative-caret-position="587">
+              <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -123,8 +126,8 @@
         <option value="$PROJECT_DIR$/_layouts/keynote.html" />
         <option value="$PROJECT_DIR$/_includes/widgets/star_post_list" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -524,7 +527,21 @@
       <option name="project" value="LOCAL" />
       <updated>1538984111397</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="change alternate account's name to kohouwang.">
+      <created>1538984542443</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1538984542443</updated>
+    </task>
+    <task id="LOCAL-00037" summary="change subtitle to 'oukohou blog'.">
+      <created>1538984701732</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1538984701732</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -534,10 +551,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.44537815" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.15021008" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.32983193" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.13612565" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.1355042" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2631288" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -589,8 +606,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update index.html and _config.yml" />
-    <MESSAGE value="change contents in welcome." />
     <MESSAGE value="change contents in Hello world." />
     <MESSAGE value="update several pictures and configures." />
     <MESSAGE value="update .config.yml, about.md and several images." />
@@ -614,7 +629,9 @@
     <MESSAGE value="change gitalk setting:admin's format." />
     <MESSAGE value="change star post list." />
     <MESSAGE value="gitalk setting:add pagerDirection." />
-    <option name="LAST_COMMIT_MESSAGE" value="gitalk setting:add pagerDirection." />
+    <MESSAGE value="change alternate account's name to kohouwang." />
+    <MESSAGE value="change subtitle to 'oukohou blog'." />
+    <option name="LAST_COMMIT_MESSAGE" value="change subtitle to 'oukohou blog'." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -875,6 +892,13 @@
     <entry file="file://$PROJECT_DIR$/_includes/plugins/comments_duoshuuo">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="727">
+          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -885,22 +909,15 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="45" column="11" lean-forward="true" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="727">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+        <state relative-caret-position="587">
+          <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="381">
+          <caret line="82" column="21" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
         </state>
       </provider>
     </entry>
