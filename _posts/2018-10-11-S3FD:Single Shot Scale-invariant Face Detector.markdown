@@ -2,23 +2,24 @@
 layout: post
 title:  "论文阅读_人脸检测：S3FD: Single Shot Scale-invariant Face Detector"
 date:   2018-10-11 16:14:28 +0800--
-categories: papers face_detection Machine_Leanring
+categories: papers face_detection
+tags:   machine_learning face_detection S3FD papers
 ---
 
 > 写在前面：记录一下论文阅读的收获，不然怕久远之后，就不记得了～
 
 ----------
 ### 1. Sum up
-S3FD是2017年发表在[arXiv上的一篇文章](https://arxiv.org/abs/1708.05237)，文如其名，讲的是一个端到端的具有尺度不变性的人脸检测框架，论文主要创新点在于：
+S3FD是2017年发表在[arXiv上的一篇文章](https://arxiv.org/abs/1708.05237)，文如其名，讲的是一个端到端的具有尺度不变性的人脸检测框架，论文主要创新点在于：  
 
  - 提出了一个适用于不同尺度大小的人脸的检测框架；
  - 通过锚框匹配策略改进了小尺度人脸的召回率；
  - 通过“最大者胜(max-out)”的背景标签降低了假阳性率(FPR)；
  
-网络架构如图所示：
- ![S3FD‘s architecture](https://img-blog.csdn.net/20180912202257320?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+网络架构如图所示：  
+ ![S3FD‘s architecture](https://img-blog.csdn.net/20180912202257320?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
 
-----------
+---
 
 ### 2. What's up？
 论文首先针对三个创新点抛出了基于锚框检测算法的几个弊病：
@@ -30,14 +31,13 @@ S3FD是2017年发表在[arXiv上的一篇文章](https://arxiv.org/abs/1708.0523
  - 如图(d)所示，如果想要检测到小尺度人脸，相对于大尺度人脸，那么就注定会有更多的小尺度、不包含人脸的背景锚框。
  以上几点是论文所提出的问题，也就是论文创新点所重点关注和改善的几个地方，下面一一道来。
  
-----------
+---
 ### 3. S3FD
 #### 3.1 怎么能让网络适用于不同尺度的人脸？
-答案很简单：既然不同尺度的人脸在同一层上的特征区域不同，那么又何必强求呢？道不同，不相为谋，在不同层上分别进行检测就是了。
+答案很简单：既然不同尺度的人脸在同一层上的特征区域不同，那么又何必强求呢？道不同，不相为谋，在不同层上分别进行检测就是了。  
 当然，理想很丰满。为了实现这一理想，就要做些骨感的工作：
-
-----------
-首先要建立一个很骨感的网络，也就是开头那张图。以防大家一下就忘了，再放一次：
+ 
+首先要建立一个很骨感的网络，也就是开头那张图。以防大家一下就忘了，再放一次：  
 	![S3FD](https://img-blog.csdn.net/20180912204630110?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 这张图有什么玄机呢？
@@ -101,13 +101,13 @@ OK，那么关键的，这个长、宽到底应该是多少呢？取决于两个
 
 
 ----------
-以及个人私货时间：  
-github 	:[oukohou](https://github.com/oukohou)  
-my site:[oukohou.wang](http://www.oukohou.wang/)  
-e - mail:[oukohou@outlook.com](oukohou@outlook.com)  
-wechat official account: oukohou  
+### 6. 个人私货时间：  
+- github 	:[oukohou](https://github.com/oukohou)  
+- my site:[oukohou.wang](http://www.oukohou.wang/)  
+- e - mail:[oukohou@outlook.com](oukohou@outlook.com)  
+- wechat official account: oukohou  
 ![oukohou](https://img-blog.csdn.net/20180913101524822?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
-Scan and we'll see.
+    Scan and we'll see.
 
 
 regards.  
