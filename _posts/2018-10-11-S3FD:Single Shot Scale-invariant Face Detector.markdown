@@ -17,13 +17,13 @@ S3FD是2017年发表在[arXiv上的一篇文章](https://arxiv.org/abs/1708.0523
  - 通过“最大者胜(max-out)”的背景标签降低了假阳性率(FPR)；
  
 网络架构如图所示：  
- ![S3FD‘s architecture](https://img-blog.csdn.net/20180912202257320?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+ ![S3FD‘s architecture](https://imgse.com/i/5T4xQd)  
 
 ---
 
 ### 2. What's up？
 论文首先针对三个创新点抛出了基于锚框检测算法的几个弊病：
-![drawbacks of anchor-based methods](https://img-blog.csdn.net/20180912202837726?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+![drawbacks of anchor-based methods](https://imgse.com/i/5T42aR)
 
  - 如图(a)所示，对于检测层网络来说，步长对应的感受野较大，小尺度人脸能够表达出的特征少之又少；
  - 如图(b)所示，锚框与感受野的大小不能很好的匹配，同时锚框、感受野都不能很好的匹配到小尺度人脸区域；
@@ -38,7 +38,7 @@ S3FD是2017年发表在[arXiv上的一篇文章](https://arxiv.org/abs/1708.0523
 当然，理想很丰满。为了实现这一理想，就要做些骨感的工作：
  
 首先要建立一个很骨感的网络，也就是开头那张图。以防大家一下就忘了，再放一次：  
-	![S3FD](https://img-blog.csdn.net/20180912204630110?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
+	![S3FD](https://imgse.com/i/5T4xQd)
 
 这张图有什么玄机呢？
 使劲瞅，用力看：
@@ -60,7 +60,7 @@ OK，那么关键的，这个长、宽到底应该是多少呢？取决于两个
 
  - 有效感受野
 	 啥叫有效感受野？看图说话：  
-	 ![effective receptive field](https://img-blog.csdn.net/2018091221245410?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+	 ![effective receptive field](https://imgse.com/i/5T4fge)  
   只看图(a)，对于整个黑色方框来说，其整体是一个理论上的能够对最终输出产生影响的感受野，也就是大家通常意义上所理解的感受野，真~感受野，那么有效感受野就是图中心的白色点点，这些是实际上能够对最终输出产生影响的区域，也就是所谓的有效感受野，真～真～感受野。因此，在图(b)中，黑色虚线框是正常的感受野，蓝色虚线圆就是我们的有效感受野，而红色实线框就应该是我们的锚框的大小；
  - 等比例间距原则(Equal-proportion interval principle)
 这又是啥？不要着急，君且安坐，听我一言：
@@ -72,7 +72,7 @@ OK，那么关键的，这个长、宽到底应该是多少呢？取决于两个
 所谓锚框匹配，也就是在训练过程中如何确定哪些锚框是匹配到人脸了的，而哪些没有。
 一般来说，锚框匹配首先匹配那些与标记好的人脸有最好IOU交并比的锚框，然后匹配那些与任意人脸的IOU交并比大于某个临界值的锚框。有点绕，但确实如此。就是先按照预先标记好的人脸区域匹配最好的锚框，然后从众多生成的锚框区域中来匹配次好的锚框。
 但是陈独秀同志又有话说了，看图：  
-![scale compensation](https://img-blog.csdn.net/20180913093956121?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+![scale compensation](https://imgse.com/i/5T4gXY)  
 我们知道，众多图像中的人脸区域大小应该是连续分布的，但我们的锚框大小却是一些固定的值。图(a)中蓝虚线，当锚框是固定值(16, 32, 64, 128, 256, 512)的时候，可以看到，与这些值都不接近的人脸区域不能够很好的被匹配到，尤其是小人脸部分，效果微乎其微。
 据此，文章提出了尺度补偿锚框匹配策略：
 
@@ -82,7 +82,7 @@ OK，那么关键的，这个长、宽到底应该是多少呢？取决于两个
 #### 3.3 “最大者胜”的背景标签(Max-out background label)  
 首先，啥是背景标签？很简单，对于人脸检测，锚框区域如果包含人脸，那么就是正例，如果不包含人脸，那么就是负例，也即背景标签。  
 对于基于锚框的检测方法来说，有一个问题：  
-![anchors numbers](https://img-blog.csdn.net/20180913095714516?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+![anchors numbers](https://imgse.com/i/5T4Seq)  
 比如本文中所述的方法，对于一张640*640的图像，其总共产生了34,125个锚框！仅conv3_3就贡献了超过75%的尺度大小为16×16的锚框！  
 这可如何是好呀？  
 于是就到了3.2中图(b)的做法了：对于每个匹配到的锚框，同时预测其一系列背景锚框，然后选择其中置信率最高(max)的一个作为负例，也即Max-out。其实这就是一种局部优化方法，以此来减少假正率。  
@@ -91,7 +91,7 @@ OK，那么关键的，这个长、宽到底应该是多少呢？取决于两个
 以上，就是S3FD如何提出了一个丰满的理想，并一步一步骨感地实现它的过程。  
 论文在提出之时在各大人脸检测榜上刷出了较好的成绩，wider face、FDDB、AFW等，当然，截止到现在(2018-09-13 10:09:06)是又被其他方法给顶了下去。果然是打江山容易，守江山难啊～～
 最后放上一张大家都爱放的检测效果图，也是S3FD论文中的检测效果图：  
-![finding 853 faces](https://img-blog.csdn.net/20180913101157304?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)    
+![finding 853 faces](https://imgse.com/i/5T4nJi)    
 这张图据说共有1000张脸，S3FD方法检测出了853张。  
 不要惊奇，不要讶异，百度的Pyramidbox检测出了880张～～当然，这是后话，不在本文讨论。  
 
@@ -106,7 +106,7 @@ OK，那么关键的，这个长、宽到底应该是多少呢？取决于两个
 - my site:[oukohou.wang](http://www.oukohou.wang/)  
 - e - mail:[oukohou@outlook.com](oukohou@outlook.com)  
 - wechat official account: oukohou  
-![oukohou](https://img-blog.csdn.net/20180913101524822?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L291a29ob3U=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)  
+![oukohou](https://imgse.com/i/5T47fr)  
     Scan and we'll see.
 
 
