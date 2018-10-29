@@ -160,13 +160,11 @@ ImportError: xxx/caffe/_caffe.so: undefined symbol: _ZN5caffe3NetIfE21CopyTraine
 
 solution:  
     这个错误也是非常蛋疼的。  
-    我百度了超级多，一看就是互相复制粘贴的，都说要把Makefile.config里的  
-    
-    ```text
-    # Uncomment to support layers written in Python (will link against Python libs)
-    # WITH_PYTHON_LAYER := 1
-    ```
-    
+    我百度了超级多，一看就是互相复制粘贴的，都说要把Makefile.config里的     
+```text
+# Uncomment to support layers written in Python (will link against Python libs)
+# WITH_PYTHON_LAYER := 1
+```
 这行给取消注释掉。
 但其实我在[4.2](#4.2)中已经设置了，却依然出现这个错误！    
 那我是怎么解决的呢？  
@@ -174,10 +172,10 @@ solution:
 应该是因为我重复安装了一遍？  
 或者，是幸运女神的眷顾？  
 反正这个问题我不知道如何解决掉的。。。    
-想起了那张经典图：  
-![but why?](https://s1.ax2x.com/2018/10/26/5Xp4rR.jpg)
-这里就有点对不起各位看官了，为做补偿，贴出一个官方[issue](https://github.com/BVLC/caffe/issues/3834)。  
-有心的看官应该注意到了，这几行的偶数行都押韵！(卖个小萌)  
+想起了那张经典图：    
+![but why?](https://s1.ax2x.com/2018/10/26/5Xp4rR.jpg)  
+这里就有点对不起各位看官了，为做补偿，贴出一个官方[issue](https://github.com/BVLC/caffe/issues/3834)。    
+有心的看官应该注意到了，这几行的奇数行都押韵！(卖个小萌)  
     
 ### 6. The end
 综上，就是我如何与caffe斗智斗勇的过程。
