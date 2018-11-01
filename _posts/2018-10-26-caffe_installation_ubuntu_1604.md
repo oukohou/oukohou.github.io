@@ -95,7 +95,7 @@ cp Makefile.config.example Makefile.config
  虽然python核心团队计划在2020年就要停止支持Python2了。
  但是，你都决定装caffe了，还谈这些支持不支持有啥意义呢？
  所以，为免不必要的麻烦，奉劝看官还是用python2装caffe吧。
- 当然，如果你用python3的话，记得修改Makefile.config里对应的行数，具体[百度](https://www.google.com/?hl=zh_cn)。
+ 当然，如果你用python3的话，记得修改Makefile.config里对应的行数，具体百度。
 """
 ```
 现在我们的命令行还是在刚刚下载的caffe目录下，然后：

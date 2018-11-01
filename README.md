@@ -44,6 +44,19 @@ Maupassant 最初是由 [Cho](https://github.com/pagecho/) 大神为 [Typecho](h
 + Ghost: https://github.com/LjxPrime/maupassant/
 + Jekyll: https://github.com/alafighting/maupassant-jekyll/
 
+
+## A note:
+Note that several html,txt files in root dir:  
+-  60e2c4178f1d12527f7e5b00a80d0f2f.txt  
+- baidu_verify_mDTcGWbBLX.html  
+- google23b03f783980f31a.html  
+- sogousiteverification.txt  
+These files are for verifications of 360, google, baidu and sougou.
+Such that these search engine will index my blog site.  
+These files vary from one to one. Remember to change accordingly for your own site.
+
+
+**Any star, fork or [donation]() is highly appreciated!!!**
 ------
 oukohou(<oukohou@outlook.com>)<br>
 2018-09-17
