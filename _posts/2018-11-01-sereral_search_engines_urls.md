@@ -2,7 +2,7 @@
 layout: post
 title:  "各个搜索引擎的提交个人网站地址的入口"
 date:   2018-11-01 20:57:09 +0800--
-categories: 
+categories: memo installation
 tags:   search_engine baidu google 360 sougou
 ---
 有了自己的域名，搭建好了自己的个人博客站点，就万事俱备了么？  
@@ -20,7 +20,7 @@ tags:   search_engine baidu google 360 sougou
 - 谷歌  ： [https://www.google.com/webmasters/tools/home?hl=en](https://www.google.com/webmasters/tools/home?hl=en)  
 - 搜狗  ： [http://zhanzhang.sogou.com/index.php/dashboard/index](http://zhanzhang.sogou.com/index.php/dashboard/index)    
 - 360　： [http://info.so.360.cn/site_submit.html](http://info.so.360.cn/site_submit.html)  
-- Bing  : [https://www.bing.com/toolbox/webmaster/](https://www.bing.com/toolbox/webmaster/)  
+- Bing  ： [https://www.bing.com/toolbox/webmaster/](https://www.bing.com/toolbox/webmaster/)  
 差不多了，这些就够用的了。  
 吐槽一句，360不知是做安全做的安全意识太高了还是怎么的，这么多网站提交收录，就360一家显示我提交不成功～～～sigh……
 

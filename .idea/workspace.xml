@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +21,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="414">
-                <caret line="58" column="59" lean-forward="true" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+              <first_editor relative-caret-position="396">
+                <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               </first_editor>
               <second_editor />
             </state>
@@ -35,8 +33,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="208">
-                <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+              <first_editor relative-caret-position="326">
+                <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
               </first_editor>
               <second_editor />
             </state>
@@ -246,20 +244,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00004" summary="update index.html and _config.yml">
-      <created>1536630294085</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1536630294085</updated>
-    </task>
-    <task id="LOCAL-00005" summary="change contents in welcome.">
-      <created>1536630573565</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1536630573565</updated>
     </task>
     <task id="LOCAL-00006" summary="change contents in Hello world.">
       <created>1536630858760</created>
@@ -590,7 +574,21 @@
       <option name="project" value="LOCAL" />
       <updated>1540871639719</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="update readme, and add a post.">
+      <created>1541079476675</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1541079476675</updated>
+    </task>
+    <task id="LOCAL-00054" summary="update several links.">
+      <created>1541079703634</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1541079703634</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -604,7 +602,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.33193278" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.2657563" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24156992" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16970702" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -655,8 +653,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix gitalk bug:do not reformat the code block using ctrl+alt+L." />
-    <MESSAGE value="fix gitalk bug,when commit using Pycharm, do not set &quot;Reformat code&quot; as true." />
     <MESSAGE value="change markdown parser to kramdown, and gitalk repo setting." />
     <MESSAGE value="change gitalk admin setting." />
     <MESSAGE value="change gitalk setting:clientID and clientSecret." />
@@ -680,7 +676,9 @@
     <MESSAGE value="update sougou verify html." />
     <MESSAGE value="add Bing verify html." />
     <MESSAGE value="update 360 verify txt." />
-    <option name="LAST_COMMIT_MESSAGE" value="update 360 verify txt." />
+    <MESSAGE value="update readme, and add a post." />
+    <MESSAGE value="update several links." />
+    <option name="LAST_COMMIT_MESSAGE" value="update several links." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -989,8 +987,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
-            <caret line="58" column="59" lean-forward="true" selection-start-line="58" selection-start-column="59" selection-end-line="58" selection-end-column="59" />
+          <first_editor relative-caret-position="396">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           </first_editor>
           <second_editor />
         </state>
@@ -999,8 +997,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
+          <first_editor relative-caret-position="326">
+            <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
           </first_editor>
           <second_editor />
         </state>
