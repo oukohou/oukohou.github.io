@@ -32,18 +32,6 @@ jekyll build
 jekyll server
 ```
 
-## Maupassant 在不同框架下的支持
-
-Maupassant 最初是由 [Cho](https://github.com/pagecho/) 大神为 [Typecho](http://typecho.org/) 平台设计开发的一套响应式模板，体积只有20KB，在各种尺寸的设备上表现出色。由于其简洁大气的风格受到许多用户喜爱，目前也已经被移植到了多个平台上，例如：
-
-+ Typecho：https://github.com/pagecho/maupassant/
-+ Octopress：https://github.com/pagecho/mewpassant/
-+ Farbox：https://github.com/pagecho/Maupassant-farbox/
-+ Wordpress：https://github.com/iMuFeng/maupassant/
-+ Hexo: https://github.com/icylogic/maupassant-hexo/
-+ Ghost: https://github.com/LjxPrime/maupassant/
-+ Jekyll: https://github.com/alafighting/maupassant-jekyll/
-
 
 ## A note:
 Note that several html,txt files in root dir:  
