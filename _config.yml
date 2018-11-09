@@ -4,7 +4,7 @@ subtitle: oukohou blog
 keywords: oukohou
 description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.oukohou.wang/" # 你的域名
+url: "https://www.oukohou.wang/" # 你的域名
 page_no_title: "oukohou's blog" # 文章无标题时默认显示内容
 beian: # "备案号"
 author: oukohou
@@ -62,11 +62,13 @@ menu:
 
 # Link settings
 links: # 友情链接
+  - tital: ccslience's blog
+    url: http://ccslience.oukohou.wang/
   - title: oukohou's github
     url: https://github.com/oukohou
 #  - title:
 #    url: http://jekyllcn.com/
-  - title: Jekyll 博客系统
+  - title: Jekyll blog system
     url: http://jekyllcn.com/
 
 
