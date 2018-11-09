@@ -44,7 +44,7 @@ Such that these search engine will index my blog site.
 These files vary from one to one. Remember to change accordingly for your own site.  
 **See my [this blog](https://www.oukohou.wang/2018/11/01/sereral_search_engines_urls/) for details.**
 
-**Any star, fork or [donation]() is highly appreciated!!!**
+**Any star, fork or [donation](https://www.oukohou.wang/donate/) is highly appreciated!!!**
 ------
 oukohou(<oukohou@outlook.com>)<br>
 2018-09-17
