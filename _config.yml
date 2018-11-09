@@ -62,7 +62,8 @@ menu:
 
 # Link settings
 links: # 友情链接
-  - tital: ccslience's blog
+
+  - title: ccslience's blog
     url: http://ccslience.oukohou.wang/
   - title: oukohou's github
     url: https://github.com/oukohou
