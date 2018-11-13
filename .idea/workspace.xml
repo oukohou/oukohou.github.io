@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comment_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/comment_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +40,8 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+            <state relative-caret-position="250">
+              <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -329,27 +327,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00016" summary="delete favicon.ico and add favicon.png">
-      <created>1537260850568</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1537260850568</updated>
-    </task>
-    <task id="LOCAL-00017" summary="resize several images to relatively smaller size, and update donate.md">
-      <created>1537263681020</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1537263681020</updated>
-    </task>
-    <task id="LOCAL-00018" summary="fix bug in donate.md.">
-      <created>1537263789028</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1537263789028</updated>
     </task>
     <task id="LOCAL-00019" summary="fix bug in donate.md again.">
       <created>1537263872426</created>
@@ -673,7 +650,28 @@
       <option name="project" value="LOCAL" />
       <updated>1542074291134</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="test Valine config.">
+      <created>1542074627574</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1542074627574</updated>
+    </task>
+    <task id="LOCAL-00066" summary="test Valine config.">
+      <created>1542074714684</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1542074714684</updated>
+    </task>
+    <task id="LOCAL-00067" summary="test Valine config.">
+      <created>1542074776423</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1542074776423</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -738,7 +736,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change subtitle to 'oukohou blog'." />
     <MESSAGE value="change alternate account's repo name." />
     <MESSAGE value="create and change alternate account's repo name to:kohouwang.github.io." />
     <MESSAGE value="add a post:S3FD." />
@@ -763,7 +760,8 @@
     <MESSAGE value="fix a url." />
     <MESSAGE value="test comment Valine." />
     <MESSAGE value="update Valine config." />
-    <option name="LAST_COMMIT_MESSAGE" value="update Valine config." />
+    <MESSAGE value="test Valine config." />
+    <option name="LAST_COMMIT_MESSAGE" value="test Valine config." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1083,8 +1081,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
+        <state relative-caret-position="250">
+          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="21" />
         </state>
       </provider>
     </entry>
