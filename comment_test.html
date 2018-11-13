@@ -1,28 +1,103 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>comment_test</title>
-    <script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-    <script src="https://github.com/kohouwang/issue-support/blob/master/dist/Valine.min.js"></script>
-</head>
 
-<body>
-<div id="valine_comment"  class="comment"></div>
-<p>demo_test2</p>
+    <meta charset="utf-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+
+    <title>拼凑</title>
+
+
+    <link rel="alternate" type="application/rss+xml" title="Deserts" href="https://panjunwen.com/rss/"/>
+
+</head>
+<body class="post-template tag-qian-duan tag-blog tag-zhe-teng">
+
+<header id="header">
+    <div class="body-container">
+
+    </div>
+</header>
+
+
+<main class="layout">
+
+    <section class="post-full">
+        <div class="body-container">
+            <article class="post post tag-qian-duan tag-blog tag-zhe-teng ">
+                <header class="post-title-position-box  ">
+                    <h1 class="post-header-title">
+                        拼凑
+                    </h1>
+                </header>
+
+
+            </article>
+        </div>
+    </section>
+
+    <section class="post-comments">
+        <div class="body-container ">
+            <div id="disqus_thread"></div>
+        </div>
+    </section>
+</main>
+
+<script type="text/javascript" src="//cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.fitvids.js?v=e40e473094"></script>
+
+
+<script src="//cloud.panjunwen.com/prism-default.js" type="text/javascript"></script>
+<script src="//cloud.panjunwen.com/av-min.js" type="text/javascript"></script>
+<script src="/assets/js/Valine.min.js?v=e40e473094" type="text/javascript"></script>
+<script src="/assets/js/jquery.fitvids.js?v=e40e473094" type="text/javascript"></script>
+
 <script>
     new Valine({
         av: AV,
-        el: '#valine_comment',
-        // smiles_url: '/smiles',
-        app_id: 'K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz',
-        app_key: 'AAsHbwVm8ofKFJ6ghGqqrXSU',
-        placeholder: '老司机来一发吧 O(∩_∩)O~~'
+        el: '#disqus_thread',
+        emoticon_url: 'https://cloud.panjunwen.com/alu',
+        emoticon_list: ["吐.png", "喷血.png", "狂汗.png", "不说话.png", "汗.png", "坐等.png", "献花.png", "不高兴.png", "中刀.png", "害羞.png", "皱眉.png", "小眼睛.png", "中指.png", "尴尬.png", "瞅你.png", "想一想.png", "中枪.png", "得意.png", "肿包.png", "扇耳光.png", "亲亲.png", "惊喜.png", "脸红.png", "无所谓.png", "便便.png", "愤怒.png", "蜡烛.png", "献黄瓜.png", "内伤.png", "投降.png", "观察.png", "看不见.png", "击掌.png", "抠鼻.png", "邪恶.png", "看热闹.png", "口水.png", "抽烟.png", "锁眉.png", "装大款.png", "吐舌.png", "无奈.png", "长草.png", "赞一个.png", "呲牙.png", "无语.png", "阴暗.png", "不出所料.png", "咽气.png", "期待.png", "高兴.png", "吐血倒地.png", "哭泣.png", "欢呼.png", "黑线.png", "喜极而泣.png", "喷水.png", "深思.png", "鼓掌.png", "暗地观察.png"],
+        app_id: '21b4bbmhlLq8MNwsqNie33OY-gzGzoHsz',
+        app_key: 'yJIzuFTFbl8b7onVYAkkN3iN',
+        placeholder: 'Write a Comment'
     });
+
+</script>
+<script>
+    $(function () {
+        var $postContent = $(".post-content");
+        $postContent.fitVids();
+    });
+</script>
+
+
+<script>
+    if (window.location.hash) {
+        var checkExist = setInterval(function () {
+            if ($(window.location.hash).length) {
+                $('html, body').animate({scrollTop: $(window.location.hash).offset().top - 90}, 1000);
+                clearInterval(checkExist);
+            }
+        }, 100);
+    }
 </script>
 </body>
 </html>
+
+
+<!--<body>-->
+<!--<div id="valine_comment"  class="comment"></div>-->
+<!--<p>demo_test2</p>-->
+<!--<script>-->
+<!--new Valine({-->
+<!--av: AV,-->
+<!--el: '#valine_comment',-->
+<!--// smiles_url: '/smiles',-->
+<!--app_id: 'K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz',-->
+<!--app_key: 'AAsHbwVm8ofKFJ6ghGqqrXSU',-->
+<!--placeholder: '老司机来一发吧 O(∩_∩)O~~'-->
+<!--});-->
+<!--</script>-->
+<!--</body>-->
 
