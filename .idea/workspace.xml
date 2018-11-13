@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/comment_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/comment_test.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,17 +33,17 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6953">
-              <caret line="330" selection-start-line="330" selection-end-line="330" />
+            <state relative-caret-position="263">
+              <caret line="368" selection-start-line="368" selection-end-line="368" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
+            <state relative-caret-position="242">
+              <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -74,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment_test.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="comment_test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comment_test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <state relative-caret-position="198">
+              <caret line="9" column="101" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="101" />
             </state>
           </provider>
         </entry>
@@ -175,12 +176,12 @@
         <option value="$PROJECT_DIR$/guestbook.md" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_site/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/laboratory/comment_test.html" />
         <option value="$PROJECT_DIR$/comment_test.html" />
+        <option value="$PROJECT_DIR$/_layouts/base.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
   </component>
@@ -328,13 +329,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00015" summary="udpate personalized signature,share button, serach_box_new and base.html.">
-      <created>1537260232482</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1537260232482</updated>
     </task>
     <task id="LOCAL-00016" summary="delete favicon.ico and add favicon.png">
       <created>1537260850568</created>
@@ -672,7 +666,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542074094382</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="update Valine config.">
+      <created>1542074291134</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1542074291134</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -683,10 +684,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.3329832" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.3329832" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.42331934" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1840796" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1840796" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -1003,13 +1004,6 @@
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6953">
-          <caret line="330" selection-start-line="330" selection-end-line="330" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1069">
@@ -1049,13 +1043,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="79" column="23" selection-start-line="79" selection-start-column="23" selection-end-line="79" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1082,8 +1069,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comment_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        <state relative-caret-position="198">
+          <caret line="9" column="101" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="9" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="67" column="9" selection-start-line="67" selection-start-column="9" selection-end-line="67" selection-end-column="9" />
         </state>
       </provider>
     </entry>
