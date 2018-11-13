@@ -28,20 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="368" selection-start-line="368" selection-end-line="368" />
+            <state relative-caret-position="534">
+              <caret line="389" column="10" lean-forward="true" selection-start-line="389" selection-start-column="10" selection-end-line="389" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+            <state relative-caret-position="132">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -327,27 +327,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00022" summary="try adding comment function, not sure succeed or not.">
-      <created>1537420343723</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1537420343723</updated>
-    </task>
-    <task id="LOCAL-00023" summary="test comment function, not sure succeed or not.">
-      <created>1538278499506</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1538278499506</updated>
-    </task>
-    <task id="LOCAL-00024" summary="fix several bugs.">
-      <created>1538279002397</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1538279002397</updated>
     </task>
     <task id="LOCAL-00025" summary="fix gitalk bug:do not reformat the code block using ctrl+alt+L.">
       <created>1538279254989</created>
@@ -671,7 +650,28 @@
       <option name="project" value="LOCAL" />
       <updated>1542075620388</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="test Valine config.">
+      <created>1542076191696</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1542076191697</updated>
+    </task>
+    <task id="LOCAL-00072" summary="test Valine config.">
+      <created>1542076299639</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1542076299639</updated>
+    </task>
+    <task id="LOCAL-00073" summary="test Valine config.">
+      <created>1542076622019</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1542076622019</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -682,10 +682,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.3329832" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.16596639" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.42331934" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1840796" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1840796" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -1072,17 +1072,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="368" selection-start-line="368" selection-end-line="368" />
+        <state relative-caret-position="132">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="66" column="13" lean-forward="true" selection-start-line="66" selection-start-column="13" selection-end-line="66" selection-end-column="13" />
+        <state relative-caret-position="534">
+          <caret line="389" column="10" lean-forward="true" selection-start-line="389" selection-start-column="10" selection-end-line="389" selection-end-column="10" />
         </state>
       </provider>
     </entry>
