@@ -94,3 +94,14 @@ gitalk:
 codehub: # 代码仓库
   - title: Github
     url: https://github.com/oukohou
+
+
+valine:
+  enable: true
+  appid:  your app id
+  appkey: your app key
+  notify: false # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: false # Verification code
+  placeholder: ヾﾉ≧∀≦)o来啊，快活啊!
+  guest_info: nick,mail,link
+  pageSize: 10
