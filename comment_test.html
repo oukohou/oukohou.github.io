@@ -5,18 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>comment_test</title>
+    <script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
     <script src="https://github.com/kohouwang/issue-support/blob/master/dist/Valine.min.js"></script>
-    <script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </head>
 
 <body>
-<div class="comment"></div>
+<div id="valine_comment"  class="comment"></div>
 <p>demo_test</p>
 <script>
     new Valine({
         av: AV,
-        el: '.comment',
+        el: '#valine_comment',
         // smiles_url: '/smiles',
         app_id: 'K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz',
         app_key: 'AAsHbwVm8ofKFJ6ghGqqrXSU',
