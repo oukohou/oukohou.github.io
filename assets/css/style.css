@@ -1005,3 +1005,58 @@ table tr:nth-child(2n) {
         overflow: auto;
     }
 }
+
+
+/*.valine_comment {*/
+          /*position: relative;*/
+          /*p {*/
+            /*word-wrap: break-word;*/
+            /*white-space: pre-wrap;*/
+            /*word-break: break-all;*/
+            /*text-align: justify;*/
+            /*line-height: 1.8;*/
+          /*}*/
+          /*pre {*/
+            /*overflow: auto;*/
+            /*padding: 6px 10px;*/
+            /*word-wrap: break-word;*/
+            /*color: #555;*/
+            /*background: #f5f2f2;*/
+            /*border-radius: 3px;*/
+            /*font-size: .875rem;*/
+            /*margin: 5px 0;*/
+          /*}*/
+          /*&.expand {*/
+            /*cursor: pointer;*/
+            /*max-height: 11.25rem;*/
+            /*overflow: hidden;*/
+            /*&:before {*/
+                /*display: block;*/
+                /*content: "";*/
+                /*position: absolute;*/
+                /*width: 100%;*/
+                /*left: 0;*/
+                /*top: 0;*/
+                /*bottom: 3.15rem;*/
+                /*pointer-events: none;*/
+                /*background: linear-gradient(180deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, .8));*/
+            /*}*/
+            /*&:after {*/
+                /*display: block;*/
+                /*content: "展开       ";*/
+                /*text-align: center;*/
+                /*color: #828586;*/
+                /*position: absolute;*/
+                /*width: 100%;*/
+                /*height: 3.15rem;*/
+                /*line-height: 3.15rem;*/
+                /*left: 0;*/
+                /*bottom: 0;*/
+                /*pointer-events: none;*/
+                /*background: rgba(255, 255, 255, .9);*/
+            /*}*/
+          /*}*/
+        /*}*/
+
+
+    /**/
