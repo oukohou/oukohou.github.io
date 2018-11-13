@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comment_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/comment_test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,17 +33,17 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7898">
+            <state relative-caret-position="268">
               <caret line="359" selection-start-line="359" selection-end-line="359" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1276">
-              <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
+            <state relative-caret-position="374">
+              <caret line="59" column="16" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -74,11 +75,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comment_test.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="comment_test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comment_test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state relative-caret-position="594">
+              <caret line="438" column="7" selection-start-line="438" selection-start-column="7" selection-end-line="438" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#section#0;n#article#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -88,6 +89,15 @@
                 <element signature="n#style#0;n#a#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#15391#15397#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="28" column="21" selection-start-line="28" selection-end-line="28" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -125,7 +135,6 @@
       <find>duos</find>
       <find>foc</find>
       <find>oukohou</find>
-      <find>comment</find>
       <find>pure-u-1</find>
       <find>disqus</find>
       <find>comment_container</find>
@@ -135,6 +144,7 @@
       <find>dis</find>
       <find>disqus-thread</find>
       <find>section</find>
+      <find>comment</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -188,10 +198,10 @@
         <option value="$PROJECT_DIR$/laboratory/comment_test.html" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_site/assets/css/style.css" />
         <option value="$PROJECT_DIR$/comment_test.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
   </component>
@@ -253,13 +263,13 @@
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="guestbook" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -339,20 +349,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00031" summary="change gitalk setting:clientID and clientSecret.">
-      <created>1538964606972</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1538964606972</updated>
-    </task>
-    <task id="LOCAL-00032" summary="change gitalk setting:admin's format.">
-      <created>1538964778714</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1538964778714</updated>
     </task>
     <task id="LOCAL-00033" summary="change gitalk setting:admin's format.">
       <created>1538965415664</created>
@@ -683,7 +679,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542079878308</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="test Valine config.">
+      <created>1542085201638</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1542085201639</updated>
+    </task>
+    <task id="LOCAL-00081" summary="test Valine config.">
+      <created>1542085299639</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1542085299639</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1040,13 +1050,6 @@
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7898">
-          <caret line="359" selection-start-line="359" selection-end-line="359" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="704">
@@ -1062,22 +1065,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1276">
-          <caret line="58" column="8" selection-start-line="58" selection-start-column="8" selection-end-line="58" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/guestbook/index.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="509">
-          <caret line="1006" column="1" selection-start-line="1006" selection-start-column="1" selection-end-line="1006" selection-end-column="1" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -1088,8 +1077,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comment_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state relative-caret-position="594">
+          <caret line="438" column="7" selection-start-line="438" selection-start-column="7" selection-end-line="438" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#section#0;n#article#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1099,6 +1088,27 @@
             <element signature="n#style#0;n#a#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#15391#15397#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="359" selection-start-line="359" selection-end-line="359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="28" column="21" selection-start-line="28" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="59" column="16" lean-forward="true" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
         </state>
       </provider>
     </entry>
