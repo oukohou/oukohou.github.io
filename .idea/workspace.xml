@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/comment_test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,8 +65,8 @@
       <file leaf-file-name="comment_test.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laboratory/comment_test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="24" selection-end-column="7" />
+            <state relative-caret-position="176">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -78,8 +74,8 @@
       <file leaf-file-name="comment_test.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/comment_test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="242">
+              <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -329,20 +325,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00011" summary="update several pictures and configures.">
-      <created>1537169639109</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1537169639109</updated>
-    </task>
-    <task id="LOCAL-00012" summary="update .config.yml, about.md and several images.">
-      <created>1537185830504</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1537185830504</updated>
     </task>
     <task id="LOCAL-00013" summary="add CNAME.">
       <created>1537241237583</created>
@@ -673,7 +655,21 @@
       <option name="project" value="LOCAL" />
       <updated>1541751757896</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="test comment Valine.">
+      <created>1542073511770</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1542073511770</updated>
+    </task>
+    <task id="LOCAL-00061" summary="update Valine config.">
+      <created>1542073739035</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1542073739035</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -684,10 +680,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" weight="0.3329832" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.3329832" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.42331934" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1840796" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1840796" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -738,8 +734,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="gitalk setting:add pagerDirection." />
-    <MESSAGE value="change alternate account's name to kohouwang." />
     <MESSAGE value="change subtitle to 'oukohou blog'." />
     <MESSAGE value="change alternate account's repo name." />
     <MESSAGE value="create and change alternate account's repo name to:kohouwang.github.io." />
@@ -763,7 +757,9 @@
     <MESSAGE value="add ccslience's blog link." />
     <MESSAGE value="fix link bug." />
     <MESSAGE value="fix a url." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix a url." />
+    <MESSAGE value="test comment Valine." />
+    <MESSAGE value="update Valine config." />
+    <option name="LAST_COMMIT_MESSAGE" value="update Valine config." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1076,15 +1072,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laboratory/comment_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="24" selection-end-column="7" />
+        <state relative-caret-position="176">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/comment_test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="242">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
         </state>
       </provider>
     </entry>
