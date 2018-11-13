@@ -2,8 +2,8 @@
 layout: post
 title:  "论文阅读_人脸检测：S3FD: Single Shot Scale-invariant Face Detector"
 date:   2018-10-11 16:14:28 +0800--
-categories: papers face_detection
-tags:   machine_learning face_detection S3FD papers
+categories: [papers, face detection]
+tags:   [machine learning, face detection, S3FD, papers]
 ---
 
 > 写在前面：记录一下论文阅读的收获，不然怕久远之后，就不记得了～

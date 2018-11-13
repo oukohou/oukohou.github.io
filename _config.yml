@@ -80,7 +80,7 @@ ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: False    #是否开启Gitalk评论
   clientID: 130527c08d8ef45bb5dc                            #生成的clientID
   clientSecret: c8c0726a177a1265fdec64a66626592757a9df8a    #生成的clientSecret
   repo: kohouwang.github.io    #仓库名称
@@ -98,10 +98,10 @@ codehub: # 代码仓库
 
 valine:
   enable: true
-  appid:  your app id
-  appkey: your app key
+  appid:  K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz
+  appkey: AAsHbwVm8ofKFJ6ghGqqrXSU
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
-  placeholder: ヾﾉ≧∀≦)o来啊，快活啊!
+  placeholder: say something
   guest_info: nick,mail,link
   pageSize: 10

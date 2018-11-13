@@ -3,7 +3,7 @@ layout: post
 title:  "爱因斯坦求和约定"
 date:   2018-10-25 21:42:21 +0800--
 categories: found
-tags:   einsum machine_learning
+tags:   [einsum, machine learning]
 ---
 
 爱因斯坦求和约定，一个把码农从日益繁重的体力劳动中解放出来的进步。
