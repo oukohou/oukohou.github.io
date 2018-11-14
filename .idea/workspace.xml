@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +18,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+            <state relative-caret-position="676">
+              <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
             </state>
           </provider>
         </entry>
@@ -42,17 +39,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="comment_test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laboratory/comment_test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="157">
+              <caret line="29" selection-start-line="29" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -60,68 +48,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-08-28-Hello-world!.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-10-25-Einstein summation convention.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-10-26-caffe_installation_ubuntu_1604.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2018-11-01-sereral_search_engines_urls.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="240">
+              <caret line="230" column="13" selection-start-line="230" selection-start-column="7" selection-end-line="230" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -160,7 +88,6 @@
       <find>foc</find>
       <find>oukohou</find>
       <find>pure-u-1</find>
-      <find>disqus</find>
       <find>comment_container</find>
       <find>comm</find>
       <find>content_container</find>
@@ -169,6 +96,7 @@
       <find>disqus-thread</find>
       <find>comment</find>
       <find>section</find>
+      <find>disqus</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -219,13 +147,13 @@
         <option value="$PROJECT_DIR$/comment_test.html" />
         <option value="$PROJECT_DIR$/laboratory/comment_test.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
       </list>
     </option>
   </component>
@@ -239,10 +167,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="100" />
-    <option name="y" value="107" />
-    <option name="width" value="1855" />
-    <option name="height" value="805" />
+    <option name="x" value="84" />
+    <option name="y" value="568" />
+    <option name="width" value="1853" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -373,13 +301,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00035" summary="gitalk setting:add pagerDirection.">
-      <created>1538984111397</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1538984111397</updated>
     </task>
     <task id="LOCAL-00036" summary="change alternate account's name to kohouwang.">
       <created>1538984542443</created>
@@ -717,19 +638,27 @@
       <option name="project" value="LOCAL" />
       <updated>1542089036339</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="found YAML lists format, change categories and tags in YAML way.">
+      <created>1542104556069</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1542104556069</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.26680672" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" weight="0.26680672" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.42331934" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" visible="true" weight="0.15441176" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18629077" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -781,7 +710,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change alternate account's repo name." />
     <MESSAGE value="create and change alternate account's repo name to:kohouwang.github.io." />
     <MESSAGE value="add a post:S3FD." />
     <MESSAGE value="reformat post:S3FD." />
@@ -806,7 +734,8 @@
     <MESSAGE value="test comment Valine." />
     <MESSAGE value="update Valine config." />
     <MESSAGE value="test Valine config." />
-    <option name="LAST_COMMIT_MESSAGE" value="test Valine config." />
+    <MESSAGE value="found YAML lists format, change categories and tags in YAML way." />
+    <option name="LAST_COMMIT_MESSAGE" value="found YAML lists format, change categories and tags in YAML way." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1054,49 +983,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="28">
           <caret line="82" column="15" selection-start-line="82" selection-start-column="15" selection-end-line="82" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1114,7 +1004,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="110">
-            <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
           </first_editor>
           <second_editor />
         </state>
@@ -1137,6 +1027,45 @@
             <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="230" column="13" selection-start-line="230" selection-start-column="7" selection-end-line="230" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="29" selection-start-line="29" selection-end-line="49" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
         </state>
       </provider>
     </entry>
