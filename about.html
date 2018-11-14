@@ -54,16 +54,24 @@ permalink: /about/
     <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
     <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
 
-<!--<p>demo_test9</p>-->
+<p><br />不写个评论嘛：</p>
 <div id="valine_comment" class="fb_comments_container"></div>
 <script>
+
+    var notify = '{{site.valine.notify}}' === true;
+    var verify = '{{site.valine.verify}}.>' === true;
+    var visitor = '{{site.valine.visitor}}.>' === true;
+
     new Valine({
         av: AV,
         el: '#valine_comment',
+        notify: notify,
+        verify: verify,
         // smiles_url: '/smiles',
+        visitor: visitor,
         app_id: 'K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz',
         app_key: 'AAsHbwVm8ofKFJ6ghGqqrXSU',
-        placeholder: 'say something~~(邮箱只有后台可见，仅供讨论过程中是否需要交流邮件而设置，请放心填写。)'
+        placeholder: '{{site.valine.placeholder}}'
     });
 </script>
 
