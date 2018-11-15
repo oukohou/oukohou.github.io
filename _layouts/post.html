@@ -57,19 +57,27 @@ layout: base
 <p><br />不写个评论嘛：</p>
 <div id="valine_comment" class="fb_comments_container"></div>
 <script>
+    var notify = '{{site.valine.notify}}' === true;
+    var verify = '{{site.valine.verify}}.>' === true;
+    var visitor = '{{site.valine.visitor}}.>' === true;
+
     new Valine({
         av: AV,
         el: '#valine_comment',
+        notify: notify,
+        verify: verify,
         // smiles_url: '/smiles',
-        app_id: 'K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz',
-        app_key: 'AAsHbwVm8ofKFJ6ghGqqrXSU',
-        placeholder: '{{site.valine.placeholder}}'
+        visitor: visitor,
+        app_id: '{{site.valine.app_id}}',
+        app_key: '{{site.valine.app_key}}',
+        placeholder: '{{site.valine.placeholder}}',
+        avatar: '{{site.valine.avatar}}',
     });
 </script>
 
 
-
-    <!--<div id="disqus_thread"></div>-->
+<!--disqus comment component-->
+<!--<div id="disqus_thread"></div>-->
 <!--<script>-->
 
 <!--/**-->
@@ -91,6 +99,7 @@ layout: base
 <!--<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>-->
 
 
+    <!--gitalk comment component, failed...-->
     <!--<div class="gitalk_comments_container">-->
     <!--&lt;!&ndash;Gitalk评论start  &ndash;&gt;-->
     <!--{% if site.gitalk.enable %}-->

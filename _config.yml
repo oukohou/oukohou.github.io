@@ -98,11 +98,12 @@ codehub: # 代码仓库
 
 valine:
   enable: true
-  appid:  K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz
-  appkey: AAsHbwVm8ofKFJ6ghGqqrXSU
+  app_id:  K1rbn2Oo0YMM04VuzdLS7Nzz-gzGzoHsz
+  app_key: AAsHbwVm8ofKFJ6ghGqqrXSU
   notify: false # mail notifier , https://github.com/xCss/Valine/wiki
   verify: false # Verification code
   visitor: true
-  placeholder: say something~~\n - 昵称 为你所要显示的评论的ID；\n - 邮箱只有后台可见，仅供讨论过程中是否需要交流邮件而设置，请放心填写;\n - 网址 为你的评论的昵称的超链接。\n当然，以上都可以不写，评论依然会显示，只是
+  avatar: retro
+  placeholder: say something~~\n - 昵称 为你所要显示的评论的ID；\n - 邮箱 只有后台可见，仅供讨论过程中是否需要交流邮件而设置，请放心填写;\n - 网址 为你的评论的昵称的超链接。\n当然，以上都可以不写，评论依然会显示……
   guest_info: nick,mail,link
   pageSize: 10
