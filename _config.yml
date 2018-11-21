@@ -51,7 +51,7 @@ menu:
     directory: tags/
     icon: icon-tags
   - page: 留言
-    directory: guest_book/
+    directory: guestbook/
     icon: icon-guestbook
   - page: 关于
     directory: about/
