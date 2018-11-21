@@ -1,0 +1,82 @@
+---
+layout: page
+title: About
+comments: true
+permalink: /guest_book/
+---
+
+
+<style type="text/css">
+    img {
+        max-width: 100%;
+        padding: 0.5em 0;
+        margin: auto;
+        display: block;
+    }
+
+    .slogan {
+        text-align: center;
+        font-size: 16px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .content {
+        width: 100%;
+        height: auto;
+        white-space: normal;
+        word-wrap: break-word;
+        word-break: break-all;
+        overflow: -moz-scrollbars-vertical;
+    }
+
+</style>
+
+<div class='slogan'>
+    <b>或许你不经意留下的足迹，让我们成为了朋友</b>
+</div>
+<h3>1. 你可以手机扫码找到我:</h3>
+<img src="/assets/imgs/messages.png" alt="QR Code"/>
+
+<h3>2. 你也可以通过下面的方式找到我：</h3>
+<pre>
+    <div class="content">
+        python -c "import base64;print(base64.decodestring('CiAgICBFbWFpbCAgICAgICAgICAgICAgICAgICA6ICAgb3Vrb2hvdUBvdXRsb29rLmNvbQogICAgQmxvZyBzaXRlICAgICAgICAgICAgICAgOiAgIGh0dHBzOi8vd3d3Lm91a29ob3Uud2FuZy8KICAgIFdlY2hhdCBvZmZpY2lhbCBhY2NvdW50IDogICBvdWtvaG91CiAgICBTbG9nYW4gICAgICAgICAgICAgICAgICA6ICAg5oiR5qKm5oms5bee77yM5L6/5oOz5Yiw5oms5bee5qKm5oiR44CCCiAgICA='))"
+    </div>
+</pre>
+
+<h3>3. 当然了，茫茫人海，你也可以直接找到我：</h3>
+<img src="https://s1.ax2x.com/2018/11/06/5mJOh3.png" alt="yarerusa"/>
+
+<p>regards.</p>
+<h4 align="right" href="https:www.oukohou.wang">
+    <a href="https:www.oukohou.wang">
+        oukohou.
+    </a>
+</h4>
+
+
+<script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
+<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+
+<p><br/>----<br/>不写个评论嘛：</p>
+<div id="valine_comment" class="fb_comments_container"></div>
+<script>
+    var notify = '{{site.valine.notify}}' === true;
+    var verify = '{{site.valine.verify}}.>' === true;
+    var visitor = '{{site.valine.visitor}}.>' === true;
+
+    new Valine({
+        av: AV,
+        el: '#valine_comment',
+        notify: notify,
+        verify: verify,
+        // smiles_url: '/smiles',
+        visitor: visitor,
+        app_id: '{{site.valine.app_id}}',
+        app_key: '{{site.valine.app_key}}',
+        placeholder: '{{site.valine.placeholder}}',
+        avatar: '{{site.valine.avatar}}'
+    });
+</script>
