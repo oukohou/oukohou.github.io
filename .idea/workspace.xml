@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add live2D cartoon and mathJax to enable formula in LaTex grammar.">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guest_book.html" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestbook.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donate.md" beforeDir="false" afterPath="$PROJECT_DIR$/donate.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,23 +26,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-11-20-process_of_blog_setting-up.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md">
+      <file leaf-file-name="bug_memo.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laboratory/bug_memo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="438">
-                <caret line="100" column="33" selection-start-line="100" selection-end-line="100" selection-end-column="33" />
+              <first_editor relative-caret-position="396">
+                <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guestbook.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/guestbook.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="63" column="69" selection-start-line="63" selection-start-column="69" selection-end-line="63" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -43,8 +41,71 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+            <state relative-caret-position="480">
+              <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="401">
+              <caret line="132" selection-start-line="132" selection-end-line="132" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/2018/08/28/Hello-world!/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="557" column="3" selection-start-line="557" selection-start-column="3" selection-end-line="557" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-11-29-live2D安装.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="554">
+                <caret line="137" selection-start-line="137" selection-end-line="137" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-11-27-NetVLAD.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="220">
+                <caret line="31" selection-start-line="31" selection-end-line="31" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="donate.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/donate.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="423">
+                <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -58,8 +119,8 @@
         <option value="12" />
         <option value="markdown" />
         <option value="blog_post" />
-        <option value="Github_blog_post" />
         <option value="HTML File" />
+        <option value="Github_blog_post" />
       </list>
     </option>
   </component>
@@ -92,6 +153,8 @@
       <find>comment</find>
       <find>disqus</find>
       <find>section</find>
+      <find>font</find>
+      <find>lib</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,9 +169,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-08-28-welcome-to-jekyll.markdown" />
-        <option value="$PROJECT_DIR$/feed.xml" />
         <option value="$PROJECT_DIR$/_posts/2018-08-28-welcome.markdown" />
         <option value="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" />
         <option value="$PROJECT_DIR$/404.html" />
@@ -123,35 +183,43 @@
         <option value="$PROJECT_DIR$/_includes/plugins/share_button" />
         <option value="$PROJECT_DIR$/laboratory/images_in_one_line.md" />
         <option value="$PROJECT_DIR$/laboratory/resize_image.py" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/laboratory/record.record" />
         <option value="$PROJECT_DIR$/assets/js/md5.min.js" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_includes/footer/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/keynote.html" />
         <option value="$PROJECT_DIR$/_includes/widgets/star_post_list" />
-        <option value="$PROJECT_DIR$/donate.md" />
         <option value="$PROJECT_DIR$/google987633c16e64f5fc.html" />
         <option value="$PROJECT_DIR$/sogousiteverification.txt" />
         <option value="$PROJECT_DIR$/60e2c4178f1d12527f7e5b00a80d0f2f.txt" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_site/assets/css/style.css" />
         <option value="$PROJECT_DIR$/comment_test.html" />
         <option value="$PROJECT_DIR$/laboratory/comment_test.html" />
         <option value="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" />
         <option value="$PROJECT_DIR$/guestbook.md" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_layouts/base.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/guest_book.html" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/guestbook.html" />
+        <option value="$PROJECT_DIR$/laboratory/memo.md" />
+        <option value="$PROJECT_DIR$/laboratory/bug_memo.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
+        <option value="$PROJECT_DIR$/assets/css/style_backup.css" />
+        <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/assets/css/style_bigger.css" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" />
+        <option value="$PROJECT_DIR$/_layouts/base.html" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/donate.md" />
       </list>
     </option>
   </component>
@@ -204,18 +272,22 @@
     <property name="SearchEverywhereHistoryKey" value="duoshuo&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/jekyll/update/2018/08/28/welcome-to-jekyll.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/laboratory/comment_test.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/guestbook/index.html&#10;true&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/assets/css/style.css" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../projects_/liveness_detection/face_alignment/check_diff" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hexo/blog_demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/laboratory" />
+      <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/_layouts" />
-      <recent name="$PROJECT_DIR$/assets/js" />
-      <recent name="$PROJECT_DIR$/assets/imgs" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/assets/live2dw" />
+      <recent name="$PROJECT_DIR$/laboratory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -266,34 +338,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00045" summary="write 2 more posts.">
-      <created>1540549630279</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1540549630280</updated>
-    </task>
-    <task id="LOCAL-00046" summary="fix format and update tags.">
-      <created>1540550125264</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1540550125264</updated>
-    </task>
-    <task id="LOCAL-00047" summary="fix several format errors.">
-      <created>1540791873769</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1540791873769</updated>
-    </task>
-    <task id="LOCAL-00048" summary="add baidu verify html.">
-      <created>1540793730191</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1540793730191</updated>
     </task>
     <task id="LOCAL-00049" summary="update google verify html.">
       <created>1540805940216</created>
@@ -610,21 +654,48 @@
       <option name="project" value="LOCAL" />
       <updated>1542803502603</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="delete guestbook.md, use guestbook.html instead.">
+      <created>1542803912138</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1542803912138</updated>
+    </task>
+    <task id="LOCAL-00095" summary="bug fix.">
+      <created>1542850682255</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1542850682256</updated>
+    </task>
+    <task id="LOCAL-00096" summary="add live2D cartoon and mathJax to enable formula in LaTex grammar.">
+      <created>1543485971601</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1543485971601</updated>
+    </task>
+    <task id="LOCAL-00097" summary="fix bug: assets/live2dw/lib is ignored in .gitignore, now add it.">
+      <created>1543486431781</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1543486431781</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50248754" side_tool="true" weight="0.24474789" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030404" side_tool="true" weight="0.29936975" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49751243" visible="true" weight="0.11239496" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49695966" visible="true" weight="0.29936975" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.6539525" weight="0.28361344" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21448314" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.564953" weight="0.31512606" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23272526" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -675,10 +746,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add baidu verify html." />
-    <MESSAGE value="update google verify html." />
-    <MESSAGE value="update sougou verify html." />
-    <MESSAGE value="add Bing verify html." />
     <MESSAGE value="update 360 verify txt." />
     <MESSAGE value="update readme, and add a post." />
     <MESSAGE value="update several links." />
@@ -700,7 +767,11 @@
     <MESSAGE value="add category and tags." />
     <MESSAGE value="update tags." />
     <MESSAGE value="change guestbook page and add comment module." />
-    <option name="LAST_COMMIT_MESSAGE" value="change guestbook page and add comment module." />
+    <MESSAGE value="delete guestbook.md, use guestbook.html instead." />
+    <MESSAGE value="bug fix." />
+    <MESSAGE value="add live2D cartoon and mathJax to enable formula in LaTex grammar." />
+    <MESSAGE value="fix bug: assets/live2dw/lib is ignored in .gitignore, now add it." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix bug: assets/live2dw/lib is ignored in .gitignore, now add it." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -716,78 +787,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_site/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/google23b03f783980f31a.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sogousiteverification.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/60e2c4178f1d12527f7e5b00a80d0f2f.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" selection-start-column="32" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/robots.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-320" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BingSiteAuth.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/category.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/plugins/fancybox">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/assets/js/md5.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1590" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/plugins/comments_duoshuuo">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1914">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/css/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31" />
@@ -810,13 +809,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/data/posts.json">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2149">
-          <caret line="351" column="11" selection-start-line="351" selection-start-column="11" selection-end-line="351" selection-end-column="11" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/keynote.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -855,12 +847,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/plugins/baidu_push">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/guestbook/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -880,83 +866,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/donate/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/donate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-754" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/comment_test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2084">
-          <caret line="411" column="54" selection-start-line="411" selection-start-column="23" selection-end-line="411" selection-end-column="54" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#section#0;n#article#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#article#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#section#0;n#article#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#section#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15391#15397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="438">
-            <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/comment_test.html" />
     <entry file="file://$PROJECT_DIR$/archives.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -970,7 +883,8 @@
         <state relative-caret-position="-362" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laboratory/donate.md">
+    <entry file="file://$PROJECT_DIR$/laboratory/donate.md" />
+    <entry file="file://$PROJECT_DIR$/laboratory/guestbook.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -978,20 +892,162 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/guestbook.md" />
+    <entry file="file://$PROJECT_DIR$/_site/guestbook/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1232">
-          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#1;n#article#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="-264" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guestbook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="67" column="53" lean-forward="true" selection-start-line="67" selection-start-column="53" selection-end-line="67" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="220">
+            <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="242">
+            <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="18" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="132">
+            <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2018/08/28/Hello-world!/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="557" column="3" selection-start-line="557" selection-start-column="3" selection-end-line="557" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style_bigger.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5012">
+          <caret line="1257" lean-forward="true" selection-start-line="1257" selection-end-line="1257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style_backup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="1" selection-end-line="1061" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/about/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="506" column="33" lean-forward="true" selection-start-line="506" selection-start-column="33" selection-end-line="506" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="144">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1003,59 +1059,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/laboratory/bug_memo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="554">
+            <caret line="137" selection-start-line="137" selection-end-line="137" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1938">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="374">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/2018/11/27/NetVLAD/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-594" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="438">
-            <caret line="100" column="33" selection-start-line="100" selection-end-line="100" selection-end-column="33" />
+          <first_editor relative-caret-position="220">
+            <caret line="31" selection-start-line="31" selection-end-line="31" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laboratory/guestbook.md">
+    <entry file="file://$PROJECT_DIR$/donate.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guestbook.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="66">
-            <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <first_editor relative-caret-position="423">
+            <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8250">
-          <caret line="552" selection-start-line="552" selection-end-line="559" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guestbook.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="63" column="69" selection-start-line="63" selection-start-column="69" selection-end-line="63" selection-end-column="69" />
         </state>
       </provider>
     </entry>
