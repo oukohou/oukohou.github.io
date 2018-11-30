@@ -2,8 +2,8 @@
 layout: post
 title:  "ubuntu 16.04 python2安装caffe无痛流程(hope so)"
 date:   2018-10-26 20:29:05 +0800--
-categories: installation
-tags:   ubuntu caffe installation python
+categories: [installation]
+tags:   [ubuntu, caffe, installation, python]
 ---
 
 每次装caffe都是一次痛苦的经历。  

@@ -5,37 +5,13 @@
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.2048/texture_00.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.2048/texture_00.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.moc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.moc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_01.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_01.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_02.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_02.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_01.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_01.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_02.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_02.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_03.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_03.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_04.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_04.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_05.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_05.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_06.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_06.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_07.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_07.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_08.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_08.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_09.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_09.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_10.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_10.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_11.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_11.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_12.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_12.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_13.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_13.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_14.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_14.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.model.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.physics.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.physics.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js.map" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,11 +46,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="124" column="66" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="66" />
+            <state relative-caret-position="238">
+              <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-11-27-NetVLAD.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="313">
+                <caret line="82" column="51" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -124,6 +121,7 @@
       <find>section</find>
       <find>font</find>
       <find>lib</find>
+      <find>focus</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -179,16 +177,16 @@
         <option value="$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
         <option value="$PROJECT_DIR$/assets/css/style_backup.css" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/assets/css/style_bigger.css" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/donate.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -228,17 +226,6 @@
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -323,13 +310,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00052" summary="update 360 verify txt.">
-      <created>1540871639719</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1540871639719</updated>
     </task>
     <task id="LOCAL-00053" summary="update readme, and add a post.">
       <created>1541079476675</created>
@@ -667,20 +647,28 @@
       <option name="project" value="LOCAL" />
       <updated>1543497576098</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="reduce ths size of live2D cartoon and scale factor on mobile.">
+      <created>1543557650471</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1543557650471</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030404" side_tool="true" weight="0.29936975" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49695966" weight="0.29936975" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49695966" visible="true" weight="0.29936975" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.564953" visible="true" weight="0.31512606" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23272526" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.564953" weight="0.32352942" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18076286" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -731,7 +719,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update category." />
     <MESSAGE value="some cosmetic changes." />
     <MESSAGE value="add ccslience's blog link." />
     <MESSAGE value="fix link bug." />
@@ -756,7 +743,8 @@
     <MESSAGE value="add thanks to donors." />
     <MESSAGE value="add post: NetVLAD." />
     <MESSAGE value="add chinese beginning of post NetVLAD's title." />
-    <option name="LAST_COMMIT_MESSAGE" value="add chinese beginning of post NetVLAD's title." />
+    <MESSAGE value="reduce ths size of live2D cartoon and scale factor on mobile." />
+    <option name="LAST_COMMIT_MESSAGE" value="reduce ths size of live2D cartoon and scale factor on mobile." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1051,31 +1039,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="41" selection-start-line="41" selection-end-line="41" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/live2dw/live2dw/lib/L2Dwidget.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2562">
-            <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laboratory/bug_memo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1087,13 +1055,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="108" column="14" selection-start-line="108" selection-start-column="14" selection-end-line="108" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2329">
@@ -1101,10 +1062,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-2562">
+            <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="313">
+            <caret line="82" column="51" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="124" column="66" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="66" />
+        <state relative-caret-position="238">
+          <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,7 @@
 layout: post
 title:  "各个搜索引擎的提交个人网站地址的入口"
 date:   2018-11-01 20:57:09 +0800--
-categories: memo installation
+categories: [installation]
 tags:   [search engine, baidu, google, 360, sougou]
 ---
 有了自己的域名，搭建好了自己的个人博客站点，就万事俱备了么？  
