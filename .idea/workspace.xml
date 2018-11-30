@@ -5,7 +5,6 @@
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,23 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-11-29-live2D安装.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-11-29-live2D安装.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2562">
-                <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+              <first_editor relative-caret-position="92">
+                <caret line="164" column="2" lean-forward="true" selection-start-line="164" selection-start-column="2" selection-end-line="164" selection-end-column="2" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="304">
+              <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -158,11 +157,11 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/donate.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" />
       </list>
     </option>
   </component>
@@ -176,10 +175,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="127" />
-    <option name="y" value="130" />
-    <option name="width" value="1772" />
-    <option name="height" value="826" />
+    <option name="x" value="294" />
+    <option name="y" value="68" />
+    <option name="width" value="1188" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -213,13 +212,6 @@
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="live2dw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="live2dw" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,13 +291,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00060" summary="test comment Valine.">
-      <created>1542073511770</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1542073511770</updated>
     </task>
     <task id="LOCAL-00061" summary="update Valine config.">
       <created>1542073739035</created>
@@ -643,7 +628,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543562168896</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="live2D.">
+      <created>1543569759024</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1543569759024</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -654,10 +646,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030404" side_tool="true" weight="0.29936975" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49695966" visible="true" weight="0.29936975" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49695966" weight="0.29936975" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.4997236" weight="0.28151262" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.564953" weight="0.32352942" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18352681" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.564953" visible="true" weight="0.32352942" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18352681" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -708,7 +700,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="test Valine config." />
     <MESSAGE value="found YAML lists format, change categories and tags in YAML way." />
     <MESSAGE value="add Disqus comment module." />
     <MESSAGE value="Finally find the way to deploy Valine, cancel Disqus and use Valine." />
@@ -733,7 +724,8 @@
     <MESSAGE value="little changes." />
     <MESSAGE value="still live2D" />
     <MESSAGE value="live2D" />
-    <option name="LAST_COMMIT_MESSAGE" value="live2D" />
+    <MESSAGE value="live2D." />
+    <option name="LAST_COMMIT_MESSAGE" value="live2D." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1048,16 +1040,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2562">
-            <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1034">
@@ -1065,9 +1047,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
+        <state relative-caret-position="339">
           <caret line="1" column="31679" selection-start-line="1" selection-start-column="31679" selection-end-line="1" selection-end-column="31679" />
         </state>
       </provider>
@@ -1082,10 +1071,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="164" column="2" lean-forward="true" selection-start-line="164" selection-start-column="2" selection-end-line="164" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
