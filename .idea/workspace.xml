@@ -5,13 +5,7 @@
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
+            <state relative-caret-position="418">
+              <caret line="124" column="68" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -67,11 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="-1034">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -185,8 +179,8 @@
         <option value="$PROJECT_DIR$/donate.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" />
-        <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/_layouts/base.html" />
       </list>
     </option>
   </component>
@@ -226,11 +220,6 @@
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -310,20 +299,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00053" summary="update readme, and add a post.">
-      <created>1541079476675</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1541079476675</updated>
-    </task>
-    <task id="LOCAL-00054" summary="update several links.">
-      <created>1541079703634</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1541079703634</updated>
     </task>
     <task id="LOCAL-00055" summary="update category.">
       <created>1541079993219</created>
@@ -654,7 +629,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543557650471</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="reformat.">
+      <created>1543559748847</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1543559748847</updated>
+    </task>
+    <task id="LOCAL-00103" summary="change live2D cartoon's mobile size.">
+      <created>1543559907634</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1543559907634</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -719,8 +708,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="some cosmetic changes." />
-    <MESSAGE value="add ccslience's blog link." />
     <MESSAGE value="fix link bug." />
     <MESSAGE value="fix a url." />
     <MESSAGE value="test comment Valine." />
@@ -744,7 +731,9 @@
     <MESSAGE value="add post: NetVLAD." />
     <MESSAGE value="add chinese beginning of post NetVLAD's title." />
     <MESSAGE value="reduce ths size of live2D cartoon and scale factor on mobile." />
-    <option name="LAST_COMMIT_MESSAGE" value="reduce ths size of live2D cartoon and scale factor on mobile." />
+    <MESSAGE value="reformat." />
+    <MESSAGE value="change live2D cartoon's mobile size." />
+    <option name="LAST_COMMIT_MESSAGE" value="change live2D cartoon's mobile size." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1072,6 +1061,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1034">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1084,15 +1080,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="65" column="27" lean-forward="true" selection-start-line="65" selection-start-column="27" selection-end-line="65" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="418">
+          <caret line="124" column="68" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="68" />
         </state>
       </provider>
     </entry>
