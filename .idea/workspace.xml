@@ -5,7 +5,6 @@
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -44,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
-              <caret line="124" column="68" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="68" />
+              <caret line="124" column="52" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -299,20 +298,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00055" summary="update category.">
-      <created>1541079993219</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1541079993220</updated>
-    </task>
-    <task id="LOCAL-00056" summary="some cosmetic changes.">
-      <created>1541484685280</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1541484685283</updated>
     </task>
     <task id="LOCAL-00057" summary="add ccslience's blog link.">
       <created>1541749316946</created>
@@ -643,7 +628,21 @@
       <option name="project" value="LOCAL" />
       <updated>1543559907634</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="change live2d mobile size.">
+      <created>1543560158042</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1543560158042</updated>
+    </task>
+    <task id="LOCAL-00105" summary="little changes.">
+      <created>1543560608643</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1543560608643</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -708,8 +707,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="fix link bug." />
-    <MESSAGE value="fix a url." />
     <MESSAGE value="test comment Valine." />
     <MESSAGE value="update Valine config." />
     <MESSAGE value="test Valine config." />
@@ -733,7 +730,9 @@
     <MESSAGE value="reduce ths size of live2D cartoon and scale factor on mobile." />
     <MESSAGE value="reformat." />
     <MESSAGE value="change live2D cartoon's mobile size." />
-    <option name="LAST_COMMIT_MESSAGE" value="change live2D cartoon's mobile size." />
+    <MESSAGE value="change live2d mobile size." />
+    <MESSAGE value="little changes." />
+    <option name="LAST_COMMIT_MESSAGE" value="little changes." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1081,7 +1080,7 @@
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="124" column="68" selection-start-line="124" selection-start-column="68" selection-end-line="124" selection-end-column="68" />
+          <caret line="124" column="52" selection-start-line="124" selection-start-column="52" selection-end-line="124" selection-end-column="52" />
         </state>
       </provider>
     </entry>
