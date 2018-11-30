@@ -15,6 +15,22 @@ Yet no award for you……
     <meta content="telephone=no" name="format-detection">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %} | {{ site.subtitle}}</title>
+
+    <!--live2d function-->
+    <script src="/assets/live2dw/lib/L2Dwidget.min.js"></script>
+    <script>L2Dwidget.init({
+        "pluginRootPath": "live2dw/",
+        "pluginJsPath": "lib/",
+        "pluginModelPath": "assets/",
+        "tagMode": false,
+        "debug": false,
+        "model": {"jsonPath": "/assets/live2dw/assets/unitychan.model.json"},
+        "display": {"position": "right", "width": 120, "height": 180},
+        "mobile": {"show": true, "scale": 0.02},
+        "log": false
+    });</script>
+
+
     <meta name="keywords"
           content="{% if page.keywords %}{{ page.keywords | split: ' ' | join: ', ' }}{% else %}{{ site.keywords }}{% endif %}">
     <meta name="description"
@@ -111,21 +127,6 @@ Yet no award for you……
             </div>
         </div>
     </div>
-
-
-    <!--live2d function-->
-    <script src="/assets/live2dw/lib/L2Dwidget.min.js"></script>
-    <script>L2Dwidget.init({
-        "pluginRootPath": "live2dw/",
-        "pluginJsPath": "lib/",
-        "pluginModelPath": "assets/",
-        "tagMode": false,
-        "debug": false,
-        "model": {"jsonPath": "/assets/live2dw/assets/unitychan.model.json"},
-        "display": {"position": "right", "width": 120, "height": 180},
-        "mobile": {"show": true, "scale": 0.05},
-        "log": false
-    });</script>
 
 
     <div id="footer">
