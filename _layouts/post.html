@@ -24,6 +24,14 @@ layout: base
             {% endfor %}
             </i>
         </span>{% endif %}
+
+
+            <!-- 阅读量统计， id 将作为查询条件 -->
+            <span id={{page.url}} class="leancloud-visitors" data-flag-title={{page.title}}>
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-text">阅读量 </span>
+                <span class="leancloud-visitors-count"></span>
+            </span>
         </p>
 
     </header>
@@ -50,6 +58,7 @@ layout: base
     </div>
 
 
+    <!--valine comment function-->
     <script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
     <script src="//unpkg.com/valine/dist/Valine.min.js"></script>
