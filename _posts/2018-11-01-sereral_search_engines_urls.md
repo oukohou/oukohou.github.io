@@ -16,7 +16,7 @@ tags:   [search engine, baidu, google, 360, sougou]
 
 
 ## 1.各个搜索引擎提交个人站点的入口：  
-- 百度  ： [https://ziyuan.baidu.com/linksubmit/index](https://ziyuan.baidu.com/linksubmit/index)  
+- 百度  ： [https://ziyuan.baidu.com/site/index](https://ziyuan.baidu.com/site/index)  
 - 谷歌  ： [https://www.google.com/webmasters/tools/home?hl=en](https://www.google.com/webmasters/tools/home?hl=en)  
 - 搜狗  ： [http://zhanzhang.sogou.com/index.php/dashboard/index](http://zhanzhang.sogou.com/index.php/dashboard/index)    
 - 360　： [http://info.so.360.cn/site_submit.html](http://info.so.360.cn/site_submit.html)  
