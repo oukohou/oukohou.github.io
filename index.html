@@ -32,25 +32,25 @@ layout: base
                     <span class="post-meta-item-text">阅读量 </span>
                     <span class="leancloud-visitors-count"></span>
                 </span>
-
+                &#x1F601
             <script>
-        var notify = '{{site.valine.notify}}' === true;
-        var verify = '{{site.valine.verify}}.>' === true;
-        var visitor = '{{site.valine.visitor}}.>' === true;
+                var notify = '{{site.valine.notify}}' === true;
+                var verify = '{{site.valine.verify}}.>' === true;
+                var visitor = '{{site.valine.visitor}}.>' === true;
 
-        new Valine({
-            av: AV,
-            el: '#valine_comment',
-            notify: notify,
-            verify: verify,
-            // smiles_url: '/smiles',
-            visitor: true,
-            app_id: '{{site.valine.app_id}}',
-            app_key: '{{site.valine.app_key}}',
-            placeholder: '{{site.valine.placeholder}}',
-            avatar: '{{site.valine.avatar}}',
-        });
-    </script>
+                new Valine({
+                    av: AV,
+                    el: '#valine_comment',
+                    notify: notify,
+                    verify: verify,
+                    // smiles_url: '/smiles',
+                    visitor: true,
+                    app_id: '{{site.valine.app_id}}',
+                    app_key: '{{site.valine.app_key}}',
+                    placeholder: '{{site.valine.placeholder}}',
+                    avatar: '{{site.valine.avatar}}',
+                });
+            </script>
         </span>
 
     </div>

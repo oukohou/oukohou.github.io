@@ -13,7 +13,12 @@ email: oukohou@outlook.com
 # Build settings
 permalink: /:year/:month/:day/:title/
 exclude: ["README.md", "changelog.md", "server", "tools", "Pipfile"]
-plugins: [jekyll-paginate] #, jemoji]
+plugins:
+  - jekyll-paginate
+  - jemoji
+
+# [] #, ]
+#gems: [jekyll-paginate,"jemoji"]
 
 # always get github's error email saying redcarpet is not supported,
 # so change it to kramdown.
