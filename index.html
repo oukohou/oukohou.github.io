@@ -26,17 +26,36 @@ layout: base
         <i class="icon-post-date"> {{ post.date | date: "%Y年%m月%d日" }}
 
         </i>
-                <!-- 显示每篇博客阅读量, id 将作为查询条件 -->
+            <!-- 显示每篇博客阅读量, id 将作为查询条件 -->
                 <span id={{post.url}} class="leancloud-visitors" data-flag-title={{post.title}}>
                     <span class="post-meta-divider">|</span>
                     <span class="post-meta-item-text">阅读量 </span>
                     <span class="leancloud-visitors-count"></span>
                 </span>
+
+            <script>
+        var notify = '{{site.valine.notify}}' === true;
+        var verify = '{{site.valine.verify}}.>' === true;
+        var visitor = '{{site.valine.visitor}}.>' === true;
+
+        new Valine({
+            av: AV,
+            el: '#valine_comment',
+            notify: notify,
+            verify: verify,
+            // smiles_url: '/smiles',
+            visitor: true,
+            app_id: '{{site.valine.app_id}}',
+            app_key: '{{site.valine.app_key}}',
+            placeholder: '{{site.valine.placeholder}}',
+            avatar: '{{site.valine.avatar}}',
+        });
+    </script>
         </span>
 
     </div>
 
-    <div class="post-content">{{ post.content | strip_html | truncate:300 }}</div>
+    <div class="post-content">{{ post.content | strip_html | truncate:200 }}</div>
 
     <p class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">阅读更多</a></p>
 

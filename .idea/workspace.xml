@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-06-autumn poems.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,29 +32,29 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="29" column="59" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="59" />
+            <state relative-caret-position="440">
+              <caret line="84" column="13" selection-start-line="67" selection-start-column="4" selection-end-line="84" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-06-autumn_poems.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-12-06-autumn_poems.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="524">
-                <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+              <first_editor relative-caret-position="576">
+                <caret line="136" selection-start-line="136" selection-end-line="136" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+            <state relative-caret-position="436">
+              <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -65,7 +62,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="330">
               <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
@@ -179,10 +176,10 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn poems.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -307,13 +304,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00070" summary="test Valine config.">
-      <created>1542075620388</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1542075620388</updated>
     </task>
     <task id="LOCAL-00071" summary="test Valine config.">
       <created>1542076191696</created>
@@ -651,21 +641,27 @@
       <option name="project" value="LOCAL" />
       <updated>1544078301481</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="refactor: change post name;&#10;content: add content to post.">
+      <created>1544097164295</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1544097164295</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5030404" side_tool="true" weight="0.29936975" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49695966" weight="0.2184874" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49695966" visible="true" weight="0.2184874" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.28151262" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.564953" visible="true" weight="0.34663865" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24046434" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.564953" weight="0.34663865" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2432283" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -716,7 +712,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add a post:process of blog setting-up." />
     <MESSAGE value="update tags." />
     <MESSAGE value="change guestbook page and add comment module." />
     <MESSAGE value="delete guestbook.md, use guestbook.html instead." />
@@ -741,7 +736,8 @@
     <MESSAGE value="feature: add reading counter;  &#10;style: shrink live2D size." />
     <MESSAGE value="bug fix: correct link in post;  &#10;feature: add baidu verify html." />
     <MESSAGE value="refactor: delete baidu_verify_mDTcGWbBLX.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: delete baidu_verify_mDTcGWbBLX.html" />
+    <MESSAGE value="refactor: change post name;&#10;content: add content to post." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change post name;&#10;content: add content to post." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1042,33 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2448">
           <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-          <folding>
-            <element signature="e#254#277#0" expanded="true" />
-            <element signature="e#299#334#0" expanded="true" />
-            <element signature="e#428#451#0" expanded="true" />
-            <element signature="e#398#421#0" expanded="true" />
-            <element signature="e#486#521#0" expanded="true" />
-            <element signature="e#659#682#0" expanded="true" />
-            <element signature="e#550#573#0" expanded="true" />
-            <element signature="e#671#706#0" expanded="true" />
-            <element signature="e#711#734#0" expanded="true" />
-            <element signature="e#865#900#0" expanded="true" />
-            <element signature="e#1057#1079#0" expanded="true" />
-            <element signature="e#1137#1160#0" expanded="true" />
-            <element signature="e#1171#1206#0" expanded="true" />
-            <element signature="e#1284#1306#0" expanded="true" />
-            <element signature="e#1346#1369#0" expanded="true" />
-            <element signature="e#1380#1415#0" expanded="true" />
-            <element signature="e#1514#1536#0" expanded="true" />
-            <element signature="e#1659#1682#0" expanded="true" />
-            <element signature="e#1693#1728#0" expanded="true" />
-            <element signature="e#1830#1852#0" expanded="true" />
-            <element signature="e#1883#1906#0" expanded="true" />
-            <element signature="e#1917#1952#0" expanded="true" />
-            <element signature="e#2035#2057#0" expanded="true" />
-            <element signature="e#1619#1642#0" expanded="true" />
-            <element signature="e#1066#1101#0" expanded="true" />
-          </folding>
         </state>
       </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -1090,23 +1059,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="29" column="59" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="330">
           <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
@@ -1114,10 +1069,24 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="524">
-            <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+          <first_editor relative-caret-position="576">
+            <caret line="136" selection-start-line="136" selection-end-line="136" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="84" column="13" selection-start-line="67" selection-start-column="4" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="57" column="71" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="71" />
         </state>
       </provider>
     </entry>
