@@ -55,7 +55,7 @@ layout: base
 
     </div>
 
-    <div class="post-content">{{ post.content | strip_html | truncate:200 }}</div>
+    <div class="post-content">{{ post.content | strip_html | truncate:160 }}</div>
 
     <p class="readmore"><a href="{{ post.url | prepend: site.baseurl }}">阅读更多</a></p>
 

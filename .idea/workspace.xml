@@ -4,9 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" line="76" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="bug fix: change baidu analytic code to my own.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -31,32 +30,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="66" column="65" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="2018-12-06-autumn_poems.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="220">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <first_editor relative-caret-position="-1964">
+                <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="594">
+              <caret line="57" column="72" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -82,24 +72,6 @@
                 <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="legacy.rnc" pinned="false" current-in-tab="false">
-        <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/legacy.rnc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9026">
-              <caret line="660" column="8" selection-start-line="660" selection-start-column="8" selection-end-line="660" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="tongji.baidu.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/js/tongji.baidu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -207,15 +179,15 @@
         <option value="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
         <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
-        <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn poems.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/laboratory/fd.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" />
         <option value="$PROJECT_DIR$/assets/js/tongji.baidu.js" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" />
+        <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -356,13 +328,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00072" summary="test Valine config.">
-      <created>1542076299639</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1542076299639</updated>
     </task>
     <task id="LOCAL-00073" summary="test Valine config.">
       <created>1542076622019</created>
@@ -700,7 +665,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544162409350</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="bug fix: change baidu analytic code to my own.">
+      <created>1544177392769</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1544177392769</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -711,10 +683,10 @@
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.43559977" side_tool="true" weight="0.34663865" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49640685" weight="0.2184874" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49640685" visible="true" weight="0.2184874" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.28151262" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.26890758" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21282476" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.26890758" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21282476" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -765,7 +737,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change guestbook page and add comment module." />
     <MESSAGE value="delete guestbook.md, use guestbook.html instead." />
     <MESSAGE value="bug fix." />
     <MESSAGE value="add live2D cartoon and mathJax to enable formula in LaTex grammar." />
@@ -790,7 +761,8 @@
     <MESSAGE value="refactor: delete baidu_verify_mDTcGWbBLX.html" />
     <MESSAGE value="refactor: change post name;&#10;content: add content to post." />
     <MESSAGE value="refactor: change the length to 200 that each post will show on home page;&#10;bug fix: init Valine in index.html, home page will show the reader counter number now." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change the length to 200 that each post will show on home page;&#10;bug fix: init Valine in index.html, home page will show the reader counter number now." />
+    <MESSAGE value="bug fix: change baidu analytic code to my own." />
+    <option name="LAST_COMMIT_MESSAGE" value="bug fix: change baidu analytic code to my own." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1091,19 +1063,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="203">
+          <caret line="43" column="5" selection-start-line="43" selection-end-line="43" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="66" column="65" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="65" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/assets/js/tongji.baidu.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/legacy.rnc">
       <provider selected="true" editor-type-id="text-editor">
@@ -1126,23 +1094,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="220">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="43" column="5" selection-start-line="43" selection-end-line="43" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -1150,10 +1101,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/tongji.baidu.js">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="-1166">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1964">
+            <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="57" column="72" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
         </state>
       </provider>
     </entry>
