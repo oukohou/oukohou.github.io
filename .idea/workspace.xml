@@ -4,10 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" line="76" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="bug fix: change baidu analytic code to my own.">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guestbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,7 +41,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="594">
@@ -72,6 +71,24 @@
                 <element signature="n#style#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="guestbook.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/guestbook.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-106">
+              <caret line="43" column="392" selection-start-line="43" selection-start-column="392" selection-end-line="43" selection-end-column="392" />
             </state>
           </provider>
         </entry>
@@ -162,7 +179,6 @@
         <option value="$PROJECT_DIR$/guestbook.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md" />
         <option value="$PROJECT_DIR$/guest_book.html" />
-        <option value="$PROJECT_DIR$/guestbook.html" />
         <option value="$PROJECT_DIR$/laboratory/memo.md" />
         <option value="$PROJECT_DIR$/laboratory/bug_memo.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" />
@@ -188,6 +204,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/guestbook.html" />
       </list>
     </option>
   </component>
@@ -328,13 +345,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00073" summary="test Valine config.">
-      <created>1542076622019</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1542076622019</updated>
     </task>
     <task id="LOCAL-00074" summary="test Valine config.">
       <created>1542078519941</created>
@@ -672,12 +682,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544177392769</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="style: truncate length to 160 on home page of each post;&#10;bug fix：on guestbook.html's episode 2, code need tobe byte in python3.">
+      <created>1544269715353</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1544269715353</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.43559977" side_tool="true" weight="0.34663865" />
@@ -737,7 +753,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="delete guestbook.md, use guestbook.html instead." />
     <MESSAGE value="bug fix." />
     <MESSAGE value="add live2D cartoon and mathJax to enable formula in LaTex grammar." />
     <MESSAGE value="fix bug: assets/live2dw/lib is ignored in .gitignore, now add it." />
@@ -762,7 +777,8 @@
     <MESSAGE value="refactor: change post name;&#10;content: add content to post." />
     <MESSAGE value="refactor: change the length to 200 that each post will show on home page;&#10;bug fix: init Valine in index.html, home page will show the reader counter number now." />
     <MESSAGE value="bug fix: change baidu analytic code to my own." />
-    <option name="LAST_COMMIT_MESSAGE" value="bug fix: change baidu analytic code to my own." />
+    <MESSAGE value="style: truncate length to 160 on home page of each post;&#10;bug fix：on guestbook.html's episode 2, code need tobe byte in python3." />
+    <option name="LAST_COMMIT_MESSAGE" value="style: truncate length to 160 on home page of each post;&#10;bug fix：on guestbook.html's episode 2, code need tobe byte in python3." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -963,13 +979,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/guestbook.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="56" column="5" selection-start-line="52" selection-end-line="56" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1033,21 +1042,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="154">
             <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2448">
-          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-        </state>
-      </provider>
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -1122,6 +1116,28 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="57" column="72" selection-start-line="57" selection-start-column="72" selection-end-line="57" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guestbook.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-106">
+          <caret line="43" column="392" selection-start-line="43" selection-start-column="392" selection-end-line="43" selection-end-column="392" />
         </state>
       </provider>
     </entry>
