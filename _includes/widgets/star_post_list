@@ -1,6 +1,18 @@
 <div class="widget">
     <div class="widget-title"><i class="icon-star"> 推荐文章</i></div>
     <ul class="post-list">
-        <li class="post-list-item"><a class="post-list-link" href="https://blog.csdn.net/oukohou/article/details/82683821">S3FD:Single Shot Scale-invariant Face Detector</a></li>
+        <li class="post-list-item"><a class="post-list-link" href="https://www.oukohou.wang/2018/10/11/S3FD-Single-Shot-Scale-invariant-Face-Detector/">S3FD:Single Shot Scale-invariant Face Detector</a></li>
+    </ul>
+
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="https://www.oukohou.wang/2018/11/29/live2D%E5%AE%89%E8%A3%85/">给自己的jekyll博客安装live2D看板娘</a></li>
+    </ul>
+
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="https://www.oukohou.wang/2018/11/20/process_of_blog_setting-up/">博客搭建历程</a></li>
+    </ul>
+
+    <ul class="post-list">
+        <li class="post-list-item"><a class="post-list-link" href="https://www.oukohou.wang/2018/12/06/autumn_poems/">寒事今牢落，人生亦有初</a></li>
     </ul>
 </div>
