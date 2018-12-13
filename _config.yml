@@ -1,6 +1,6 @@
 # Site settings
 title: oukohou
-subtitle: [oukohou's blog]
+subtitle: [ 璇珠杂俎]
 keywords: oukohou
 description: 我梦扬州，便想到扬州梦我。幸会。微信公众号：oukohou.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -17,8 +17,6 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-# [] #, ]
-#gems: [jekyll-paginate,"jemoji"]
 
 # always get github's error email saying redcarpet is not supported,
 # so change it to kramdown.
@@ -27,14 +25,6 @@ highlighter: rouge
 kramdown:
   input: GFM
 
-#markdown: redcarpet
-#redcarpet:
-#    extensions: ["fenced_code_blocks",
-#                 "tables",
-#                 "highlight",
-#                 "strikethrough",
-#                 "no_intra_emphasis",
-#                 "with_toc_data"]
 
 # Pageinate settings
 paginate: 8 # 分页大小
@@ -78,21 +68,9 @@ links: # 友情链接
     url: http://jekyllcn.com/
 
 
-
 # Google Analytics
 ga_track_id: 'UA-130856615-1'            # Format: UA-xxxxxx-xx
 ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-## Gitalk
-#gitalk:
-#  enable: False    #是否开启Gitalk评论
-#  clientID: 130527c08d8ef45bb5dc                            #生成的clientID
-#  clientSecret: c8c0726a177a1265fdec64a66626592757a9df8a    #生成的clientSecret
-#  repo: kohouwang.github.io    #仓库名称
-#  owner: kohouwang    #github用户名
-#  admin: kohouwang
-#  distractionFreeMode: true #是否启用类似FB的阴影遮罩
-#  pagerDirection: first
 
 
 # Code hub settings
