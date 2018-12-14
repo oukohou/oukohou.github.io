@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,14 +21,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="124" column="58" selection-start-line="124" selection-start-column="58" selection-end-line="124" selection-end-column="58" />
+              <caret line="124" column="55" selection-start-line="124" selection-start-column="55" selection-end-line="124" selection-end-column="55" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-06-autumn_poems.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="420">
+                <caret line="137" selection-start-line="137" selection-end-line="142" selection-end-column="5" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -65,6 +77,39 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file leaf-file-name="2018-11-28-年会节目剧本_scenery_4.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="154">
+                <caret line="7" selection-start-line="7" selection-end-line="176" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-12-13-blog's-name-changed.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="442">
+                <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -75,8 +120,8 @@
         <option value="markdown" />
         <option value="blog_post" />
         <option value="Github_blog_post" />
-        <option value="Blog_post" />
         <option value="HTML File" />
+        <option value="Blog_post" />
       </list>
     </option>
   </component>
@@ -126,7 +171,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_site/donate/index.html" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_includes/widgets/personlized_signature" />
         <option value="$PROJECT_DIR$/_includes/widgets/search_box_new" />
@@ -161,7 +205,6 @@
         <option value="$PROJECT_DIR$/donate.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn poems.md" />
         <option value="$PROJECT_DIR$/laboratory/fd.html" />
@@ -177,6 +220,8 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" />
       </list>
     </option>
   </component>
@@ -217,6 +262,17 @@
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="imgs" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -235,16 +291,16 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/imgs" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/live2dw" />
       <recent name="$PROJECT_DIR$/assets/css" />
-      <recent name="$PROJECT_DIR$/server" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/server" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -301,13 +357,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00082" summary="test Valine config.">
-      <created>1542088101090</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1542088101090</updated>
     </task>
     <task id="LOCAL-00083" summary="test Valine config.">
       <created>1542089036339</created>
@@ -645,7 +694,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544683573416</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="style: simplify more unused codes;&#10;change: change blog's subtitle to 璇珠杂俎.">
+      <created>1544697763352</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1544697763353</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -656,9 +712,9 @@
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.43559977" side_tool="true" weight="0.34663865" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49640685" weight="0.1869748" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49640685" visible="true" weight="0.1869748" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.26890758" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.26890758" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1840796" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -710,7 +766,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="change live2d mobile size." />
     <MESSAGE value="still live2D" />
     <MESSAGE value="live2D" />
     <MESSAGE value="live2D." />
@@ -735,7 +790,8 @@
     <MESSAGE value="refactor: delete unused codes;&#10;style: change donate's page's slogan." />
     <MESSAGE value="bug fix: change Valine's config in post.html: visitor:true, not sure how to use javascript's code." />
     <MESSAGE value="style: small refine." />
-    <option name="LAST_COMMIT_MESSAGE" value="style: small refine." />
+    <MESSAGE value="style: simplify more unused codes;&#10;change: change blog's subtitle to 璇珠杂俎." />
+    <option name="LAST_COMMIT_MESSAGE" value="style: simplify more unused codes;&#10;change: change blog's subtitle to 璇珠杂俎." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -751,20 +807,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5012">
-          <caret line="1257" lean-forward="true" selection-start-line="1257" selection-end-line="1257" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style_backup.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="1" selection-end-line="1061" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1989">
@@ -831,16 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="44" column="12" selection-end-line="194" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baidu_verify_8nqEEWJYov.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -877,35 +909,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="5" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8">
-          <caret line="34" column="56" selection-start-line="34" selection-start-column="56" selection-end-line="34" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laboratory/fd.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="1002" column="186" selection-start-line="1002" selection-start-column="186" selection-end-line="1002" selection-end-column="186" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="576">
-            <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1039,10 +1046,58 @@
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="124" column="58" selection-start-line="124" selection-start-column="58" selection-end-line="124" selection-end-column="58" />
+          <caret line="124" column="55" selection-start-line="124" selection-start-column="55" selection-end-line="124" selection-end-column="55" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="420">
+            <caret line="137" selection-start-line="137" selection-end-line="142" selection-end-column="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="154">
+            <caret line="7" selection-start-line="7" selection-end-line="176" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/imgs/wechat_official_account.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="5" selection-start-line="5" selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="442">
+            <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
