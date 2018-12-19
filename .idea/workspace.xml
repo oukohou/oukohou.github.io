@@ -4,8 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" line="75" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="refactor: change Valine's abductive sentence;&#10;add content: add my name and career on about.html.">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" afterDir="false" />
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="post.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-32">
@@ -47,12 +46,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-18-notices-for-jekyll-themes-fork.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2018-12-18-notices-for-jekyll-themes-fork.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-2790">
-                <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
+              <first_editor relative-caret-position="92">
+                <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="172" selection-end-column="73" />
                 <folding>
                   <element signature="e#1670#2228#0" />
                 </folding>
@@ -347,13 +346,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00088" summary="update configs for Valine.">
-      <created>1542293735719</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1542293735721</updated>
     </task>
     <task id="LOCAL-00089" summary="delete comment_test.html in root dir.">
       <created>1542626278414</created>
@@ -691,7 +683,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545225470091</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="refactor: change Valine's abductive sentence;&#10;add content: add my name and career on about.html.">
+      <created>1545225725322</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1545225725322</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -779,9 +778,9 @@
     <MESSAGE value="add post: blog's name changed;&#10;change: change wechat official account picture." />
     <MESSAGE value="refactor: change wechat official account picture's size." />
     <MESSAGE value="refactor: change wechat official account picture's size, now using width: 80%." />
-    <MESSAGE value="refactor: change Valine's abductive sentence;&#10;add content: add my name and career on about.html." />
     <MESSAGE value="add post: notices for forking my jekyll theme." />
-    <option name="LAST_COMMIT_MESSAGE" value="add post: notices for forking my jekyll theme." />
+    <MESSAGE value="refactor: change Valine's abductive sentence;&#10;add content: add my name and career on about.html." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change Valine's abductive sentence;&#10;add content: add my name and career on about.html." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1076,19 +1075,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2790">
-            <caret line="10" column="63" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
-            <folding>
-              <element signature="e#1670#2228#0" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
@@ -1103,6 +1089,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-32">
           <caret line="60" selection-start-line="60" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="155" lean-forward="true" selection-start-line="155" selection-end-line="172" selection-end-column="73" />
+            <folding>
+              <element signature="e#1670#2228#0" />
+            </folding>
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

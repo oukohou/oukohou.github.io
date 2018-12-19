@@ -2,8 +2,8 @@
 layout: post
 title:  "使用我的jekyll博客主题的注意事项"
 date:   2018-12-18 20:13:53 +0800--
-categories: []
-tags: []  
+categories: [installation]
+tags: [notices, help]  
 ---
 
 **首先要感谢你使用我的博客主题！**  
