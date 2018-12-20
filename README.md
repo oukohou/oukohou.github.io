@@ -44,7 +44,7 @@ jekyll build
 jekyll server
 ```
 
-**Any star, fork or [donation](https://www.oukohou.wang/donate/) is highly appreciated!!!**  
+**Any star, fork or [donation](https://www.oukohou.wang/donate/ "赏个铜板") is highly appreciated!!!**  
 ![yasashii](https://s1.ax2x.com/2018/12/19/5Qxfd6.jpg "当然，女孩子会更温柔的啦～～")  
 
 ------
