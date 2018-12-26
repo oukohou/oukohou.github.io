@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +25,7 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-32">
+            <state relative-caret-position="22">
               <caret line="60" selection-start-line="60" selection-end-line="84" selection-end-column="13" />
             </state>
           </provider>
@@ -32,42 +34,48 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="81" selection-start-line="81" selection-end-line="91" selection-end-column="14" />
+            <state relative-caret-position="483">
+              <caret line="92" selection-start-line="92" selection-end-line="92" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="562">
+              <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+              <folding>
+                <element signature="e#438#464#0" expanded="true" />
+                <element signature="e#483#509#0" expanded="true" />
+                <element signature="e#573#599#0" expanded="true" />
+                <element signature="e#618#644#0" expanded="true" />
+                <element signature="e#748#774#0" expanded="true" />
+                <element signature="e#744#779#0" expanded="true" />
+                <element signature="e#793#819#0" expanded="true" />
+                <element signature="e#944#970#0" expanded="true" />
+                <element signature="e#993#1019#0" expanded="true" />
+                <element signature="e#980#1004#0" expanded="true" />
+                <element signature="e#1071#1097#0" expanded="true" />
+                <element signature="e#1066#1092#0" expanded="true" />
+                <element signature="e#1170#1196#0" expanded="true" />
+                <element signature="e#1214#1240#0" expanded="true" />
+                <element signature="e#1258#1284#0" expanded="true" />
+                <element signature="e#1302#1328#0" expanded="true" />
+                <element signature="e#1346#1372#0" expanded="true" />
+                <element signature="e#724#748#0" expanded="true" />
+                <element signature="e#773#793#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-12-18-notices-for-jekyll-themes-fork.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md">
+      <file leaf-file-name="2018-11-27-NetVLAD.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="183">
-                <caret line="172" column="71" lean-forward="true" selection-start-line="172" selection-end-line="172" selection-end-column="71" />
-                <folding>
-                  <element signature="e#1670#2228#0" />
-                </folding>
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="315">
-                <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+              <first_editor relative-caret-position="374">
+                <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="59" />
               </first_editor>
               <second_editor />
             </state>
@@ -85,8 +93,8 @@
         <option value="blog_post" />
         <option value="Github_blog_post" />
         <option value="HTML File" />
-        <option value="Blog_post" />
         <option value="MarkDown" />
+        <option value="Blog_post" />
       </list>
     </option>
   </component>
@@ -136,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/widgets/search_box_new" />
         <option value="$PROJECT_DIR$/_includes/plugins/share_button" />
         <option value="$PROJECT_DIR$/laboratory/images_in_one_line.md" />
         <option value="$PROJECT_DIR$/laboratory/resize_image.py" />
@@ -182,11 +189,12 @@
         <option value="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" />
         <option value="$PROJECT_DIR$/laboratory/readme_backup.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" />
+        <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" />
       </list>
     </option>
   </component>
@@ -200,10 +208,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="258" />
-    <option name="y" value="501" />
-    <option name="width" value="1772" />
-    <option name="height" value="798" />
+    <option name="x" value="802" />
+    <option name="y" value="170" />
+    <option name="width" value="1770" />
+    <option name="height" value="762" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -238,11 +246,6 @@
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="laboratory" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -327,20 +330,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00090" summary="add a post:process of blog setting-up.">
-      <created>1542718959876</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1542718959876</updated>
-    </task>
-    <task id="LOCAL-00091" summary="add category and tags.">
-      <created>1542719144997</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1542719144997</updated>
     </task>
     <task id="LOCAL-00092" summary="update tags.">
       <created>1542764377493</created>
@@ -671,21 +660,34 @@
       <option name="project" value="LOCAL" />
       <updated>1545226190839</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="refactor: add notices for cloning my repo on.">
+      <created>1545227055142</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1545227055142</updated>
+    </task>
+    <task id="LOCAL-00140" summary="refactor: correct some typos.">
+      <created>1545306569869</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1545306569869</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="7" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.2972689" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.2972689" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.32983193" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23493643" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.24054621" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23770039" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -736,8 +738,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add post: sand table simulation activity." />
-    <MESSAGE value="add category and tags." />
     <MESSAGE value="valine config." />
     <MESSAGE value="feature: add reading counter;  &#10;style: shrink live2D size." />
     <MESSAGE value="bug fix: correct link in post;  &#10;feature: add baidu verify html." />
@@ -761,7 +761,9 @@
     <MESSAGE value="add post: notices for forking my jekyll theme." />
     <MESSAGE value="refactor: change Valine's abductive sentence;&#10;add content: add my name and career on about.html." />
     <MESSAGE value="add content: add my name and career on about.html." />
-    <option name="LAST_COMMIT_MESSAGE" value="add content: add my name and career on about.html." />
+    <MESSAGE value="refactor: add notices for cloning my repo on." />
+    <MESSAGE value="refactor: correct some typos." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: correct some typos." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -777,18 +779,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/donate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="811">
-            <caret line="59" column="51" selection-start-line="59" selection-start-column="51" selection-end-line="59" selection-end-column="51" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/CVAR/study/VM_shared_folder/downloads/pandownload/Dian 人脸图像采集/20181201_195836picdir/20181201_195836picdir_Color_103143.png" />
-    <entry file="file://$USER_HOME$/CVAR/study/VM_shared_folder/downloads/pandownload/Dian 人脸图像采集/20181201_195836picdir/20181201_195836picdir_Depth_103787.png" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-29-live2D_installation.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -804,16 +794,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/robots.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/legacy.rnc">
       <provider selected="true" editor-type-id="text-editor">
@@ -978,20 +958,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3696">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state relative-caret-position="-3696" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md">
@@ -1004,27 +973,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="81" selection-start-line="81" selection-end-line="91" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="60" selection-start-line="60" selection-end-line="84" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1038,10 +990,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/tongji.baidu.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="46" column="69" selection-start-line="46" selection-start-column="69" selection-end-line="46" selection-end-column="69" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2816">
+            <caret line="142" column="17" selection-start-line="142" selection-start-column="17" selection-end-line="142" selection-end-column="17" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laboratory/images_in_one_line.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="66" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="66" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="242">
+          <first_editor relative-caret-position="506">
             <caret line="44" column="81" selection-start-line="43" selection-end-line="44" selection-end-column="81" />
           </first_editor>
           <second_editor />
@@ -1049,11 +1056,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="24" column="68" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="68" />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
@@ -1062,28 +1064,55 @@
           <second_editor />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
+          <folding>
+            <element signature="e#438#464#0" expanded="true" />
+            <element signature="e#483#509#0" expanded="true" />
+            <element signature="e#573#599#0" expanded="true" />
+            <element signature="e#618#644#0" expanded="true" />
+            <element signature="e#748#774#0" expanded="true" />
+            <element signature="e#744#779#0" expanded="true" />
+            <element signature="e#793#819#0" expanded="true" />
+            <element signature="e#944#970#0" expanded="true" />
+            <element signature="e#993#1019#0" expanded="true" />
+            <element signature="e#980#1004#0" expanded="true" />
+            <element signature="e#1071#1097#0" expanded="true" />
+            <element signature="e#1066#1092#0" expanded="true" />
+            <element signature="e#1170#1196#0" expanded="true" />
+            <element signature="e#1214#1240#0" expanded="true" />
+            <element signature="e#1258#1284#0" expanded="true" />
+            <element signature="e#1302#1328#0" expanded="true" />
+            <element signature="e#1346#1372#0" expanded="true" />
+            <element signature="e#724#748#0" expanded="true" />
+            <element signature="e#773#793#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/tongji.baidu.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="60" selection-start-line="60" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="183">
-            <caret line="172" column="71" lean-forward="true" selection-start-line="172" selection-end-line="172" selection-end-column="71" />
-            <folding>
-              <element signature="e#1670#2228#0" />
-            </folding>
+          <first_editor relative-caret-position="374">
+            <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="59" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="315">
-            <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+          <first_editor relative-caret-position="303">
+            <caret line="92" selection-start-line="92" selection-end-line="92" />
           </first_editor>
           <second_editor />
         </state>
