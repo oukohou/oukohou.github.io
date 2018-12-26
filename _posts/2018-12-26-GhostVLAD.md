@@ -39,7 +39,8 @@ c. 输出的描述子要足够有辨别性，从而使得类内相似性远远�
 
 言归正传，ghostVLAD的架构，很清晰：  
 1. Feature extraction： 用个预训练的 backbone 提取特征；  
-2. Aggregation： 把提取到的多个图片的多个特征聚合为一个描述子。  
+2. Aggregation： 把提取到的多个图片的多个特征聚合为一个描述子。   
+ 
 backbone论文里用的是 ResNet-50 和 SENet-50，当然，要去掉最后的池化层。  
 同时，作者为了达到上面提到的要求 b ，又在 backbone 的后面加了个全连接层，使得输出维度从 2048 降为128/256。  
 是不是有点意外？一开始看人家介绍要求 b 的时候，是不是以为要放什么大招呢？  
@@ -47,7 +48,7 @@ backbone论文里用的是 ResNet-50 和 SENet-50，当然，要去掉最后的�
 
 ## 3. GhostVLAD: NetVLAD with ghost clusters
 这一节的节标题就是作者原文里的标题。哈哈，看到这个标题，觉不觉得作者好像还算挺实诚的？  
-GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将其转换为一个 $D_FxK$ 的输出。  
+GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将其转换为一个 $D_F*K$ 的输出。  
 然后这个输出再经过一层全连接层，得到一个 D 维的向量。  
 关于NetVLAD的详细介绍，请看我的另一篇博文： [论文阅读 NetVLAD: CNN architecture for weakly supervised place recognition](https://www.oukohou.wang/2018/11/27/NetVLAD/).  
 这里就不赘述了。  
