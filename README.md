@@ -14,7 +14,7 @@
 我的博客主题里有一些自己定制化的内容，其中涉及到一些信息获取的事宜(比如百度统计的代码，你忘记修改的话，
 我可以直接获取到你的网站的各种访问信息呦🙈)，所以我一一都写在了 **[这篇博文](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/ "对没错，就是是这篇超级暖心的博文")**
  里，敬请访问～～
-[![image](https://user-images.githubusercontent.com/16237619/50223307-ca645080-03d5-11e9-9368-0dac86ab1cf8.png)](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/ "点击图像直达博文～～")  
+[![image](https://s1.ax2x.com/2019/01/07/5dYMIy.png)](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/ "点击图像直达博文～～")  
 是不是超级暖心？🐼    
 
 

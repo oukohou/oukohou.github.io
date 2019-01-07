@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,7 +23,7 @@
       <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
+            <state relative-caret-position="1320">
               <caret line="60" selection-start-line="60" selection-end-line="84" selection-end-column="13" />
             </state>
           </provider>
@@ -34,7 +32,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
+            <state relative-caret-position="2024">
               <caret line="92" selection-start-line="92" selection-end-line="92" />
             </state>
           </provider>
@@ -43,39 +41,21 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
+            <state relative-caret-position="990">
               <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
               <folding>
-                <element signature="e#438#464#0" expanded="true" />
-                <element signature="e#483#509#0" expanded="true" />
-                <element signature="e#573#599#0" expanded="true" />
-                <element signature="e#618#644#0" expanded="true" />
-                <element signature="e#748#774#0" expanded="true" />
                 <element signature="e#744#779#0" expanded="true" />
-                <element signature="e#793#819#0" expanded="true" />
-                <element signature="e#944#970#0" expanded="true" />
-                <element signature="e#993#1019#0" expanded="true" />
-                <element signature="e#980#1004#0" expanded="true" />
-                <element signature="e#1071#1097#0" expanded="true" />
-                <element signature="e#1066#1092#0" expanded="true" />
-                <element signature="e#1170#1196#0" expanded="true" />
-                <element signature="e#1214#1240#0" expanded="true" />
-                <element signature="e#1258#1284#0" expanded="true" />
-                <element signature="e#1302#1328#0" expanded="true" />
-                <element signature="e#1346#1372#0" expanded="true" />
-                <element signature="e#724#748#0" expanded="true" />
-                <element signature="e#773#793#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-11-27-NetVLAD.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
+      <file leaf-file-name="2018-12-26-GhostVLAD.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="374">
-                <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="59" />
+              <first_editor relative-caret-position="22">
+                <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
               </first_editor>
               <second_editor />
             </state>
@@ -144,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/plugins/share_button" />
         <option value="$PROJECT_DIR$/laboratory/images_in_one_line.md" />
         <option value="$PROJECT_DIR$/laboratory/resize_image.py" />
         <option value="$PROJECT_DIR$/laboratory/record.record" />
@@ -194,6 +173,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" />
       </list>
     </option>
@@ -208,10 +188,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="802" />
-    <option name="y" value="170" />
-    <option name="width" value="1770" />
-    <option name="height" value="762" />
+    <option name="x" value="77" />
+    <option name="y" value="4" />
+    <option name="width" value="1853" />
+    <option name="height" value="994" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -330,20 +310,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00092" summary="update tags.">
-      <created>1542764377493</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1542764377493</updated>
-    </task>
-    <task id="LOCAL-00093" summary="change guestbook page and add comment module.">
-      <created>1542803502603</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1542803502603</updated>
     </task>
     <task id="LOCAL-00094" summary="delete guestbook.md, use guestbook.html instead.">
       <created>1542803912138</created>
@@ -674,20 +640,35 @@
       <option name="project" value="LOCAL" />
       <updated>1545306569869</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="refactor: change markdown to md;&#10;add post: GhostVLAD.">
+      <created>1545830195354</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1545830195355</updated>
+    </task>
+    <task id="LOCAL-00142" summary="refactor: change format.">
+      <created>1545830604098</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1545830604098</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="7" />
+    <frame x="65" y="24" width="1855" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.2972689" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.30627707" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.24054621" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23770039" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.24054621" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24046434" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -738,8 +719,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="valine config." />
-    <MESSAGE value="feature: add reading counter;  &#10;style: shrink live2D size." />
     <MESSAGE value="bug fix: correct link in post;  &#10;feature: add baidu verify html." />
     <MESSAGE value="refactor: delete baidu_verify_mDTcGWbBLX.html" />
     <MESSAGE value="refactor: change post name;&#10;content: add content to post." />
@@ -763,7 +742,9 @@
     <MESSAGE value="add content: add my name and career on about.html." />
     <MESSAGE value="refactor: add notices for cloning my repo on." />
     <MESSAGE value="refactor: correct some typos." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: correct some typos." />
+    <MESSAGE value="refactor: change markdown to md;&#10;add post: GhostVLAD." />
+    <MESSAGE value="refactor: change format." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change format." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1028,19 +1009,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="66" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="66" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
+        <state relative-caret-position="2024">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
@@ -1050,6 +1021,33 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="506">
             <caret line="44" column="81" selection-start-line="43" selection-end-line="44" selection-end-column="81" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" selection-start-line="60" selection-end-line="84" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-440">
+            <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="374">
+            <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="59" />
           </first_editor>
           <second_editor />
         </state>
@@ -1065,54 +1063,19 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
+        <state relative-caret-position="990">
           <caret line="45" column="49" selection-start-line="45" selection-start-column="49" selection-end-line="45" selection-end-column="49" />
           <folding>
-            <element signature="e#438#464#0" expanded="true" />
-            <element signature="e#483#509#0" expanded="true" />
-            <element signature="e#573#599#0" expanded="true" />
-            <element signature="e#618#644#0" expanded="true" />
-            <element signature="e#748#774#0" expanded="true" />
             <element signature="e#744#779#0" expanded="true" />
-            <element signature="e#793#819#0" expanded="true" />
-            <element signature="e#944#970#0" expanded="true" />
-            <element signature="e#993#1019#0" expanded="true" />
-            <element signature="e#980#1004#0" expanded="true" />
-            <element signature="e#1071#1097#0" expanded="true" />
-            <element signature="e#1066#1092#0" expanded="true" />
-            <element signature="e#1170#1196#0" expanded="true" />
-            <element signature="e#1214#1240#0" expanded="true" />
-            <element signature="e#1258#1284#0" expanded="true" />
-            <element signature="e#1302#1328#0" expanded="true" />
-            <element signature="e#1346#1372#0" expanded="true" />
-            <element signature="e#724#748#0" expanded="true" />
-            <element signature="e#773#793#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="60" selection-start-line="60" selection-end-line="84" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="374">
-            <caret line="68" selection-start-line="68" selection-end-line="68" selection-end-column="59" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="303">
-            <caret line="92" selection-start-line="92" selection-end-line="92" />
+          <first_editor relative-caret-position="22">
+            <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
           </first_editor>
           <second_editor />
         </state>
