@@ -2,8 +2,8 @@
 layout: post
 title:  "沙盘模拟培训活动-后感"
 date:   2018-11-28 20:19:55 +0800--
-categories: [活动]
-tags: [sand table, game, activity]  
+categories: [浪游]
+tags: [sand table, game, activity, company]  
 ---
 
 今天下午(2018-11-28，周三)我司组织了一个沙盘模拟活动培训，感觉还挺有价值和意义，写写感受。  
