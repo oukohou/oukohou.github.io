@@ -2,7 +2,7 @@
 layout: post
 title:  "博客改名考"
 date:   2018-12-13 19:54:25 +0800--
-categories: [installation]
+categories: [部署]
 tags: [blog, 璇珠, 杂俎, name, 装逼]  
 ---
 

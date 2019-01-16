@@ -2,7 +2,7 @@
 layout: post
 title:  "博客搭建历程"
 date:   2018-11-20 19:43:30 +0800--
-categories: [installation]
+categories: [部署]
 tags: [installation, blog, setting up]  
 ---
 前几天给博客加了[Valine](https://valine.js.org/)评论系统，至此博客也算是像模像样地正式搭建好可以见人了。  

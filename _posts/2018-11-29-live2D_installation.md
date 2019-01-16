@@ -2,7 +2,7 @@
 layout: post
 title:  "给自己的jekyll安装一个萌萌哒二次元看板娘"
 date:   2018-11-29 12:20:06 +0800--
-categories: [installation]
+categories: [部署]
 tags: [moe, live2D, ]  
 ---
 

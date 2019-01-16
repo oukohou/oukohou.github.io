@@ -2,7 +2,7 @@
 layout: post
 title:  "沙盘模拟培训活动-后感"
 date:   2018-11-28 20:19:55 +0800--
-categories: [Activities]
+categories: [活动]
 tags: [sand table, game, activity]  
 ---
 

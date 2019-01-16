@@ -2,7 +2,7 @@
 layout: post
 title:  "论文阅读_图像生成-pix2pix:Image-to-Image Translation with Conditional Adversarial Networks "
 date:   2019-01-07 21:03:18 +0800--
-categories: [papers]
+categories: [论文]
 tags: [pix2pix, PixelGAN, cGAN, PatchGAN, ImageGAN, CVPR]  
 ---
 
