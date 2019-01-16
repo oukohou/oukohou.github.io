@@ -39,6 +39,8 @@ if you have a network adaptor, you will need to re-install the driver.
 ![install_a_driver](https://s1.ax2x.com/2019/01/16/5dqISa.png)   
 更加意外，更加惊喜了这下……  
 怎么办呢？  
+![help~~](https://s1.ax2x.com/2019/01/16/5dqqTe.jpg)    
+  
 
 不用怕！且看下文如何分解～～  
 

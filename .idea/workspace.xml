@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,24 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2019-01-16-reocrds_of_installation_errors_and_operations.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2019-01-16-reocrds_of_installation_errors_and_operations.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="567">
-                <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              <first_editor relative-caret-position="686">
+                <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-16-VMware-Windows-no-network-adaptor.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2019-01-16-VMware-Windows-no-network-adaptor.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <first_editor relative-caret-position="268">
+                <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
               </first_editor>
               <second_editor />
             </state>
@@ -168,8 +167,8 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" />
       </list>
     </option>
   </component>
@@ -300,13 +299,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00100" summary="add chinese beginning of post NetVLAD's title.">
-      <created>1543497576098</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1543497576098</updated>
     </task>
     <task id="LOCAL-00101" summary="reduce ths size of live2D cartoon and scale factor on mobile.">
       <created>1543557650471</created>
@@ -644,7 +636,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547634277179</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="add posts: VMware's network adaptor and records of errors.">
+      <created>1547645225909</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1547645225910</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -655,10 +654,10 @@
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.27731094" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.27731094" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.30147058" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16970702" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.30147058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16970702" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -709,7 +708,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bug fix：on guestbook.html's episode 2, code need to be decoded.&#10;refactor: add a sentence to bilibili link." />
     <MESSAGE value="refactor: change star post's link;and add several more star posts;&#10;(breaking)style:change post's filename to English for MeiGuan." />
     <MESSAGE value="refactor: change star post's link;&#10;feature: add google analytics." />
     <MESSAGE value="feature: add google analytics, and this time is real;&#10;refactor: change _config.yml's go_track_id." />
@@ -734,7 +732,8 @@
     <MESSAGE value="refactor: change all categories to Chinese, abandon English ones." />
     <MESSAGE value="refactor: change category 拾遗 to 勤学, as this category is for learning." />
     <MESSAGE value="refactor: change category 活动 to 浪游, so as to include more posts." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change category 活动 to 浪游, so as to include more posts." />
+    <MESSAGE value="add posts: VMware's network adaptor and records of errors." />
+    <option name="LAST_COMMIT_MESSAGE" value="add posts: VMware's network adaptor and records of errors." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1069,21 +1068,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <first_editor relative-caret-position="686">
+            <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="567">
-            <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <first_editor relative-caret-position="268">
+            <caret line="41" column="56" selection-start-line="41" selection-start-column="56" selection-end-line="41" selection-end-column="56" />
           </first_editor>
           <second_editor />
         </state>
