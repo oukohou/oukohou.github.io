@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,12 +21,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-10-25-Einstein summation convention.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md">
+      <file leaf-file-name="2019-01-16-reocrds_of_installation_errors_and_operations.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="88">
-                <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <first_editor relative-caret-position="567">
+                <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-16-VMware-Windows-no-network-adaptor.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="176">
+                <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="355">
+                <caret line="117" selection-start-line="113" selection-end-line="117" />
               </first_editor>
               <second_editor />
             </state>
@@ -93,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/laboratory/record.record" />
-        <option value="$PROJECT_DIR$/assets/js/md5.min.js" />
         <option value="$PROJECT_DIR$/about.md" />
         <option value="$PROJECT_DIR$/_includes/footer/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/keynote.html" />
@@ -137,13 +161,15 @@
         <option value="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D_installation.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
       </list>
     </option>
   </component>
@@ -157,10 +183,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="153" />
-    <option name="y" value="403" />
-    <option name="width" value="1853" />
-    <option name="height" value="673" />
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -274,13 +300,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00099" summary="add post: NetVLAD.">
-      <created>1543497368708</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1543497368708</updated>
     </task>
     <task id="LOCAL-00100" summary="add chinese beginning of post NetVLAD's title.">
       <created>1543497576098</created>
@@ -618,20 +637,28 @@
       <option name="project" value="LOCAL" />
       <updated>1547625664648</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="refactor: change category 活动 to 浪游, so as to include more posts.">
+      <created>1547634277179</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1547634277179</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.27731094" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.27731094" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.30147058" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30624655" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.30147058" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16970702" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -682,7 +709,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="style: truncate length to 160 on home page of each post;&#10;bug fix：on guestbook.html's episode 2, code need tobe byte in python3." />
     <MESSAGE value="bug fix：on guestbook.html's episode 2, code need to be decoded.&#10;refactor: add a sentence to bilibili link." />
     <MESSAGE value="refactor: change star post's link;and add several more star posts;&#10;(breaking)style:change post's filename to English for MeiGuan." />
     <MESSAGE value="refactor: change star post's link;&#10;feature: add google analytics." />
@@ -707,7 +733,8 @@
     <MESSAGE value="add post: pix2pix." />
     <MESSAGE value="refactor: change all categories to Chinese, abandon English ones." />
     <MESSAGE value="refactor: change category 拾遗 to 勤学, as this category is for learning." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change category 拾遗 to 勤学, as this category is for learning." />
+    <MESSAGE value="refactor: change category 活动 to 浪游, so as to include more posts." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change category 活动 to 浪游, so as to include more posts." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -723,20 +750,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/widgets/star_post_list">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="123" selection-start-line="7" selection-start-column="123" selection-end-line="7" selection-end-column="123" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/guestbook.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/widgets/post_toc">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -951,16 +964,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1021,16 +1024,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="88">
-            <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1046,11 +1039,51 @@
         <state relative-caret-position="-3300" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="88">
             <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="355">
+            <caret line="117" selection-start-line="113" selection-end-line="117" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="176">
+            <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="567">
+            <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
           </first_editor>
           <second_editor />
         </state>
