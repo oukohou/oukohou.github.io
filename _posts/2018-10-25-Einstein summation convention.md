@@ -2,7 +2,7 @@
 layout: post
 title:  "爱因斯坦求和约定"
 date:   2018-10-25 21:42:21 +0800--
-categories: [拾遗]
+categories: [勤学]
 tags:   [einsum, machine learning]
 ---
 
