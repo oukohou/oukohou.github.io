@@ -108,7 +108,7 @@ feature vector。
 以上，就是这篇ProgressiveGAN的阅读所得。  
 欢迎大家指摘讨论～～    
 
-微信公众号：璇珠杂俎(也可搜索oukohou)，提供本站优质非技术博文～～
+微信公众号：璇珠杂俎(也可搜索[oukohou](https://mp.weixin.qq.com/s?__biz=MzI4NDExMTY3Nw==&mid=2648482320&idx=1&sn=eed9a99345f8bf8131fffc540427e140&chksm=f3a86442c4dfed546b4855064d0927e3bce196069b8831a068a14231aa09f2873b172e1e6e51&mpshare=1&scene=1&srcid=0107t2urx21BeBUfcMPS2ogz&pass_ticket=fu191t%2BGZ6NYnNF4YbdZFosX0u1IftKDb41H6BdplZ5RbNhqFsvaxvM06WSl2gES#rd))，提供本站优质非技术博文～～
 ![wechat_official_account](https://www.oukohou.wang/assets/imgs/wechat_official_account.png)  
 
 
