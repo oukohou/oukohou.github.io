@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,8 +45,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="590">
-                <caret line="117" column="3" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
+              <first_editor relative-caret-position="110">
+                <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -290,20 +290,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00102" summary="reformat.">
-      <created>1543559748847</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1543559748847</updated>
-    </task>
-    <task id="LOCAL-00103" summary="change live2D cartoon's mobile size.">
-      <created>1543559907634</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1543559907634</updated>
     </task>
     <task id="LOCAL-00104" summary="change live2d mobile size.">
       <created>1543560158042</created>
@@ -634,21 +620,34 @@
       <option name="project" value="LOCAL" />
       <updated>1547646014565</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="add post: ProgressiveGAN.">
+      <created>1548247427183</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1548247427185</updated>
+    </task>
+    <task id="LOCAL-00152" summary="add post: ProgressiveGAN.">
+      <created>1548247700336</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1548247700336</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.2857143" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.2857143" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.30147058" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18021005" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18021005" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
@@ -699,7 +698,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: change star post's link;&#10;feature: add google analytics." />
     <MESSAGE value="feature: add google analytics, and this time is real;&#10;refactor: change _config.yml's go_track_id." />
     <MESSAGE value="refactor: change donate's page's slogan." />
     <MESSAGE value="refactor: delete unused codes;&#10;style: change donate's page's slogan." />
@@ -724,7 +722,8 @@
     <MESSAGE value="refactor: change category 活动 to 浪游, so as to include more posts." />
     <MESSAGE value="add posts: VMware's network adaptor and records of errors." />
     <MESSAGE value="small refinement: add a picture." />
-    <option name="LAST_COMMIT_MESSAGE" value="small refinement: add a picture." />
+    <MESSAGE value="add post: ProgressiveGAN." />
+    <option name="LAST_COMMIT_MESSAGE" value="add post: ProgressiveGAN." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1079,8 +1078,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="590">
-            <caret line="117" column="3" selection-start-line="117" selection-start-column="3" selection-end-line="117" selection-end-column="3" />
+          <first_editor relative-caret-position="110">
+            <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
           </first_editor>
           <second_editor />
         </state>

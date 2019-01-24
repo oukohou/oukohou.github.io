@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "论文阅读_图像生成-ProgressiveGAN:PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY , STABILITY , AND VARIATION"
+title:  "论文阅读_图像生成-ProgressiveGAN:Progressive growing of GANs for improved quality, stability, and variation"
 date:   2019-01-22 19:57:32 +0800--
 categories: [论文]
-tags: [paper, GAN, discriminator, generator, ]  
+tags: [paper, GAN, discriminator, generator, CelebA-HQ]  
 ---
 
 
@@ -15,7 +15,7 @@ Progressive GAN，所生成的图像分辨率达到了$1024*1024$，先睹为快
 那么我们就要问了，市面上这么多GAN，凭什么你ProgressiveGAN生成的分辨率就这么又高又真实呢？  
 君且安坐，请看下文如何分解。  
 
-## 1.methods  
+## 1. methods  
 其实ProgressiveGAN，关键在于这个 `Progressive`， 看图：  
 ![whats_Progressive](https://s1.ax2x.com/2019/01/23/5jCOjA.png)  
 
@@ -26,7 +26,7 @@ Progressive GAN，所生成的图像分辨率达到了$1024*1024$，先睹为快
 
 看懂了么，解释有点绕，其实就是在添加新的层的时候，将其作为一个residual layer，从0到1递增地增加其权重，以达到稳定训练的目的。  
 
-## 2.tricks  
+## 2. tricks  
 下面就是论文中用到的一些tricks来达到更好的效果了～～  
 ### 1). increase variation using minibatch standard deviation  
 众所周知，GAN容易陷入 `mode collapse`， 即只学习到了几个样式，比如本文的人脸任务，很可能最终学到的只是为数不多的几个人脸。  
@@ -47,7 +47,7 @@ Progressive GAN，所生成的图像分辨率达到了$1024*1024$，先睹为快
 其维度为$$513*4*4$$，比上一层多了一个维度，所多的即为前面提到的新生成的feature map。  
 
 
-### 2).normalization in generator and discriminator 
+### 2). normalization in generator and discriminator 
 GAN本身很容易因为generator和discriminator的不健康竞争而使得signal magnitudes增大，特别是当没有使用类似batch norm之类的约束的时候。    
 而batch norm这类方法最初是被用来消除covariate shift的，但是，作者说并没有在GAN中观测到covariate shift的问题，也因此采用了不同的方法。  
 请看下文分解。  
@@ -57,7 +57,7 @@ GAN本身很容易因为generator和discriminator的不健康竞争而使得sign
 如果某些参数相比于其他参数有更大的波动范围的话，其也会花费更长的时间来调整。相应的，其学习率(learning rate)就并不能适用于所有参数。    
 这时就体现出作者的意图了：在训练时保证参数的波动范围，于是乎，就能保证同一个学习率对于所有参数是适用的。   
 
-#### b.pixelwise feature vector normalization in generator
+#### b. pixelwise feature vector normalization in generator
 为了防止generator和discriminator的参数量级因相互竞争而变得过大，作者又在pixel层面上使feature vector归一化到单位长度：  
 $$b_{x,y}=\frac{a_{x,y}}
 {
@@ -93,7 +93,7 @@ feature vector。
 
 最终在202599张图像中得到了30000张高清大头照。  
 
-## 4.results
+## 4. results
 最后，就是大家喜闻乐见的有图有真相环节了～  
 话不多说，放图：  
 ![results_1](https://s1.ax2x.com/2019/01/23/5jUcIp.png)  
