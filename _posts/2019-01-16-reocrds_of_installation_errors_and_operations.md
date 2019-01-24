@@ -36,7 +36,15 @@ export TORCH_NVCC_FLAGS="-D__CUDA_NO_HALF_OPERATORS__"
 ```
 这里为了方便，所以粘贴的代码，感谢提供这个方法的 [pkuwwt](https://github.com/pkuwwt).   
 
-## 2. TODO
+
+## 2. matlab datanum and python datetime convert
+see :
+- [Converting MATLAB's datenum to Python's datetime](http://sociograph.blogspot.com/2011/04/how-to-avoid-gotcha-when-converting.html)
+- [python-datetime-to-matlab-datenum](https://stackoverflow.com/questions/8776414/python-datetime-to-matlab-datenum)
+
+
+
+## 3. TODO
 
 
 

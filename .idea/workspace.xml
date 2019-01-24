@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -290,13 +289,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00104" summary="change live2d mobile size.">
-      <created>1543560158042</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1543560158042</updated>
     </task>
     <task id="LOCAL-00105" summary="little changes.">
       <created>1543560608643</created>
@@ -634,11 +626,19 @@
       <option name="project" value="LOCAL" />
       <updated>1548247700336</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="refactor: change a post's name to lower-case.">
+      <created>1548293800095</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1548293800096</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
@@ -698,7 +698,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feature: add google analytics, and this time is real;&#10;refactor: change _config.yml's go_track_id." />
     <MESSAGE value="refactor: change donate's page's slogan." />
     <MESSAGE value="refactor: delete unused codes;&#10;style: change donate's page's slogan." />
     <MESSAGE value="bug fix: change Valine's config in post.html: visitor:true, not sure how to use javascript's code." />
@@ -723,7 +722,8 @@
     <MESSAGE value="add posts: VMware's network adaptor and records of errors." />
     <MESSAGE value="small refinement: add a picture." />
     <MESSAGE value="add post: ProgressiveGAN." />
-    <option name="LAST_COMMIT_MESSAGE" value="add post: ProgressiveGAN." />
+    <MESSAGE value="refactor: change a post's name to lower-case." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change a post's name to lower-case." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
