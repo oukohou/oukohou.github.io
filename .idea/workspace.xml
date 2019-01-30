@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donate.md" beforeDir="false" afterPath="$PROJECT_DIR$/donate.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,33 +21,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="89" column="19" selection-start-line="89" selection-start-column="12" selection-end-line="89" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md">
+      <file leaf-file-name="2019-01-16-reocrds_of_installation_errors_and_operations.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="656">
-                <caret line="117" selection-start-line="108" selection-end-line="117" />
+              <first_editor relative-caret-position="1100">
+                <caret line="50" selection-start-line="50" selection-end-line="50" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-22-ProgressiveGAN.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md">
+      <file leaf-file-name="donate.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/donate.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="110">
-                <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="502">
+                <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-01-29-Ubuntu_how_to_mount_disk.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="421">
+                <caret line="76" column="5" lean-forward="true" selection-start-line="62" selection-end-line="76" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -114,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_includes/footer/footer.html" />
         <option value="$PROJECT_DIR$/_layouts/keynote.html" />
         <option value="$PROJECT_DIR$/google987633c16e64f5fc.html" />
         <option value="$PROJECT_DIR$/sogousiteverification.txt" />
@@ -132,7 +136,6 @@
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" />
-        <option value="$PROJECT_DIR$/donate.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-29-live2D安装.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn poems.md" />
         <option value="$PROJECT_DIR$/laboratory/fd.html" />
@@ -162,9 +165,11 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
         <option value="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
+        <option value="$PROJECT_DIR$/donate.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" />
       </list>
     </option>
   </component>
@@ -178,17 +183,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="55" />
-    <option name="y" value="291" />
-    <option name="width" value="1855" />
-    <option name="height" value="546" />
+    <option name="x" value="153" />
+    <option name="y" value="403" />
+    <option name="width" value="1853" />
+    <option name="height" value="673" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,17 +203,13 @@
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,10 +217,10 @@
     <property name="SearchEverywhereHistoryKey" value="duoshuo&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/jekyll/update/2018/08/28/welcome-to-jekyll.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/laboratory/comment_test.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/guestbook/index.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/laboratory/fd.html&#10;true&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/assets/css/style.css" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hexo/blog_demo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../projects_/face_synthesis/codes/insightface_v2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -289,13 +289,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00105" summary="little changes.">
-      <created>1543560608643</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1543560608643</updated>
     </task>
     <task id="LOCAL-00106" summary="still live2D">
       <created>1543561552986</created>
@@ -633,7 +626,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548293800096</updated>
     </task>
-    <option name="localTasksCounter" value="154" />
+    <task id="LOCAL-00154" summary="add content: matlab and python's datenum convert.">
+      <created>1548300742916</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1548300742916</updated>
+    </task>
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -643,19 +643,19 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.2857143" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.30147058" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18021005" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.2857143" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.30147058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18684356" />
       <window_info anchor="right" id="R Packages" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498618" weight="0.21743697" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -698,7 +698,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: change donate's page's slogan." />
     <MESSAGE value="refactor: delete unused codes;&#10;style: change donate's page's slogan." />
     <MESSAGE value="bug fix: change Valine's config in post.html: visitor:true, not sure how to use javascript's code." />
     <MESSAGE value="style: small refine." />
@@ -723,7 +722,8 @@
     <MESSAGE value="small refinement: add a picture." />
     <MESSAGE value="add post: ProgressiveGAN." />
     <MESSAGE value="refactor: change a post's name to lower-case." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change a post's name to lower-case." />
+    <MESSAGE value="add content: matlab and python's datenum convert." />
+    <option name="LAST_COMMIT_MESSAGE" value="add content: matlab and python's datenum convert." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -739,15 +739,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/widgets/search_box">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/widgets/category_list">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/widgets/codehub_list">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/widgets/link_list">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1041,22 +1032,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="585">
-            <caret line="45" column="4" selection-start-line="45" selection-start-column="4" selection-end-line="45" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="593">
           <caret line="92" selection-start-line="92" selection-end-line="92" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -1068,7 +1052,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="656">
+          <first_editor relative-caret-position="582">
             <caret line="117" selection-start-line="108" selection-end-line="117" />
           </first_editor>
           <second_editor />
@@ -1078,8 +1062,38 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <first_editor relative-caret-position="128">
+            <caret line="109" lean-forward="true" selection-start-line="109" selection-end-line="113" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1100">
+            <caret line="50" selection-start-line="50" selection-end-line="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/donate.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="502">
+            <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="421">
+            <caret line="76" column="5" lean-forward="true" selection-start-line="62" selection-end-line="76" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
