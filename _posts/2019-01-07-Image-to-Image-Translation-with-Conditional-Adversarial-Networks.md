@@ -73,8 +73,10 @@ $L_{L1}(G) = E_(x,y,z)[||y-G(x,z)||_1]$　　 ~~（居然手打了个公式，�
 也正因为此，论文用L1 loss来加强低频信息的准确性,同时这也使得GAN discriminator也就可以专注于高频结构的塑造。  
 是不是很机智？  
 而对于高频信息，我们就可以只关注于图像的局部区域(local patches)。  
-这也是PatchGAN的由来——只在patch层面上对结构信息进行惩罚。
-discriminator是学习判别一张图的每个$NxN$的patch是否是真的。  
+这也是*PatchGAN*的由来——只在*patch*层面上对结构信息进行惩罚。
+discriminator是学习判别一张图的每个$NxN$的patch是否是真的，比如这篇论文采用的$N=70$，一个简单的效果图如下：  
+![patchGAN_result](https://s1.ax2x.com/2019/01/31/5j8kVr.png)  
+对于*patchGAN*，一个显而易见的好处就是可以用在任意大于训练图像尺寸的图像上，比如你可以在256x256上训练，然后用在512x512上。    
 
 #### 2.2.3. optimization and inference
 这个优化应该属于常规操作了：  
