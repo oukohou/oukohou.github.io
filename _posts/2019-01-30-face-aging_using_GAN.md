@@ -8,10 +8,12 @@ tags: [face aging, GAN, style transfer]
 
 一个人10后会长什么样？  
 10年前他又是什么样？  
-这就是人脸老化(face aging)问题：给定一张人脸图像，给出其x年后的人脸图像，x可以为负数。    
+这就是人脸老化(face aging)问题：给定一张人脸图像，给出其x年后的人脸图像，x可以为负数，此时即表示年轻化。    
 
 关于这个问题，这篇论文提供了一个新的视角：  
-`对于一张包含人脸的图像，将其所对应的年龄看作是其潜在的风格(underlying style),把人脸老化看成是一个风格迁移问题。`  
+```text
+对于一张包含人脸的图像，将其所对应的年龄看作是其潜在的风格(underlying style),把人脸老化看成是一个风格迁移问题。
+```  
 是不是有点耳目一新的感觉？感觉风格迁移的做法啥任务都用来做了。    
 先来张图一睹为快：    
 ![results_1](https://s1.ax2x.com/2019/01/30/5j8GCp.png)  
@@ -96,8 +98,8 @@ C) ages 50-60    D) ages 60-70
 关于patchGAN，我在之前的[pix2pix](https://www.oukohou.wang/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)
 博文里提到过，就是discriminator关注的不是整张图像，而是$N×N$的patches，具体可以参考我的这一篇博文：[pix2pix](https://www.oukohou.wang/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)。  
 
-同时，作者预实验过程中，发现年龄老化、年轻化分开训练的话效果更好，即$G_+(x_0,k)=\hat{x_k}$做老化,
-$G_-(x_0,k)=\hat{x_{-k}}$做年轻化。  
+同时，作者预实验过程中，发现年龄老化、年轻化分开训练的话效果更好，即$$G_{+}(x_0,k)={\hat{x}}_k$$做老化,
+$G_{-}(x_0,k)={\hat{x}}_{-k}$做年轻化。  
 注意到k是从集合{0, 10, 20, 30, 40}中抽取的，其实这也不可苛责，毕竟不说生成年龄人脸了，
 现在的年龄预测模型都有个几年的误差呢。还要啥自行车，对不对～  
 最后的效果图如下：  
@@ -123,8 +125,7 @@ $G_-(x_0,k)=\hat{x_{-k}}$做年轻化。
 
 然后据此认为效果更好，说：  
 ```text
-We quantitatively evaluate our proposed method through a user study and show that it outper-
-forms prior state-of-the-art techniques for face aging.
+We quantitatively evaluate our proposed method through a user study and show that it outperforms prior state-of-the-art techniques for face aging.
 ```
 
 emmmm...,你说怎样就怎样啦～～  
