@@ -44,7 +44,68 @@ see :
 
 
 
-## 3. TODO
+## 3. **caffe.set_mode_gpu()**: AttributeError: 'module' object has no attribute 'set_mode_gpu'
+`as this section may be read by people not speaking Chinese, so I will write in English.`  
+
+### 3.1 error:  
+
+```bash
+Traceback (most recent call last):
+  File "/home/.../xxx.py", line 7, in <module>
+    import rsa
+  File "../src/rsa/__init__.py", line 1, in <module>
+    from . import model 
+  File "../src/rsa/model.py", line 18, in <module>
+    caffe.set_mode_gpu()
+AttributeError: 'module' object has no attribute 'set_mode_gpu'
+```
+
+### 3.2 solution:
+
+    sys.path.insert(0, '/path/to/caffe/python')
+    import caffe
+    caffe.set_mode_gpu()
+
+namely, add the `caffe/pathon` path to you `sys.path` before `import caffe`.  
+
+### 3.3 analysis:  
+This problem may be the results of package `caffe`'s path.  
+
+For me, if I do the following from the Ubuntu Terminal, everything goes fine:
+![from_terminal](https://s1.ax2x.com/2019/02/25/5jqWrX.png)  
+
+but if I do from the Pycharm IDE, errors occur:
+
+![from_pycharm](https://s1.ax2x.com/2019/02/25/5jqsp3.png)  
+
+note that I tested the package `caffe`'s path in both ways, and got different results:  
+- in the Ubuntu terminal, namely the way which goes fine, I got 
+```text
+'/home/CVAR-B/softwares/caffe/caffe/python/caffe/__init__.pyc'
+```
+which is the expected result;
+- in the Pycharm IDE way, namely the way error occurs, I got 
+```text
+'/usr/local/lib/python2.7/dist-packages/caffe/__init__.pyc'
+```
+which is not the expected result.  
+
+In view of this discovery, I did this one more thing to handle the error:
+
+    sys.path.insert(0, '/path/to/caffe/python')
+    import caffe
+    caffe.set_mode_gpu()
+
+namely, add the `caffe/pathon` path to you `sys.path` before `import caffe`.  
+
+and the result shows this can be a workaround:
+![pycharm_IDE_success](https://s1.ax2x.com/2019/02/25/5jquKK.png)  
+
+See the `caffe.__file__`'s result, now returns the expected path.   
+
+
+
+## 4. TODO
 
 
 

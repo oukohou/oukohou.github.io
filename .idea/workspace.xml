@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,24 +20,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2019-01-16-reocrds_of_installation_errors_and_operations.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="482">
-                <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <first_editor relative-caret-position="352">
+                <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="435">
-                <caret line="78" column="12" selection-start-line="78" selection-start-column="12" selection-end-line="78" selection-end-column="12" />
+              <first_editor relative-caret-position="429">
+                <caret line="105" selection-start-line="105" selection-end-line="105" />
               </first_editor>
               <second_editor />
             </state>
@@ -108,7 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/google987633c16e64f5fc.html" />
         <option value="$PROJECT_DIR$/sogousiteverification.txt" />
         <option value="$PROJECT_DIR$/60e2c4178f1d12527f7e5b00a80d0f2f.txt" />
         <option value="$PROJECT_DIR$/_site/assets/css/style.css" />
@@ -128,7 +125,6 @@
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn poems.md" />
         <option value="$PROJECT_DIR$/laboratory/fd.html" />
         <option value="$PROJECT_DIR$/assets/js/tongji.baidu.js" />
-        <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/guestbook.html" />
         <option value="$PROJECT_DIR$/_posts/2018-11-28-沙盘模拟培训活动-后感.md" />
@@ -156,20 +152,13 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" />
         <option value="$PROJECT_DIR$/donate.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="153" />
@@ -182,6 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,7 +188,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,7 +226,9 @@
     </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.post.html">
-    <configuration name="post.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/oukohou.github.io/_layouts/post.html" />
+    <configuration name="post.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/oukohou.github.io/_layouts/post.html">
+      <method v="2" />
+    </configuration>
     <configuration name="resize_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="oukohou.github.io" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,10 +247,13 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.resize_image" />
       <item itemvalue="JavaScript Debug.post.html" />
+      <item itemvalue="Python.resize_image" />
     </list>
     <recent_temporary>
       <list>
@@ -278,27 +272,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535506444679</updated>
-    </task>
-    <task id="LOCAL-00107" summary="still live2D">
-      <created>1543561644186</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1543561644186</updated>
-    </task>
-    <task id="LOCAL-00108" summary="live2D">
-      <created>1543562168896</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1543562168896</updated>
-    </task>
-    <task id="LOCAL-00109" summary="live2D.">
-      <created>1543569759024</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1543569759024</updated>
+      <workItem from="1551064343038" duration="3697000" />
     </task>
     <task id="LOCAL-00110" summary="add live2D installation guide post.">
       <created>1543590089045</created>
@@ -622,35 +596,59 @@
       <option name="project" value="LOCAL" />
       <updated>1548814056112</updated>
     </task>
-    <option name="localTasksCounter" value="156" />
+    <task id="LOCAL-00156" summary="add post: face aging using GAN.">
+      <created>1548930291687</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1548930291688</updated>
+    </task>
+    <task id="LOCAL-00157" summary="refactor: change format.">
+      <created>1548930674627</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1548930674627</updated>
+    </task>
+    <task id="LOCAL-00158" summary="add post: autumn poems 2;&#10;refactor: simplify tags of autumn poems.">
+      <created>1550052482475</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1550052482475</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.2857143" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.30147058" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25483692" />
-      <window_info anchor="right" id="R Packages" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21337755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498618" weight="0.21743697" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498618" weight="0.21743697" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.23535565" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.31171548" />
+      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8886555" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="R Packages" order="6" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -681,13 +679,22 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="bug fix: change Valine's config in post.html: visitor:true, not sure how to use javascript's code." />
-    <MESSAGE value="style: small refine." />
     <MESSAGE value="style: simplify more unused codes;&#10;change: change blog's subtitle to 璇珠杂俎." />
     <MESSAGE value="add post: blog's name changed;&#10;change: change wechat official account picture." />
     <MESSAGE value="refactor: change wechat official account picture's size." />
@@ -698,7 +705,6 @@
     <MESSAGE value="refactor: add notices for cloning my repo on." />
     <MESSAGE value="refactor: correct some typos." />
     <MESSAGE value="refactor: change markdown to md;&#10;add post: GhostVLAD." />
-    <MESSAGE value="refactor: change format." />
     <MESSAGE value="refactor: update a picture." />
     <MESSAGE value="refactor: change format of personal information, use table instead of just lines." />
     <MESSAGE value="add post: pix2pix." />
@@ -711,7 +717,10 @@
     <MESSAGE value="refactor: change a post's name to lower-case." />
     <MESSAGE value="add content: matlab and python's datenum convert." />
     <MESSAGE value="add post: how to mount disk on Ubuntu." />
-    <option name="LAST_COMMIT_MESSAGE" value="add post: how to mount disk on Ubuntu." />
+    <MESSAGE value="add post: face aging using GAN." />
+    <MESSAGE value="refactor: change format." />
+    <MESSAGE value="add post: autumn poems 2;&#10;refactor: simplify tags of autumn poems." />
+    <option name="LAST_COMMIT_MESSAGE" value="add post: autumn poems 2;&#10;refactor: simplify tags of autumn poems." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -723,13 +732,9 @@
           <line>17</line>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_includes/widgets/tag_cloud">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/widgets/tags">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -777,13 +782,7 @@
     <entry file="file://$PROJECT_DIR$/assets/imgs/wechat_official_account.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/embed.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/pycharm.jar!/resources/html5-schema/html5/embed.rnc" />
     <entry file="file://$PROJECT_DIR$/_includes/footer/icon-github.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -831,17 +830,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="103" column="84" selection-start-line="103" selection-start-column="84" selection-end-line="103" selection-end-column="84" />
-        </state>
-      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
             <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="103" column="84" selection-start-line="103" selection-start-column="84" selection-end-line="103" selection-end-column="84" />
         </state>
       </provider>
     </entry>
@@ -927,16 +926,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="88">
             <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="590">
-            <caret line="137" selection-start-line="137" selection-end-line="142" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
@@ -1064,16 +1053,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="482">
-            <caret line="43" selection-start-line="43" selection-end-line="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1087,8 +1066,38 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="206">
-            <caret line="133" column="8" selection-start-line="133" selection-start-column="8" selection-end-line="133" selection-end-column="8" />
+          <first_editor relative-caret-position="352">
+            <caret line="100" column="58" selection-start-line="100" selection-start-column="58" selection-end-line="100" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1696">
+            <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="429">
+            <caret line="105" selection-start-line="105" selection-end-line="105" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="352">
+            <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
