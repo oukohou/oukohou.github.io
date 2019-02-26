@@ -11,6 +11,12 @@ tags: [error, torch]
 这些问题确实有点困扰，但又不值得单独成文，所以一并放在这里。  
 考虑到后续可能会有很多，这篇可能会冗长至极，所以在开头先放个目录，看官按需自取～～ 
 
+Update log:
+```text
+2019-02-25： add section 3: caffe.set_mode_gpu();  
+ 
+```
+
 
 - TOC
 {:toc} 
