@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ubuntu上配置atom+latex编辑环境"
-date:   2019-02-26 14:30:28 +0800--
+date:   2019-02-26 19:30:28 +0800--
 categories: [部署]
 tags: [Ubuntu, aton, latex,]  
 ---
