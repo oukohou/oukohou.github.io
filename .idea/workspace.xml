@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add post:ubuntu atom and latex.">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,20 +17,7 @@
     <SUITE FILE_PATH="coverage/oukohou_github_io$resize_image.coverage" NAME="resize_image Coverage Results" MODIFIED="1537262164741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratory" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="440">
-                <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -262,21 +247,8 @@
       <updated>1535506444679</updated>
       <workItem from="1551064343038" duration="3944000" />
       <workItem from="1551075200788" duration="1042000" />
-      <workItem from="1551162388406" duration="3869000" />
-    </task>
-    <task id="LOCAL-00111" summary="little changes.">
-      <created>1543803017611</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1543803017611</updated>
-    </task>
-    <task id="LOCAL-00112" summary="reformat.">
-      <created>1543808319763</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1543808319763</updated>
+      <workItem from="1551162388406" duration="4520000" />
+      <workItem from="1551262750224" duration="605000" />
     </task>
     <task id="LOCAL-00113" summary="add post: sand table simulation activity.">
       <created>1543889265004</created>
@@ -607,11 +579,25 @@
       <option name="project" value="LOCAL" />
       <updated>1551074842415</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="add post:ubuntu atom and latex.">
+      <created>1551200308857</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1551200308857</updated>
+    </task>
+    <task id="LOCAL-00161" summary="add post:ubuntu atom and latex.">
+      <created>1551200354898</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1551200354898</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8855000" />
+    <option name="totallyTimeSpent" value="10111000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -625,7 +611,7 @@
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22830293" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23106688" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1102,8 +1088,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="440">
-            <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
+          <first_editor relative-caret-position="22">
+            <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
           </first_editor>
           <second_editor />
         </state>
