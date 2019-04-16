@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" line="75" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="refactor: change signature format.">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add post: Style-based GAN." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +20,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="378">
-                <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+              <first_editor relative-caret-position="136">
+                <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
               </first_editor>
               <second_editor />
             </state>
@@ -147,7 +144,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="690" />
     <option name="y" value="284" />
     <option name="width" value="1363" />
@@ -294,14 +291,7 @@
       <workItem from="1554100148790" duration="119000" />
       <workItem from="1554193797052" duration="10448000" />
       <workItem from="1554689860362" duration="10000" />
-      <workItem from="1554881898013" duration="13099000" />
-    </task>
-    <task id="LOCAL-00122" summary="style: truncate length to 160 on home page of each post;&#10;bug fix：on guestbook.html's episode 2, code need tobe byte in python3.">
-      <created>1544269715353</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1544269715353</updated>
+      <workItem from="1554881898013" duration="13854000" />
     </task>
     <task id="LOCAL-00123" summary="bug fix：on guestbook.html's episode 2, code need to be decoded.&#10;refactor: add a sentence to bilibili link.">
       <created>1544407906092</created>
@@ -639,11 +629,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554374455491</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="add post: Style-based GAN.">
+      <created>1554978863381</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1554978863381</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51578000" />
+    <option name="totallyTimeSpent" value="52333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -669,7 +666,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.20855057" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.20842105" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.23157895" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
@@ -752,7 +749,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: change markdown to md;&#10;add post: GhostVLAD." />
     <MESSAGE value="refactor: update a picture." />
     <MESSAGE value="refactor: change format of personal information, use table instead of just lines." />
     <MESSAGE value="add post: pix2pix." />
@@ -777,7 +773,8 @@
     <MESSAGE value="refactor: live2D fixed problem on mobile's scale, see https://github.com/xiazeyu/live2d-widget.js/issues/40#issuecomment-478934856 for detail." />
     <MESSAGE value="refactor: parameters of Live2D changes." />
     <MESSAGE value="refactor: change donation's format, and yellow background." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change donation's format, and yellow background." />
+    <MESSAGE value="add post: Style-based GAN." />
+    <option name="LAST_COMMIT_MESSAGE" value="add post: Style-based GAN." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1185,8 +1182,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="378">
-            <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+          <first_editor relative-caret-position="136">
+            <caret line="53" column="12" selection-start-line="53" selection-start-column="12" selection-end-line="53" selection-end-column="12" />
           </first_editor>
           <second_editor />
         </state>
