@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "论文阅读-GhostVLAD：GhostVLAD for set-based face recognition "
+title:  "论文阅读-GhostVLAD-GhostVLAD for set-based face recognition "
 date:   2018-12-26 19:47:50 +0800--
 categories: [论文]
 tags: [VLAD, GhostVLAD, machine learning, template-based face recognition]  

@@ -6,9 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="refactor: change contents of StyleGAN.">
       <change afterPath="$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +19,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
@@ -63,6 +61,18 @@
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="3080">
                 <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
               </first_editor>
               <second_editor />
             </state>
@@ -169,7 +179,6 @@
         <option value="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" />
         <option value="$PROJECT_DIR$/donate.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" />
-        <option value="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" />
         <option value="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
         <option value="$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md" />
@@ -182,6 +191,7 @@
         <option value="$PROJECT_DIR$/_posts/2019-04-18_spring-poems_1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" />
       </list>
     </option>
   </component>
@@ -318,21 +328,7 @@
       <workItem from="1554689860362" duration="10000" />
       <workItem from="1554881898013" duration="13854000" />
       <workItem from="1555395914645" duration="702000" />
-      <workItem from="1555566943521" duration="1979000" />
-    </task>
-    <task id="LOCAL-00124" summary="refactor: change star post's link;and add several more star posts;&#10;(breaking)style:change post's filename to English for MeiGuan.">
-      <created>1544595251234</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1544595251235</updated>
-    </task>
-    <task id="LOCAL-00125" summary="refactor: change star post's link;&#10;feature: add google analytics.">
-      <created>1544596219503</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1544596219503</updated>
+      <workItem from="1555566943521" duration="2508000" />
     </task>
     <task id="LOCAL-00126" summary="feature: add google analytics, and this time is real;&#10;refactor: change _config.yml's go_track_id.">
       <created>1544596758608</created>
@@ -663,11 +659,25 @@
       <option name="project" value="LOCAL" />
       <updated>1555395949515</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="refactor: change title of StyleGAN, change time of autumn-poem-2.">
+      <created>1555569801122</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1555569801122</updated>
+    </task>
+    <task id="LOCAL-00174" summary="refactor: change title of face-aging-GAN.">
+      <created>1555569979634</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1555569979635</updated>
+    </task>
+    <option name="localTasksCounter" value="175" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55014000" />
+    <option name="totallyTimeSpent" value="55543000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -775,8 +785,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: change format of personal information, use table instead of just lines." />
-    <MESSAGE value="add post: pix2pix." />
     <MESSAGE value="refactor: change all categories to Chinese, abandon English ones." />
     <MESSAGE value="refactor: change category 拾遗 to 勤学, as this category is for learning." />
     <MESSAGE value="refactor: change category 活动 to 浪游, so as to include more posts." />
@@ -800,7 +808,9 @@
     <MESSAGE value="refactor: change donation's format, and yellow background." />
     <MESSAGE value="add post: Style-based GAN." />
     <MESSAGE value="refactor: change contents of StyleGAN." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change contents of StyleGAN." />
+    <MESSAGE value="refactor: change title of StyleGAN, change time of autumn-poem-2." />
+    <MESSAGE value="refactor: change title of face-aging-GAN." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change title of face-aging-GAN." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1044,16 +1054,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/widgets/tags">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="38" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="38" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tags.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1215,6 +1215,16 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="44">
             <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
           </first_editor>
           <second_editor />
         </state>
