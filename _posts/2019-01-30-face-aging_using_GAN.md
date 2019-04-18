@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "论文阅读-人脸老化：Generative Adversarial Style Transfer Networks for Face Aging"
+title:  "论文阅读-人脸老化：Generative_Adversarial_Style_Transfer_Networks_for_Face_Aging"
 date:   2019-01-30 11:09:07 +0800--
 categories: [论文]
 tags: [face aging, GAN, style transfer]  
