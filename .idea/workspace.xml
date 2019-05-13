@@ -4,9 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" line="75" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add post: spring poem 1.">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add content: section 4: Connection reset by peer.">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,23 +20,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2838">
-                <caret line="129" selection-start-line="129" selection-end-line="129" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
-                <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="-88">
+                <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
               </first_editor>
               <second_editor />
             </state>
@@ -44,18 +32,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="440">
-                <caret line="232" lean-forward="true" selection-start-line="232" selection-end-line="232" />
-                <folding>
-                  <element signature="e#328#341#0" />
-                  <element signature="e#1032#1080#0" />
-                  <element signature="e#1530#1546#0" />
-                </folding>
+              <first_editor relative-caret-position="308">
+                <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="113" column="63" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -122,7 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/guest_book.html" />
         <option value="$PROJECT_DIR$/laboratory/memo.md" />
         <option value="$PROJECT_DIR$/laboratory/bug_memo.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" />
@@ -173,20 +164,22 @@
         <option value="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" />
         <option value="$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md" />
         <option value="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="51" />
-    <option name="width" value="1855" />
-    <option name="height" value="1028" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="648" />
+    <option name="y" value="455" />
+    <option name="width" value="1461" />
+    <option name="height" value="578" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,13 +190,17 @@
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,14 +308,9 @@
       <workItem from="1555395914645" duration="702000" />
       <workItem from="1555566943521" duration="10324000" />
       <workItem from="1555666243925" duration="634000" />
-      <workItem from="1555902546102" duration="4564000" />
-    </task>
-    <task id="LOCAL-00129" summary="bug fix: change Valine's config in post.html: visitor:true, not sure how to use javascript's code.">
-      <created>1544680454632</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1544680454632</updated>
+      <workItem from="1555902546102" duration="5899000" />
+      <workItem from="1556268179983" duration="608000" />
+      <workItem from="1557470410703" duration="12389000" />
     </task>
     <task id="LOCAL-00130" summary="style: small refine.">
       <created>1544683573416</created>
@@ -656,11 +648,18 @@
       <option name="project" value="LOCAL" />
       <updated>1555584252990</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="add content: section 4: Connection reset by peer.">
+      <created>1555916623493</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1555916623493</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68557000" />
+    <option name="totallyTimeSpent" value="82889000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -672,10 +671,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="648" y="455" width="1461" height="578" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.1973466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -686,9 +685,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.23012552" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.2374477" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.31485355" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.31333333" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -700,7 +699,7 @@
       <window_info anchor="right" id="R Packages" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22830293" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -711,9 +710,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.43274245" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.2374477" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.32008368" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.31485355" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -769,7 +768,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add posts: VMware's network adaptor and records of errors." />
     <MESSAGE value="small refinement: add a picture." />
     <MESSAGE value="add post: ProgressiveGAN." />
     <MESSAGE value="refactor: change a post's name to lower-case." />
@@ -794,7 +792,8 @@
     <MESSAGE value="refactor: change title of face-aging-gan." />
     <MESSAGE value="refactor: change colons in titles of posts into - ." />
     <MESSAGE value="add post: spring poem 1." />
-    <option name="LAST_COMMIT_MESSAGE" value="add post: spring poem 1." />
+    <MESSAGE value="add content: section 4: Connection reset by peer." />
+    <option name="LAST_COMMIT_MESSAGE" value="add content: section 4: Connection reset by peer." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -809,16 +808,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/laboratory/readme_backup.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="308">
-            <caret line="14" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/tongji.baidu.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -994,17 +983,17 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
       <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="44">
             <caret line="5" selection-start-line="5" selection-end-line="5" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
@@ -1067,13 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="72" column="98" selection-start-line="72" selection-start-column="98" selection-end-line="72" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
@@ -1109,16 +1091,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="3080">
             <caret line="140" column="16" selection-start-line="140" selection-start-column="16" selection-end-line="140" selection-end-column="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="44">
-            <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
           </first_editor>
           <second_editor />
         </state>
@@ -1184,11 +1156,11 @@
     <entry file="file://$PROJECT_DIR$/assets/imgs/favicon.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2838">
-            <caret line="129" selection-start-line="129" selection-end-line="129" />
+          <first_editor relative-caret-position="632">
+            <caret line="239" selection-start-line="239" selection-end-line="239" />
           </first_editor>
           <second_editor />
         </state>
@@ -1204,16 +1176,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="440">
-            <caret line="232" lean-forward="true" selection-start-line="232" selection-end-line="232" />
-            <folding>
-              <element signature="e#328#341#0" />
-              <element signature="e#1032#1080#0" />
-              <element signature="e#1530#1546#0" />
-            </folding>
+          <first_editor relative-caret-position="2596">
+            <caret line="118" column="7" lean-forward="true" selection-start-line="118" selection-start-column="7" selection-end-line="118" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-88">
+            <caret line="2" column="64" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="113" column="63" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="308">
+            <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
           </first_editor>
           <second_editor />
         </state>
