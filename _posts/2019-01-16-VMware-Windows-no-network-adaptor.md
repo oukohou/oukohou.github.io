@@ -27,19 +27,19 @@ if you have a network adaptor, you will need to re-install the driver.
 
 ## 2. 复现
 在虚拟机上弹出U盘，手欠的错点了那个像极了U盘标志的符号的最后一栏：  
-![logo](https://s1.ax2x.com/2019/01/16/5dqnSq.png "就是这个最后一栏！！！" )
+![logo](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/logo%7E%7E.png "就是这个最后一栏！！！" )
   
  `Eject Intel(R) 82574L Gigabit Network Connection`，其实就是虚拟机的网络适配器(network adaptor)，
 然后虚拟机就上不了网了。。。  
 这时候点击虚拟机Windows的右下角网络标志，界面是这样的：  
-![network_status](https://s1.ax2x.com/2019/01/16/5dqKLn.png)  
+![network_status](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/network_status.png)  
 哦吼哦吼，`you aren't connected to any networks!`  
 意不意外？惊不惊喜？  
 这时候无助的我想要寄希望于那个 `Troubleshoot` 按键，于是点击之后，是这样的：  
-![install_a_driver](https://s1.ax2x.com/2019/01/16/5dqISa.png)   
+![install_a_driver](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/install_a_driver.png)   
 更加意外，更加惊喜了这下……  
 怎么办呢？  
-![help~~](https://s1.ax2x.com/2019/01/16/5dqqTe.jpg)    
+![help~~](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/help.jpg)    
   
 
 不用怕！且看下文如何分解～～  
@@ -47,12 +47,12 @@ if you have a network adaptor, you will need to re-install the driver.
 ## 3. 冲阵
 在VMware的左侧虚拟机列表里选中你的虚拟机，比如我的就是 `Windows 10x64`，然后
 右键单击，选择最下一栏的 `设置`，点开就看到了你的虚拟机设置界面：  
-![settings](https://s1.ax2x.com/2019/01/16/5dq86h.png)   
+![VMsettings](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/VM_settings.png)   
 可以看到，这时候你的 `Hardware` 栏里是没有网络适配器(Network Adaptor)的～～  
 这可如何是好？  
 不怕，既然没有，我们把它加上就是了：
 - 选择下面的 `Add` 选项，你就会看到希望：  
-![network_adaptor](https://s1.ax2x.com/2019/01/16/5dqf5H.png)  
+![network_adaptor](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/network_adaptor!.png)  
 
 咦～第四栏就是我们日思夜想梦寐以求的网络适配器(network adaptor)！  
 意不意外！惊不惊喜！  
@@ -63,7 +63,7 @@ if you have a network adaptor, you will need to re-install the driver.
 ## 4. 收兵
 开不开心？  
 是不是激动地想要[赏我两个铜板](https://www.oukohou.wang/donate/ "那就赏吧，点击直达打赏页面～～ ")？    
-[![yasashii](https://s1.ax2x.com/2018/12/19/5Qxfd6.jpg "当然，女孩子会更温柔的啦～～")](https://www.oukohou.wang/donate/)  
+[![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")](https://www.oukohou.wang/donate/)  
 
 
 

@@ -173,14 +173,14 @@ solution:
 或者，是幸运女神的眷顾？  
 反正这个问题我不知道如何解决掉的。。。    
 想起了那张经典图：    
-![but why?](https://s1.ax2x.com/2018/10/26/5Xp4rR.jpg)  
+![but why?](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/caffe_installation/debug_code.jpeg)  
 这里就有点对不起各位看官了，为做补偿，贴出一个官方[issue](https://github.com/BVLC/caffe/issues/3834)。    
 有心的看官应该注意到了，这几行的奇数行都押韵！(卖个小萌)  
     
 ### 6. The end
 综上，就是我如何与caffe斗智斗勇的过程。  
 完结，撒花！  
-![justice!](https://s1.ax2x.com/2018/11/06/5m4gIN.jpg)  
+![justice!](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/gakki/gakki_justice.jpg)  
 
 
 regards.

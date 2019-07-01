@@ -47,7 +47,7 @@ blah blah……
 然后试运营了一轮之后，就开始了正式的游戏。  
 游戏一共进行了4轮，4轮之后结算资产。  
 其中第一轮的试运营的说明如下：  
-![trial operation](https://s1.ax2x.com/2018/12/03/5YSaZ2.png)  
+![trial operation](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/sandbox_simulation/%E8%AF%95%E8%BF%90%E8%90%A5.jpg)  
 
 看到上图，其实也就有了个大致的梗概：  
 ```markdown
@@ -75,7 +75,7 @@ blah blah……
 
 ### 3. 三省吾身  
 游戏结束，然后就到了反省环节：  
-![introspection](https://s1.ax2x.com/2018/12/03/5YfbV9.png)  
+![introspection](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/sandbox_simulation/%E5%8F%8D%E6%80%9D-.png)  
 
 那就首先反省一下这8点吧，然后再说说自己的一点思考。  
 1. 没有。  
@@ -156,7 +156,7 @@ Maybe the answer, my friend, is blowing in the wind.
 为了想要查查有没有**Duang**这个汉字，还特地百度了一下，顺便重温了成龙大哥的洗发液：
 [我的洗发液_bilibili](https://www.bilibili.com/video/av2023391)。  
 也确实有个因此而造的汉字，放张图：  
-![duang](https://s1.ax2x.com/2018/12/03/5YiXLr.png)  
+![duang](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/sandbox_simulation/Duang.png)  
 
 哈哈，真是会心一笑。  
 然后是这个活动，确实感觉很有意义，锻炼了实际操作能力，而且切身感受了运营一个公司的难处。  
@@ -175,12 +175,12 @@ Maybe the answer, my friend, is blowing in the wind.
 
 ### 5. 总结陈词  
 总之这个活动非常有意义，感慨良多，获益匪浅。  
-感谢发起、组织这个活动的我司大佬们，一起愿意支持这个活动的我司大佬们。    
+感谢发起、组织这个活动的我司大佬们，愿意支持这个活动的我司大佬们。    
 虽然这句话听起来有点假，但我是真的感激，没有他们，就没有这个意义非凡、发人深省的活动。  
 又觉得当初自己有点幸运，随便进了个公司，万万没想到还会有这种福利。  
 正如Cici讲的，感觉到一点点温暖。  
 
-![ganbate](https://s1.ax2x.com/2018/12/04/5Yo9cS.jpg)
+![ganbate](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/sandbox_simulation/%E9%A3%9F%E5%A0%82.jpg)
 
 以上，致礼！
 

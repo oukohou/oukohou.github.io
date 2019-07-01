@@ -33,7 +33,7 @@ tags: [installation, blog, setting up]
 注意，“可以”买，只有一个原则的我，自然是不想花这个钱了。  
 恰好全球最大的同性交友网站[github](https://github.com/oukohou)免费提供了一个可以用作载体的工具：[github pages](https://pages.github.com/).  
 
-![start_from_0](https://s1.ax2x.com/2018/11/20/5z798A.jpg)  
+![start_from_0](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E5%8F%AA%E8%A6%81%E6%9C%89%E5%A5%91%E6%9C%BA.jpg)  
 
 于是，这个博客是采用jekyll在github pages上搭建的。  
 至于搭建步骤，这个就不需要我来班门弄斧了，网上随便一搜“jekyll github pages”，你就知道答案了。  
@@ -93,7 +93,7 @@ Disqus应该是比较出名的了，类似的还有[livere](https://www.livere.c
 何日向，江村躲；何日上，江楼卧。有诗人某某，酒人个个。花径不无新点缀，沙鸥颇有闲功课。将白头供作折腰人，将毋左。  
 
 虽然我的老家不在扬州。  
-![just smile~~](https://s1.ax2x.com/2018/11/20/5z70Yi.jpg)  
+![just smile~~](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E5%BC%80%E5%BF%83%E5%9C%B0%E7%AC%91%E5%B0%B1%E5%A5%BD%E4%BA%86.jpg)  
 
 
 

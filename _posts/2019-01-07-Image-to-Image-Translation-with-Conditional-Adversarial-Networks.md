@@ -12,9 +12,9 @@ tags: [pix2pix, PixelGAN, cGAN, PatchGAN, ImageGAN, CVPR]
 基于此，该文探讨了一个通用的 cGAN 网络来实现诸如从轮廓图像重建目标、给图像上色、根据标签地图生成原图等一系列
 任务目标。  
 先来张图一睹为快：  
-![gan_trainer](https://s1.ax2x.com/2019/01/12/5dLOYa.jpg)  
+![gan_trainer](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/gan_trainer.jpg)  
 哦对不起放错了，是这张：  
-![show_some-resluts](https://s1.ax2x.com/2019/01/07/5dQh4G.png)    
+![show_some-resluts](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/show%20results%20of%20several.png)    
 
 这就是这篇文章提出的 cGAN 的诸多应用的一个展示。    
 当然，对应于不同的应用，还是需要不同的数据集来进行训练，然后才能实现不同的任务，所不变的只是 cGAN 这个模型结构。  
@@ -52,22 +52,22 @@ which is conditional GAN~
 众所周知，GAN所学习的是：$G: z → y$，而conditional GAN则是：$G: {x,z}→y$。
 其中x是输入图像，z是随机噪声向量，y是输出图像。  
 而conditional GAN的目标函数为：  
-![conditional GAN's objective](https://s1.ax2x.com/2019/01/12/5dLp8S.png)   
+![conditional GAN's objective](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/objective_of_conditional_GAN.png)   
 同时，为了让generator能够更鲁棒，还额外加了个L1 distance loss：  
 $L_{L1}(G) = E_(x,y,z)[||y-G(x,z)||_1]$　　 ~~（居然手打了个公式，可把我牛逼坏了）~~   
 于是，最终的目标函数为：  
-![final_objective](https://s1.ax2x.com/2019/01/12/5dLuHh.png)  
+![final_objective](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/final_objective.png)  
 
 ### 2.2. network architecture
 #### 2.2.1. generator with skips
 关于image-to-image translation， 一个本质性的特征就是把高分辨率的输入图像映射成高分辨率的输出图像。  
 所以生成器(generator)的架构应该是encoder-decoder，而文章这里用了类似U-Net的网络架构，加上了skip connections.如图：  
-![architecture_of_generator](https://s1.ax2x.com/2019/01/12/5dKrP2.png)  
+![architecture_of_generator](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/architecture_of_generator.png)  
 
 
 #### 2.2.2. markovian discriminator(PatchGAN)
 来张图：  
-![quality_of_losses](https://s1.ax2x.com/2019/01/12/5dKe4S.png)   
+![quality_of_losses](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/quality_of_losses.png)   
 如图，L1 loss，以及L2 loss，在图像生成时会造成模糊的结果，这是众所周知的。  
 但换个角度想，其实它们也能准确的捕捉低频信息对不对?  
 也正因为此，论文用L1 loss来加强低频信息的准确性,同时这也使得GAN discriminator也就可以专注于高频结构的塑造。  
@@ -75,7 +75,7 @@ $L_{L1}(G) = E_(x,y,z)[||y-G(x,z)||_1]$　　 ~~（居然手打了个公式，�
 而对于高频信息，我们就可以只关注于图像的局部区域(local patches)。  
 这也是*PatchGAN*的由来——只在*patch*层面上对结构信息进行惩罚。
 discriminator是学习判别一张图的每个$NxN$的patch是否是真的，比如这篇论文采用的$N=70$，一个简单的效果图如下：  
-![patchGAN_result](https://s1.ax2x.com/2019/01/31/5j8kVr.png)  
+![patchGAN_result](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/patchGAN_result.png)  
 对于*patchGAN*，一个显而易见的好处就是可以用在任意大于训练图像尺寸的图像上，比如你可以在256x256上训练，然后用在512x512上。    
 
 #### 2.2.3. optimization and inference
@@ -90,11 +90,11 @@ discriminator是学习判别一张图的每个$NxN$的patch是否是真的，比
 这个乏善可陈，无非是在什么数据集上，采用什么评价标准，我们超越了state-of-the-art多少多少。　　
 只有图片会让大家看的很爽～～  
 那就放图吧：  
-![results_maps2ariel](https://s1.ax2x.com/2019/01/12/5dKAMN.png)  
-![results_colorization](https://s1.ax2x.com/2019/01/12/5dKteu.png)  
-![result cityscapes2lables](https://s1.ax2x.com/2019/01/12/5dK6g9.png)  
-![results_day2night](https://s1.ax2x.com/2019/01/12/5dKN0A.png)   
-![results_edges2handbags](https://s1.ax2x.com/2019/01/12/5dKkaO.png)   
+![results_maps2ariel](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/results_1.png)  
+![results_colorization](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/result_colorization.png)  
+![result cityscapes2lables](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/result_cityscapes_lables.png)  
+![results_day2night](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/result_day2night.png)   
+![results_edges2handbags](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/pix2pix/result_enges2handbags.png)   
 好啦，都放了5张图啦～～  
 如果还没看够的话，可以点击查看论文的官网：[phillipi/pix2pix](https://phillipi.github.io/pix2pix/)  
 
@@ -106,7 +106,7 @@ discriminator是学习判别一张图的每个$NxN$的patch是否是真的，比
 贴心的我发现了一个在线体验网址！：[image-to-image interactive demo](https://affinelayer.com/pixsrv/)  
 开不开心？惊不惊喜？   
 是不是激动地想要[赏我两个铜板](https://www.oukohou.wang/donate/ "那就赏吧，点击直达打赏页面～～ ")？    
-[![yasashii](https://s1.ax2x.com/2018/12/19/5Qxfd6.jpg "当然，女孩子会更温柔的啦～～")](https://www.oukohou.wang/donate/)  
+[![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")](https://www.oukohou.wang/donate/)  
 
   
 ## 5. end

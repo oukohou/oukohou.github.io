@@ -46,7 +46,7 @@ tags: [blog, 璇珠, 杂俎, name, 装逼]
 ### _璇珠杂俎_
 不要怀疑，我没写错，我知道上一小节也是这个名字，不过这个是斜体哦～  
 再写一遍，是为了额外提一下，我的微信公众号的名字也已同步改成**璇珠杂俎**：   
-![璇珠杂俎](https://s1.ax2x.com/2018/12/14/5QZRxn.png)  
+![璇珠杂俎](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/wechat/half_size_%E7%92%87%E7%8F%A0%E6%9D%82%E4%BF%8E4.png)  
 
 之前的名字是“SB呵呵风在笑”，本科时戏谑为之的一个名字，伴随了我这许久，终于也要换掉了。  
 毕竟这个名字有点难登大雅，而且SB呵呵风在笑，7个字，三个词，前俩词都已经算是过了时的网络流行语了，还是负面的。  
@@ -67,7 +67,7 @@ tags: [blog, 璇珠, 杂俎, name, 装逼]
 
 以上。  
 完结撒花。  
-![ureshii](https://s1.ax2x.com/2018/12/14/5QZnzE.jpg)  
+![ureshii](https:raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/kaixin.jpg)  
 
 <p  align="right">regards.</p>
 <h4 align="right">

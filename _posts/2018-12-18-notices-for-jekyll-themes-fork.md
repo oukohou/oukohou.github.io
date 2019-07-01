@@ -26,7 +26,7 @@ tags: [notices, help]
 ```
 关于百度统计，你可以在这个页面： [百度统计-管理](https://tongji.baidu.com/sc-web/26979727/home/site/index?from=3)
 添加自己的网站，然后就会得到类似如下的统计代码段：  
-![baidu-tongji-codes](https://s1.ax2x.com/2018/12/19/5QiVSu.png)  
+![baidu-tongji-codes](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/notices_for_fork_theme/baidu%E7%BB%9F%E8%AE%A1%E4%BB%A3%E7%A0%81.png)  
 copy这一段代码，去除首尾的$script$标签，即可部署完成你自己的百度统计。  
 等待20分钟左右，再点击 [百度统计](https://tongji.baidu.com/web/26979727/homepage/index) 页面，你应该可以看到网站分析数据。  
 
@@ -170,7 +170,7 @@ The answer is no！
   
 欢迎fork、star我的repo～～  
 当然，如果你想要 [赏个铜板](https://www.oukohou.wang/donate/ "donate") 的话，那自然是更加欢迎的哈哈～～  
-![yasashii](https://s1.ax2x.com/2018/12/19/5Qxfd6.jpg "当然，女孩子会更温柔的啦～～")  
+![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")  
 
 
 如有疑问，欢迎留言。

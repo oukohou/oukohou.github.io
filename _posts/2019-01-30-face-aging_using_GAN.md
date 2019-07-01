@@ -16,7 +16,7 @@ tags: [face aging, GAN, style transfer]
 ```  
 是不是有点耳目一新的感觉？感觉风格迁移的做法啥任务都用来做了。    
 先来张图一睹为快：    
-![results_1](https://s1.ax2x.com/2019/01/30/5j8GCp.png)  
+![results_1](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/results_1.png)  
 
 掌握上面那一句，其实已经掌握了这篇论文的大半了，且看下文一一分解。  
 
@@ -34,16 +34,16 @@ C) ages 40-60    D) ages 60+
 
 对于每两个年龄组，作者都训练了一个CycleGAN进行迁移，一共要训练$$C_4^2=6$$个模型。
 所用loss为：  
-![loss_Group-GAN](https://s1.ax2x.com/2019/01/30/5j84BE.png)  
+![loss_Group-GAN](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/Loss_group-GAN.png)  
 
 式中， λ 值为10.每个模型的训练时间24h左右，值得一提的是，虽然训练过程较稳定，但毕竟是GAN，
 训练过程很容易陷入mode collapse，作者还是有几次要重新训练的。  
 以及，当两个年龄组相差较大，即数据特征理论上来说分开的更好的时候，比如训练A组和D组年龄组的数据，
 模型又有把背景颜色翻转的趋势……为此作者又额外加了个weak L1 loss：  
-![weak_L1_loss](https://s1.ax2x.com/2019/01/30/5j8JsQ.png)  
+![weak_L1_loss](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/weak_L1_loss.png)  
 
 这个模型的人脸老化效果图如下：  
-![Group-GAN face aging results](https://s1.ax2x.com/2019/01/31/5j8CvN.png)  
+![Group-GAN face aging results](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/Group-GAN%20face%20aging_results.png)  
 
 可以看到，第一列的输入和最后一列的输出都有较为明显的年龄特征，第二列就有点不辩牛马了～～  
 其实这里还有一个问题，论文中没提到，可能是作者有意略过的：  
@@ -56,7 +56,7 @@ C) ages 40-60    D) ages 60+
 ```
 
 而同时，得益于CycleGAN的 `Cycle`，这个模型还能实现人脸年轻化(rejuvenation)，效果如下：  
-![Group-GAN rejuvenation results](https://s1.ax2x.com/2019/01/31/5j8Elu.png)  
+![Group-GAN rejuvenation results](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/Group_GAN%20rejuvenation%20results.png)  
 
 仔细观察的话，会感觉这两张效果图的前两列怎么好像没啥区别一样？  
 带着这个疑问，作者又设计了更细粒度的年龄组进行训练，来测试Group-GAN在小年龄段之间的效果到底如何。
@@ -67,7 +67,7 @@ C) ages 50-60    D) ages 60-70
 ```
 
 同样操作训练之后，效果图如下图所示：  
-![Group-GAN_results_with_smaller_age_groups](https://s1.ax2x.com/2019/01/31/5j8eF9.png)  
+![Group-GAN_results_with_smaller_age_groups](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/Group-GAN%20results%20with%20smaller%20age%20groups.png)  
 
 可以看到，效果是不尽如人意的。  
 作者为此argue：  
@@ -81,19 +81,19 @@ C) ages 50-60    D) ages 60-70
 其中数字k可以为负，即年轻化(rejuvenation)。  
 而为了让模型能够考虑年龄k，作者先假设能够有个可导的年龄估算器$age(x)$，
 然后加上了平均绝对误差作为年龄的loss：   
-![Loss_age](https://s1.ax2x.com/2019/01/31/5j8UsA.png)  
+![Loss_age](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/loss_age.png)  
 
 那么问题来了： `怎么保证人脸是同一个人呢？`   
 没错，又是CycleGAN。一个老化k年后的人脸，再年轻化k年，所得到的应该和输入的人脸是相同的，也就引入了loss：  
-![Loss_cycleGAN](https://s1.ax2x.com/2019/01/31/5j8KAO.png)  
+![Loss_cycleGAN](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/Loss_cycleGAN.png)  
 
 最后，整体的loss为：  
-![total_loss_FA-GAN](https://s1.ax2x.com/2019/01/31/5j81qq.png)  
+![total_loss_FA-GAN](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/total_loss_FA-GAN.png)  
 
 值得一提的是，作者考虑到老化一张年轻人的人脸和老化一张老人的人脸，显然这两者的操作是不同的。  
 比如同样過了10年，20岁的人到了30岁，和50岁的人到了60岁，显然20岁的人要变化更大。  
 因此，在输入图像的同时，还同时输入了该图像的估算后的年龄。流程图如下：  
-![diagram_of_FA-GAN](https://s1.ax2x.com/2019/01/31/5j8I2R.png)  
+![diagram_of_FA-GAN](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/diagram_of_FA-GAN.png)  
 
 关于patchGAN，我在之前的[pix2pix](https://www.oukohou.wang/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)
 博文里提到过，就是discriminator关注的不是整张图像，而是$N×N$的patches，具体可以参考我的这一篇博文：[pix2pix](https://www.oukohou.wang/2019/01/07/Image-to-Image-Translation-with-Conditional-Adversarial-Networks/#222-markovian-discriminatorpatchgan)。  
@@ -103,7 +103,7 @@ $G_{-}(x_0,k)={\hat{x}}_{-k}$做年轻化。
 注意到k是从集合{0, 10, 20, 30, 40}中抽取的，其实这也不可苛责，毕竟不说生成年龄人脸了，
 现在的年龄预测模型都有个几年的误差呢。还要啥自行车，对不对～  
 最后的效果图如下：  
-![FA-GAN_results](https://s1.ax2x.com/2019/01/31/5j8iuX.png)  
+![FA-GAN_results](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/FA-GAN_results.png)  
 
 每一行的绿框框住的一张图像是输入图像，往左是年轻化的输出，往右是老化的输出。  
 效果嘛，只能说还算凑合吧～～（~~说实话，就这么几组图像，我个人也怀疑是cherry-pick的……~~）  
@@ -117,11 +117,11 @@ $G_{-}(x_0,k)={\hat{x}}_{-k}$做年轻化。
 这个结果，因为目前也并没有稳定可靠的关于图像年龄的评测标准，所以论文里采用了一个朴素的方法：  
 `人工评测～`  
 示意图如下：  
-![survey_sample](https://s1.ax2x.com/2019/01/31/5j8xAl.png)    
+![survey_sample](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/surver_question_sample.png)    
 
 用调查问卷的方式，让被测者来给生成图像的可信度打分，然后用得分的平均值来衡量模型的好坏～～  
 和别的模型的一个对比图示意如下：  
-![comparison_results](https://s1.ax2x.com/2019/01/31/5j8RGB.png)  
+![comparison_results](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/face_aging_using_GAN/age_progression_comparison.png)  
 
 然后据此认为效果更好，说：  
 ```text

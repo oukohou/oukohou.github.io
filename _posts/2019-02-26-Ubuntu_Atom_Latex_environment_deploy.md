@@ -60,7 +60,7 @@ tags: [Ubuntu, aton, latex,]
 打开atom，安装编译LaTeX所需的几个packages：
 - 在atom界面按快捷键 `ctrl+shift+p`；
 - 在弹出的搜索框内输入 `setting`，点击第一个选项，进入到这个界面：  
-    ![settings](https://s1.ax2x.com/2019/02/26/5jqeoN.png)  
+    ![settings](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/Ubuntu_atom_latex/atom_settings.png)  
 - 选则 `Packages` 栏，搜索安装以下三个package：  
     - Language Latex  
     - Latex  

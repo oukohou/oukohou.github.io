@@ -79,11 +79,10 @@ namely, add the `caffe/pathon` path to you `sys.path` before `import caffe`.
 This problem may be the results of package `caffe`'s path.  
 
 For me, if I do the following from the Ubuntu Terminal, everything goes fine:
-![from_terminal](https://s1.ax2x.com/2019/02/25/5jqWrX.png)  
+![from_terminal](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/records_of_installation/section3_terminal.png)  
 
-but if I do from the Pycharm IDE, errors occur:
-
-![from_pycharm](https://s1.ax2x.com/2019/02/25/5jqsp3.png)  
+but if I do from the Pycharm IDE, errors occur:  
+![from_pycharm](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/records_of_installation/section3_from_Pycharm_IDE.png)
 
 note that I tested the package `caffe`'s path in both ways, and got different results:  
 - in the Ubuntu terminal, namely the way which goes fine, I got 
@@ -106,7 +105,7 @@ In view of this discovery, I did this one more thing to handle the error:
 namely, add the `caffe/pathon` path to you `sys.path` before `import caffe`.  
 
 and the result shows this can be a workaround:
-![pycharm_IDE_success](https://s1.ax2x.com/2019/02/25/5jquKK.png)  
+![pycharm_IDE_success](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/records_of_installation/section3_Pycharm_IDE_2.png)  
 
 See the `caffe.__file__`'s result, now returns the expected path.   
 
@@ -114,9 +113,8 @@ See the `caffe.__file__`'s result, now returns the expected path.
 
 ## 4. ConnectionResetError: [Errno 104] Connection reset by peer
 
-这个是今天在服务器上用`pip` 安装 `pytorch`的时候出现的问题，应该是`curse of speed`。  
-
-什么意思呢，听我慢慢道来～  
+这个是今天在服务器上用`pip` 安装 `pytorch`的时候出现的问题，应该是`curse of speed`。    
+什么意思呢，听我慢慢道来～    
 
 ### 4.1. error：  
 

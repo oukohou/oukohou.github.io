@@ -8,7 +8,7 @@ tags: [paper, GAN, discriminator, generator, CelebA-HQ]
 
 
 Progressive GAN，所生成的图像分辨率达到了$1024*1024$，先睹为快：  
-![a_glimpse_of_result](https://s1.ax2x.com/2019/01/23/5jCGw9.png)  
+![a_glimpse_of_result](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/a_glimpse_of_results.png)  
 
 不得不说，确实很真实～～  
 
@@ -17,12 +17,12 @@ Progressive GAN，所生成的图像分辨率达到了$1024*1024$，先睹为快
 
 ## 1. methods  
 其实ProgressiveGAN，关键在于这个 `Progressive`， 看图：  
-![whats_Progressive](https://s1.ax2x.com/2019/01/23/5jCOjA.png)  
+![illustrate_Progressive](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/illustrate_Progressive.png)  
 
 所谓 `Progressive`，就是先从低分辨率的图像开始训练，然后 `渐进地` 增加generator和discriminator的层数，以此来达到增加生成图像分辨率的目的。  
 同时，可想而知，每次新添加层数的时候，因为相当于pretrain了前面的层数，所以训练过程也会更快更稳定一点。  
 但即便如此，作者还不满足，其在添加新的层的时候，还要做点小动作：  
-![fade_in_layer](https://s1.ax2x.com/2019/01/23/5jEegA.png)  
+![fade_in_layer](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/fade_in_layer.png)  
 
 看懂了么，解释有点绕，其实就是在添加新的层的时候，将其作为一个residual layer，从0到1递增地增加其权重，以达到稳定训练的目的。  
 
@@ -41,7 +41,7 @@ Progressive GAN，所生成的图像分辨率达到了$1024*1024$，先睹为快
 - 这个feature map可以插入到discriminator的任何层，但作者发现插入到结尾部分效果比较好。  
 ```
 于是，最终得到的generator和discriminator的网络结构如图：  
-![network_design](https://s1.ax2x.com/2019/01/23/5jLPrl.png)  
+![network_design](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/network_design.png)  
 
 可以看到，generator和discriminator的结构几乎是镜像对称的，在discriminator的最后两个卷积层之前有个 `minibatch stddev`层，
 其维度为$$513*4*4$$，比上一层多了一个维度，所多的即为前面提到的新生成的feature map。  
@@ -80,7 +80,7 @@ feature vector。
 剩下的就是实验对比环节了，没啥好说，无非是在什么什么数据集上，用了什么什么标准，超过了start-of-the-art多少多少～～  
 不过其中有一个操作倒还值得一提：如何生成的CelebA-HQ数据集。  
 文章作者自己从CelebA中生成了30000张1024x1024分辨率的高清大头照，其主要流程如下图：  
-![CelebA-HQ](https://s1.ax2x.com/2019/01/23/5jUZQX.png)  
+![CelebA-HQ](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/CelebA_HQ.png)  
 
 具体操作步骤为：  
 ```markdown
@@ -89,16 +89,16 @@ feature vector。
 - 采用padding和filtering来扩展脸部区域超出的图像的维度；  
 - 根据CelebA数据集中的脸部landmark annotations来选择裁剪的矩形框：  
 ```
-![crop_formula](https://s1.ax2x.com/2019/01/23/5jUPXB.png)   
+![crop_formula](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/crop_formula.png)   
 
 最终在202599张图像中得到了30000张高清大头照。  
 
 ## 4. results
 最后，就是大家喜闻乐见的有图有真相环节了～  
 话不多说，放图：  
-![results_1](https://s1.ax2x.com/2019/01/23/5jUcIp.png)  
-![results_2](https://s1.ax2x.com/2019/01/23/5jUEOK.png)  
-![results_3](https://s1.ax2x.com/2019/01/23/5jULUG.png)  
+![results_1](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/results_1.png)  
+![results_2](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/results_2.png)  
+![results_3](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/progressive_GAN/results_3.png)  
 好了，就放这么多啦，还没看够的话，可以前往youtube观看其[演示视频](https://www.youtube.com/watch?v=G06dEcZ-QTg&feature=youtu.be)，
 或者你也可以查看其论文的appendix：[ProgressiveGAN](https://arxiv.org/abs/1710.10196)。  
 

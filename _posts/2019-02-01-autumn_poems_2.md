@@ -31,7 +31,7 @@ tags: [诗, 秋,]
 结合背景就很好懂了，郑思肖是南宋末年人，经历了元朝灭宋的过程。  
 所以说在宋朝灭亡后，国土已失，画兰花就不再画土了。  
 `思肖` 这个名字其实也是后来改的，原来叫郑之因，为啥改成 `思肖` 呢？请看`赵`的繁体字：  
-![zhao](https://s1.ax2x.com/2019/02/01/5jShHi.png)  
+![zhao](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/automn_poem_2/zhao.png)  
 
 懂了吧？而且他不光改了名字，字忆翁，号所南，给自己住的地方题 `本穴世界`～～   
 等下，`本穴世界` 又是啥意思？    
@@ -108,8 +108,8 @@ tags: [诗, 秋,]
 ```
 
 关于最后这句`不知乘月几人归，落月摇情满江树`，不瞒各位，我是有点感情的。  
-![ji_ren_gui](https://s1.ax2x.com/2019/02/01/5jSCR6.png)
-![ji_ren_gui_2](https://s1.ax2x.com/2019/02/01/5jSL0p.png)    
+![ji_ren_gui](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/automn_poem_2/ji_ren_gui.png)
+![ji_ren_gui_2](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/automn_poem_2/ji_ren_gui_2.png)    
 
 这是我2016-09-12在知乎问题下的一个回答：[说说你们认为最好的写月或中秋的诗词?-璇珠官人的回答](https://www.zhihu.com/question/25257327/answer/121682730)。  
 
@@ -118,7 +118,7 @@ tags: [诗, 秋,]
 归心似箭，D2374次列车似~~火箭~~更快的箭，Gone are the days, coming am I(咦，语法好像不对？管他呢～).  
 
 不知乘月几人归，反正如今我归了～～  
-![正直的人](https://s1.ax2x.com/2019/02/01/5jSea3.png)  
+![正直的人](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/automn_poem_2/%E6%AD%A3%E7%9B%B4%E7%9A%84%E4%BA%BA.jpg)  
 
 
 

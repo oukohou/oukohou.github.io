@@ -32,9 +32,9 @@ c. 输出的描述子要足够有辨别性，从而使得类内相似性远远�
 ## 2. 网络架构  
 要我说，网络结构跟NetVLAD没啥区别，但这样有点欺负人了：所有的CNN网络架构还都没啥区别呢。  
 所以，还是有点点区别的，看图：  
-![network_architecture](https://s1.ax2x.com/2018/12/26/5WyNTy.png)  
+![network_architecture](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/ghostVLAD/network_architecture.png)  
 以示公平，我把NetVLAD的网络架构图也放出来：  
-![CNN_NetVLAD](https://s1.ax2x.com/2018/11/29/5YzUkJ.png)  
+![CNN_NetVLAD](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/NetVLAD/CNN_with_NetVLAD.png)  
 怎么样，两个网络架构还是有那么点区别的吧？  
 
 言归正传，ghostVLAD的架构，很清晰：  
@@ -53,7 +53,7 @@ GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将�
 关于NetVLAD的详细介绍，请看我的另一篇博文： [论文阅读 NetVLAD: CNN architecture for weakly supervised place recognition](https://www.oukohou.wang/2018/11/27/NetVLAD/).  
 这里就不赘述了。  
 而 GhostVLAD 又是怎么回事呢？看图：  
-![ghostVLAD](https://s1.ax2x.com/2018/12/26/5Wyl6l.png)  
+![ghostVLAD](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/ghostVLAD/ghostVlad.png)  
 诸君请看，图中的那个红色区域的柱状框，就是该论文的创新点！就是论文所说的“Ghost”！  
 什么意思呢？就是在计算 VLAD 的时候，多加了 “Ghost clusters”， 但是在向后传递的时候，又把
 “Ghost clusters” 给去掉了，不算在内。  
@@ -73,11 +73,11 @@ GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将�
 绕不绕？没关系，我帮你总结一下：因为某些原因，可以推论认为向量的模越大，其贡献程度越大。  
 所以那些清晰的、信息量多的图像的模应该较大，对应的，模糊的、信息量少的图像的模应该较小。  
 那么事实如何呢？作者画了个图：  
-![effect_of_ghost_clusters](https://s1.ax2x.com/2018/12/26/5WyfOB.png)  
+![effect_of_ghost_clusters](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/ghostVLAD/effect_of_ghost_clusters.png)  
 恩，还好，可以自洽。  
 
 然后放张结果对比图：  
-![results](https://s1.ax2x.com/2018/12/26/5Wyie6.png)  
+![results](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/ghostVLAD/results_of_IJB-B.png)  
 完结撒花。
 
 ## 5. Conclusions
@@ -86,7 +86,7 @@ GhostVLAD的作用，就是给定 N 个 $D_F$ 维的人脸图像描述子，将�
 
 不过当然，“小修小补”没什么意外，但知道怎么样进行”小修小补“就非常厉害啦。  
 人家的想法确实很令我佩服，敬仰。在这里送上我的膝盖：  
-[![take_it!](https://s1.ax2x.com/2018/12/26/5Wyxgp.jpg)](https://www.oukohou.wang/2018/12/26/GhostVLAD/)  
+[![take_it!](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/take-my-knee.jpg)](https://www.oukohou.wang/2018/12/26/GhostVLAD/)  
 
 
 以上，完结撒花。

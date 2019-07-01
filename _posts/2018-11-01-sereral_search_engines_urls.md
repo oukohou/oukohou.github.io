@@ -29,12 +29,12 @@ tags:   [search engine, baidu, google, 360, sougou]
   
 1. 提交网址    
 比如提交我的博客网址：https://www.oukohou.wang/  
-![https://www.oukohou.wang/](https://s1.ax2x.com/2018/11/01/5m3JDQ.png)  
+![https://www.oukohou.wang/](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/step_1.png)  
 
 2. 验证所有权  
 就是验证你对这个网站有所有权：  
     给你一个文件，你要能把这个文件放到该网站的根目录下：    
-![https://www.oukohou.wang/](https://s1.ax2x.com/2018/11/01/5m3hKa.png)
+![https://www.oukohou.wang/](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/step_2.png)
 比如[我的这个博客](https://www.oukohou.wang/)，是用jekyll在github pages上搭建的，我就只需要在[oukohou.github.io](https://github.com/oukohou/oukohou.github.io)
 这个repository的根目录下放这个验证用的[html文件](https://github.com/oukohou/oukohou.github.io/blob/master/google23b03f783980f31a.html)，
 稍等片刻，让子弹飞一会儿，就可以[访问到了](https://www.oukohou.wang/google23b03f783980f31a.html)。
@@ -42,7 +42,7 @@ tags:   [search engine, baidu, google, 360, sougou]
 3. 验证通过  
 验证通过后一般也就OK了，剩下的就是耐心等待搜索引擎收录你的网站的结果了。  
 大部分都会通过，我只遇到了360没收录……:  
-![poor me, detestable 360](https://s1.ax2x.com/2018/11/01/5m3voz.png)   
+![poor me, detestable 360](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/360_failed.png)   
 说起来都是泪～～  
 ~~鉴于茫茫多的被hao123流氓篡改了主页的网民，~~
 鉴于茫茫多的下载了360浏览器并设置360搜索为主页的网民来说，360搜索引擎可是一大流量入口啊～～  
@@ -51,14 +51,14 @@ tags:   [search engine, baidu, google, 360, sougou]
 4. 网站分析  
 现在大多数主流引擎在收录了你的网站之后，都会提供一个网站流量分析面板供你查看。
 比如我的google search console现在长这样：  
-![poor click rate](https://s1.ax2x.com/2018/11/01/5m3Zb2.png)  
+![poor click rate](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/search_engine_url/click_rate.png)  
 总共曝光了可怜的4次，而且只有可怜的1次点击……  
 哭。  
 大家看我这么可怜，快来多多点击[我的网页](https://www.oukohou.wang/)吧～～～  
 
 ## 3. 完结撒花  
 你的赞是我最大的动力！  
-![kirai](https://s1.ax2x.com/2018/11/06/5m47Xh.jpg)
+![kitai](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/gakki_kitai.jpg)
   
 regards.
 <h4 align = "right">oukohou.</h4>

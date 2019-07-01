@@ -172,7 +172,7 @@ hexo generate
 
 点击上面的传送门然后在里面痛快地撒个野吧!   
 
-![kitai](https://s1.ax2x.com/2018/11/06/5m47Xh.jpg)  
+![kitai](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/gakki_kitai.jpg)  
 
 
 

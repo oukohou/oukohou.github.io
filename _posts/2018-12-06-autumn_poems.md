@@ -132,7 +132,7 @@ tags: [秋, 诗]
 あらあら、靡不有初呀，如今又如何呢？  
 如今也已是小雪节气，寒事今牢落，人生亦有初呀～～  
 さっ～～  
-![ganbatte](https://s1.ax2x.com/2018/12/06/50e9zh.jpg)  
+![ganbatte](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E7%9C%BC%E7%A5%9E%E9%BB%AF%E6%B7%A1.jpg)  
 頑張って~~
 
 <p  align="right">regards.</p>
