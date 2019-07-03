@@ -14,7 +14,7 @@
 我的博客主题里有一些自己定制化的内容，其中涉及到一些信息获取的事宜(比如百度统计的代码，你忘记修改的话，
 我可以直接获取到你的网站的各种访问信息呦🙈)，所以我一一都写在了 **[这篇博文](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/ "对没错，就是是这篇超级暖心的博文")**
  里，敬请访问～～
-[![image](https://s1.ax2x.com/2019/01/07/5dYMIy.png)](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/ "点击图像直达博文～～")  
+[![a_glimpse_of_this_blog](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/notices_for_fork_theme/a_glimpse_of_this_blog.png)](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/ "点击图像直达博文～～")  
 是不是超级暖心？🐼    
 
 
@@ -45,7 +45,7 @@ jekyll server
 ```
 
 **Any star, fork or [donation](https://www.oukohou.wang/donate/ "赏个铜板") is highly appreciated!!!**  
-![yasashii](https://s1.ax2x.com/2018/12/19/5Qxfd6.jpg "当然，女孩子会更温柔的啦～～")  
+![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")  
 
 ------
 
