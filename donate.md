@@ -43,7 +43,7 @@ p {
 | ![支付宝转账二维码](/assets/imgs/ali_pay.png) | ![微信转账二维码](/assets/imgs/wechat_pay.png)| 
 
 ---
-当然地主家也可能没有余粮，您可以关注我的微信公众号：oukohou，也不失为一种赞助： | 
+当然，地主家也可能没有余粮，您可以关注我的微信公众号：oukohou，也不失为一种赞助： | 
 
 ![微信公众号](/assets/imgs/wechat_official_account.png)              
 
