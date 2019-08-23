@@ -4,8 +4,8 @@
     <bookmark url="file://$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" line="75" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="refactor: modify two wrong image links.">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md" afterDir="false" />
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add post: SAGAN.">
+      <change afterPath="$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +20,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="321">
-                <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+              <first_editor relative-caret-position="44">
+                <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,11 +32,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="176">
-                <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="20" />
+              <first_editor relative-caret-position="198">
+                <caret line="45" column="24" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -105,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/laboratory/bug_memo.md" />
         <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.markdown" />
         <option value="$PROJECT_DIR$/assets/css/style_backup.css" />
         <option value="$PROJECT_DIR$/assets/css/style_bigger.css" />
@@ -124,7 +123,6 @@
         <option value="$PROJECT_DIR$/laboratory/readme_backup.md" />
         <option value="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" />
         <option value="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" />
-        <option value="$PROJECT_DIR$/donate.md" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/_includes/widgets/personlized_signature" />
         <option value="$PROJECT_DIR$/_layouts/base.html" />
@@ -156,21 +154,22 @@
         <option value="$PROJECT_DIR$/_posts/2018-10-11-S3FD:Single Shot Scale-invariant Face Detector.md" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md" />
+        <option value="$PROJECT_DIR$/donate.md" />
+        <option value="$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="493" />
-    <option name="y" value="187" />
-    <option name="width" value="1584" />
-    <option name="height" value="722" />
+    <option name="x" value="98" />
+    <option name="y" value="309" />
+    <option name="width" value="1855" />
+    <option name="height" value="657" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,6 +186,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,21 +304,9 @@
       <workItem from="1561688731817" duration="8243000" />
       <workItem from="1561945733749" duration="3927000" />
       <workItem from="1562125215356" duration="695000" />
-      <workItem from="1562141665359" duration="10423000" />
-    </task>
-    <task id="LOCAL-00133" summary="refactor: change wechat official account picture's size.">
-      <created>1545011454616</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1545011454616</updated>
-    </task>
-    <task id="LOCAL-00134" summary="refactor: change wechat official account picture's size, now using width: 80%.">
-      <created>1545040183693</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1545040183693</updated>
+      <workItem from="1562141665359" duration="11287000" />
+      <workItem from="1565690218869" duration="2896000" />
+      <workItem from="1566380875642" duration="5573000" />
     </task>
     <task id="LOCAL-00135" summary="refactor: change Valine's abductive sentence;&#10;add content: add my name and career on about.html.">
       <created>1545050575057</created>
@@ -649,11 +637,25 @@
       <option name="project" value="LOCAL" />
       <updated>1562125308412</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="add post: SAGAN.">
+      <created>1562315129575</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1562315129575</updated>
+    </task>
+    <task id="LOCAL-00183" summary="refactor:donate.md.">
+      <created>1565690376783</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1565690376783</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112858000" />
+    <option name="totallyTimeSpent" value="122191000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -665,10 +667,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="493" y="187" width="1584" height="722" extended-state="0" />
+    <frame x="504" y="329" width="1855" height="657" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2039801" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18076286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -679,9 +681,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.20502092" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.2123431" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.37656903" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.3553875" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -762,8 +764,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add content: matlab and python's datenum convert." />
-    <MESSAGE value="add post: how to mount disk on Ubuntu." />
     <MESSAGE value="add post: face aging using GAN." />
     <MESSAGE value="refactor: change format." />
     <MESSAGE value="add post: autumn poems 2;&#10;refactor: simplify tags of autumn poems." />
@@ -787,9 +787,9 @@
     <MESSAGE value="add post: sprctral normalization." />
     <MESSAGE value="Big change: now use github to save images, as most image gallery services are unreliable." />
     <MESSAGE value="refactor: modify two wrong image links." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: modify two wrong image links." />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="add post: SAGAN." />
+    <MESSAGE value="refactor:donate.md." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor:donate.md." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -802,16 +802,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-11-28-年会节目剧本_scenery_4.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="154">
-            <caret line="7" selection-start-line="7" selection-end-line="22" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/category/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3300" />
@@ -874,33 +864,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/donate.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="886">
-            <caret line="61" selection-start-line="61" selection-end-line="61" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="792">
           <caret line="36" column="19" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#div#1;n#article#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1186,18 +1153,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#div#1;n#article#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
+        <state relative-caret-position="690">
           <caret line="113" column="63" selection-start-line="113" selection-start-column="56" selection-end-line="113" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/donate.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-440">
+            <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="176">
-            <caret line="14" selection-start-line="14" selection-end-line="15" selection-end-column="20" />
+          <first_editor relative-caret-position="110">
+            <caret line="83" column="24" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -1206,8 +1196,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="321">
-            <caret line="94" column="7" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
+          <first_editor relative-caret-position="198">
+            <caret line="45" column="24" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="24" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="44">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
