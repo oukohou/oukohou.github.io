@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="refactor: change video's post images.">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="refactor: change video's autoplay.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,14 +179,7 @@
       <workItem from="1581255700375" duration="2435000" />
       <workItem from="1581260135239" duration="445000" />
       <workItem from="1581574357807" duration="2901000" />
-      <workItem from="1581578153142" duration="676000" />
-    </task>
-    <task id="LOCAL-00142" summary="refactor: change format.">
-      <created>1545830604098</created>
-      <option name="number" value="00142" />
-      <option name="presentableId" value="LOCAL-00142" />
-      <option name="project" value="LOCAL" />
-      <updated>1545830604098</updated>
+      <workItem from="1581578153142" duration="1462000" />
     </task>
     <task id="LOCAL-00143" summary="refactor: update a picture.">
       <created>1546847868511</created>
@@ -524,7 +517,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581578220314</updated>
     </task>
-    <option name="localTasksCounter" value="191" />
+    <task id="LOCAL-00191" summary="refactor: change video's autoplay.">
+      <created>1581579499799</created>
+      <option name="number" value="00191" />
+      <option name="presentableId" value="LOCAL-00191" />
+      <option name="project" value="LOCAL" />
+      <updated>1581579499799</updated>
+    </task>
+    <option name="localTasksCounter" value="192" />
     <servers />
   </component>
   <component name="TodoView">
@@ -567,7 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: add category and labels." />
     <MESSAGE value="refactor: change signature format." />
     <MESSAGE value="refactor: live2D fixed problem on mobile's scale, see https://github.com/xiazeyu/live2d-widget.js/issues/40#issuecomment-478934856 for detail." />
     <MESSAGE value="refactor: parameters of Live2D changes." />
@@ -592,13 +591,14 @@
     <MESSAGE value="add content: control video's size." />
     <MESSAGE value="add content:" />
     <MESSAGE value="refactor: change video's post images." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change video's post images." />
+    <MESSAGE value="refactor: change video's autoplay." />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor: change video's autoplay." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1581578218240">
+    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1581579498097">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581578218240" />
+    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581579498097" />
     <state x="517" y="130" key="FileChooserDialogImpl" timestamp="1581574465763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -608,10 +608,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="143" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581574471271" />
-    <state x="261" y="73" key="Vcs.Push.Dialog.v2" timestamp="1581578221856">
+    <state x="261" y="73" key="Vcs.Push.Dialog.v2" timestamp="1581579501024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="73" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581578221856" />
+    <state x="261" y="73" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581579501024" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
