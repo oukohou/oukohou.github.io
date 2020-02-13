@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="post content: add results.">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add content: control video's size.">
       <change afterPath="$PROJECT_DIR$/_posts/2020-02-09-2019-nCov.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -179,21 +179,7 @@
       <workItem from="1581069582411" duration="594000" />
       <workItem from="1581255700375" duration="2435000" />
       <workItem from="1581260135239" duration="445000" />
-      <workItem from="1581574357807" duration="551000" />
-    </task>
-    <task id="LOCAL-00139" summary="refactor: add notices for cloning my repo on.">
-      <created>1545227055142</created>
-      <option name="number" value="00139" />
-      <option name="presentableId" value="LOCAL-00139" />
-      <option name="project" value="LOCAL" />
-      <updated>1545227055142</updated>
-    </task>
-    <task id="LOCAL-00140" summary="refactor: correct some typos.">
-      <created>1545306569869</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1545306569869</updated>
+      <workItem from="1581574357807" duration="2901000" />
     </task>
     <task id="LOCAL-00141" summary="refactor: change markdown to md;&#10;add post: GhostVLAD.">
       <created>1545830195354</created>
@@ -524,7 +510,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571629981355</updated>
     </task>
-    <option name="localTasksCounter" value="188" />
+    <task id="LOCAL-00188" summary="add content: control video's size.">
+      <created>1581575061378</created>
+      <option name="number" value="00188" />
+      <option name="presentableId" value="LOCAL-00188" />
+      <option name="project" value="LOCAL" />
+      <updated>1581575061379</updated>
+    </task>
+    <task id="LOCAL-00189" summary="add content:">
+      <created>1581577886115</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1581577886115</updated>
+    </task>
+    <option name="localTasksCounter" value="190" />
     <servers />
   </component>
   <component name="TodoView">
@@ -567,8 +567,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add post:ubuntu atom and latex." />
-    <MESSAGE value="features: add Google AdSense codes." />
     <MESSAGE value="add post: CycleGAN;&#10;refactor: delete the `dollar` icon." />
     <MESSAGE value="refactor: add category and labels." />
     <MESSAGE value="refactor: change signature format." />
@@ -592,9 +590,15 @@
     <MESSAGE value="bug fix: get 'new Valine' out of the 'for' loop, see https://github.com/xCss/Valine/issues/136 for details." />
     <MESSAGE value="add post: SSR-Net." />
     <MESSAGE value="post content: add results." />
-    <option name="LAST_COMMIT_MESSAGE" value="post content: add results." />
+    <MESSAGE value="add content: control video's size." />
+    <MESSAGE value="add content:" />
+    <option name="LAST_COMMIT_MESSAGE" value="add content:" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1581577885061">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581577885061" />
     <state x="517" y="130" key="FileChooserDialogImpl" timestamp="1581574465763">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -604,6 +608,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="143" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581574471271" />
+    <state x="261" y="73" key="Vcs.Push.Dialog.v2" timestamp="1581577887981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="73" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581577887981" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
