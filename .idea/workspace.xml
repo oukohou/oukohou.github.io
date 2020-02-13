@@ -44,13 +44,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SearchEverywhereHistoryKey" value="duoshuo&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/jekyll/update/2018/08/28/welcome-to-jekyll.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/laboratory/comment_test.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/guestbook/index.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/laboratory/fd.html&#10;true&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/assets/css/style.css" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../2020-02-04/codes/AutoDL-Projects-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -101,6 +102,18 @@
         <item itemvalue="Python.resize_image" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -166,6 +179,7 @@
       <workItem from="1581069582411" duration="594000" />
       <workItem from="1581255700375" duration="2435000" />
       <workItem from="1581260135239" duration="445000" />
+      <workItem from="1581574357807" duration="551000" />
     </task>
     <task id="LOCAL-00139" summary="refactor: add notices for cloning my repo on.">
       <created>1545227055142</created>
@@ -581,10 +595,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="post content: add results." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="503" y="141" key="FileChooserDialogImpl" timestamp="1580981422426">
-      <screen x="65" y="24" width="1301" height="744" />
+    <state x="517" y="130" key="FileChooserDialogImpl" timestamp="1581574465763">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="517" y="130" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581574465763" />
     <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1580981422426" />
+    <state x="143" y="0" key="SettingsEditor" timestamp="1581574471271">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="143" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581574471271" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
