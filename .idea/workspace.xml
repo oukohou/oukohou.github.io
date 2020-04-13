@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="refactor: change video's size.">
-      <change afterPath="$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add post:invisible man." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="211">
+              <first_editor relative-caret-position="1386">
                 <caret line="63" selection-start-line="63" selection-end-line="63" />
               </first_editor>
               <second_editor />
@@ -41,8 +38,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="198">
-                <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+              <first_editor relative-caret-position="-1160">
+                <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -268,14 +265,7 @@
       <workItem from="1581260135239" duration="445000" />
       <workItem from="1581574357807" duration="2901000" />
       <workItem from="1581578153142" duration="2871000" />
-      <workItem from="1586336795639" duration="317000" />
-    </task>
-    <task id="LOCAL-00145" summary="add post: pix2pix.">
-      <created>1547289484065</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1547289484066</updated>
+      <workItem from="1586336795639" duration="1137000" />
     </task>
     <task id="LOCAL-00146" summary="refactor: change all categories to Chinese, abandon English ones.">
       <created>1547623629444</created>
@@ -613,11 +603,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581582427091</updated>
     </task>
-    <option name="localTasksCounter" value="194" />
+    <task id="LOCAL-00194" summary="add post:invisible man.">
+      <created>1586337327879</created>
+      <option name="number" value="00194" />
+      <option name="presentableId" value="LOCAL-00194" />
+      <option name="project" value="LOCAL" />
+      <updated>1586337327880</updated>
+    </task>
+    <option name="localTasksCounter" value="195" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="497000" />
+    <option name="totallyTimeSpent" value="1317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,7 +629,7 @@
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -643,9 +640,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.72758037" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.7269874" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.17887029" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.17887029" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
       <window_info anchor="right" id="make" />
@@ -727,7 +724,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: live2D fixed problem on mobile's scale, see https://github.com/xiazeyu/live2d-widget.js/issues/40#issuecomment-478934856 for detail." />
     <MESSAGE value="refactor: parameters of Live2D changes." />
     <MESSAGE value="refactor: change donation's format, and yellow background." />
     <MESSAGE value="add post: Style-based GAN." />
@@ -752,7 +748,8 @@
     <MESSAGE value="refactor: change video's post images." />
     <MESSAGE value="refactor: change video's autoplay." />
     <MESSAGE value="refactor: change video's size." />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor: change video's size." />
+    <MESSAGE value="add post:invisible man." />
+    <option name="LAST_COMMIT_MESSAGE" value="add post:invisible man." />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1581582422212">
@@ -784,16 +781,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="211">
-            <caret line="63" selection-start-line="63" selection-end-line="63" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -801,11 +788,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1386">
+            <caret line="63" selection-start-line="63" selection-end-line="63" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <first_editor relative-caret-position="-1160">
+            <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
