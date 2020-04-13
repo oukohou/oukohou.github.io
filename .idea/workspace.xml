@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="add post:invisible man." />
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="fix: move clustrmaps to bottom.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +37,31 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1160">
-                <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+              <first_editor relative-caret-position="22">
+                <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="82" column="89" selection-start-line="82" selection-start-column="89" selection-end-line="82" selection-end-column="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4056" />
           </provider>
         </entry>
       </file>
@@ -75,6 +94,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -90,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -101,12 +120,13 @@
             <path>
               <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -266,20 +286,7 @@
       <workItem from="1581574357807" duration="2901000" />
       <workItem from="1581578153142" duration="2871000" />
       <workItem from="1586336795639" duration="1137000" />
-    </task>
-    <task id="LOCAL-00146" summary="refactor: change all categories to Chinese, abandon English ones.">
-      <created>1547623629444</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1547623629444</updated>
-    </task>
-    <task id="LOCAL-00147" summary="refactor: change category 拾遗 to 勤学, as this category is for learning.">
-      <created>1547625664648</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1547625664648</updated>
+      <workItem from="1586763298386" duration="2365000" />
     </task>
     <task id="LOCAL-00148" summary="refactor: change category 活动 to 浪游, so as to include more posts.">
       <created>1547634277179</created>
@@ -610,11 +617,25 @@
       <option name="project" value="LOCAL" />
       <updated>1586337327880</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="feature: add clustrmaps.">
+      <created>1586763411998</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1586763411998</updated>
+    </task>
+    <task id="LOCAL-00196" summary="fix: move clustrmaps to bottom.">
+      <created>1586764239159</created>
+      <option name="number" value="00196" />
+      <option name="presentableId" value="LOCAL-00196" />
+      <option name="project" value="LOCAL" />
+      <updated>1586764239159</updated>
+    </task>
+    <option name="localTasksCounter" value="197" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1317000" />
+    <option name="totallyTimeSpent" value="3682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -629,7 +650,7 @@
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19624102" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -640,12 +661,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.7269874" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.17782427" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.17887029" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.31589958" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
-      <window_info anchor="right" id="make" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -653,6 +673,7 @@
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="R Packages" order="6" />
+      <window_info anchor="right" id="make" order="7" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
@@ -724,8 +745,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: parameters of Live2D changes." />
-    <MESSAGE value="refactor: change donation's format, and yellow background." />
     <MESSAGE value="add post: Style-based GAN." />
     <MESSAGE value="refactor: change contents of StyleGAN." />
     <MESSAGE value="refactor: change title of StyleGAN, change time of autumn-poem-2." />
@@ -749,7 +768,9 @@
     <MESSAGE value="refactor: change video's autoplay." />
     <MESSAGE value="refactor: change video's size." />
     <MESSAGE value="add post:invisible man." />
-    <option name="LAST_COMMIT_MESSAGE" value="add post:invisible man." />
+    <MESSAGE value="feature: add clustrmaps." />
+    <MESSAGE value="fix: move clustrmaps to bottom." />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: move clustrmaps to bottom." />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1581582422212">
@@ -781,13 +802,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -801,10 +815,29 @@
     <entry file="file://$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1160">
-            <caret line="32" column="10" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
+          <first_editor relative-caret-position="22">
+            <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4056" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="82" column="89" selection-start-line="82" selection-start-column="89" selection-end-line="82" selection-end-column="89" />
         </state>
       </provider>
     </entry>
