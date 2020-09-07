@@ -25,148 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS.">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/oukohou.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oukohou.github.io.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/60e2c4178f1d12527f7e5b00a80d0f2f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/60e2c4178f1d12527f7e5b00a80d0f2f.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BingSiteAuth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BingSiteAuth.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-github.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-github.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-github.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-twitter.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-twitter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-twitter.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/plugins/baidu_push" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/baidu_push" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/plugins/comments_duoshuuo" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/comments_duoshuuo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/plugins/fancybox" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/fancybox" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/plugins/share_button" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/share_button" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/category_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/category_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/codehub_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/codehub_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/link_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/link_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/new_post_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/new_post_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/personlized_signature" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/personlized_signature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/post_toc" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/post_toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/search_box" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/search_box" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/search_box_new" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/search_box_new" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/star_post_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/star_post_list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/tag_cloud" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/tag_cloud" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/tags" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/tags" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/widgets/weibo_show" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/weibo_show" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/keynote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-11-29-live2D_installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-29-live2D_installation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-06-CycleGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-06-CycleGAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-02-09-2019-nCov.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-09-2019-nCov.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives.md" beforeDir="false" afterPath="$PROJECT_DIR$/archives.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/grids-responsive-min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/grids-responsive-min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/jquery.fancybox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/normalize.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/pure-min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/pure-min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/data/posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/posts.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/ali_pay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/ali_pay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/apple-touch-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/donate_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/donate_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/donate_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/donate_2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/messages.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/messages.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/wechat_pay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/wechat_pay.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/imgs/yarerusa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/yarerusa.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/fancybox.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/fancybox.pack.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.fancybox.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/md5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/md5.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/share.baidu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/share.baidu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/tongji.baidu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/tongji.baidu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/js/totop.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/totop.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.2048/texture_00.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.2048/texture_00.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.moc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.moc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_01.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_01.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_02.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_02.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_01.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_01.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_02.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_02.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_03.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_03.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_04.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_04.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_05.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_05.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_06.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_06.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_07.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_07.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_08.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_08.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_09.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_09.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_10.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_10.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_11.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_11.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_12.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_12.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_13.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_13.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_14.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_14.mtn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.model.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.model.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.physics.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.physics.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baidu_verify_8nqEEWJYov.html" beforeDir="false" afterPath="$PROJECT_DIR$/baidu_verify_8nqEEWJYov.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category.md" beforeDir="false" afterPath="$PROJECT_DIR$/category.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/donate.md" beforeDir="false" afterPath="$PROJECT_DIR$/donate.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/google23b03f783980f31a.html" beforeDir="false" afterPath="$PROJECT_DIR$/google23b03f783980f31a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/search.md" beforeDir="false" afterPath="$PROJECT_DIR$/search.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/SimpleTornadoServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/SimpleTornadoServer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sogousiteverification.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sogousiteverification.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags.md" beforeDir="false" afterPath="$PROJECT_DIR$/tags.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/nginx-proxy.config" beforeDir="false" afterPath="$PROJECT_DIR$/tools/nginx-proxy.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tools/supervisorapp.conf" beforeDir="false" afterPath="$PROJECT_DIR$/tools/supervisorapp.conf" afterDir="false" />
-    </list>
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -333,14 +192,7 @@
       <workItem from="1581578153142" duration="2871000" />
       <workItem from="1586336795639" duration="1137000" />
       <workItem from="1586763298386" duration="3303000" />
-      <workItem from="1599448402571" duration="10745000" />
-    </task>
-    <task id="LOCAL-00150" summary="small refinement: add a picture.">
-      <created>1547646014565</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1547646014565</updated>
+      <workItem from="1599448402571" duration="11085000" />
     </task>
     <task id="LOCAL-00151" summary="add post: ProgressiveGAN.">
       <created>1548247427183</created>
@@ -678,7 +530,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586769133658</updated>
     </task>
-    <option name="localTasksCounter" value="199" />
+    <task id="LOCAL-00199" summary="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS.">
+      <created>1599466508462</created>
+      <option name="number" value="00199" />
+      <option name="presentableId" value="LOCAL-00199" />
+      <option name="project" value="LOCAL" />
+      <updated>1599466508463</updated>
+    </task>
+    <option name="localTasksCounter" value="200" />
     <servers />
   </component>
   <component name="TodoView">
@@ -760,10 +619,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2" timestamp="1599466468134">
+    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2" timestamp="1599466524847">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1599466468134" />
+    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1599466524847" />
+    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1599466513742">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1599466513742" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
