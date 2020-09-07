@@ -1,11 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="fix: move clustrmaps to bottom.">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS.">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/oukohou.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/oukohou.github.io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/60e2c4178f1d12527f7e5b00a80d0f2f.txt" beforeDir="false" afterPath="$PROJECT_DIR$/60e2c4178f1d12527f7e5b00a80d0f2f.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BingSiteAuth.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BingSiteAuth.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-github.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-github.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-github.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-github.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-twitter.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-twitter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer/icon-twitter.svg" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer/icon-twitter.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/plugins/baidu_push" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/baidu_push" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/plugins/comments_duoshuuo" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/comments_duoshuuo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/plugins/fancybox" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/fancybox" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/plugins/share_button" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/plugins/share_button" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/category_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/category_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/codehub_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/codehub_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/link_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/link_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/new_post_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/new_post_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/personlized_signature" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/personlized_signature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/post_toc" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/post_toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/search_box" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/search_box" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/search_box_new" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/search_box_new" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/star_post_list" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/star_post_list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/tag_cloud" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/tag_cloud" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/tags" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/tags" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/widgets/weibo_show" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/widgets/weibo_show" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/keynote.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/keynote.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-08-28-Hello-world!.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-25-Einstein summation convention.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-10-26-caffe_installation_ubuntu_1604.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-01-sereral_search_engines_urls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-20-process_of_blog_setting-up.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-27-NetVLAD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-28-sand-table-simulation-activity_feelings.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-11-29-live2D_installation.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-11-29-live2D_installation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-06-autumn_poems.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-13-blog's-name-changed.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-26-GhostVLAD.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-07-Image-to-Image-Translation-with-Conditional-Adversarial-Networks.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-VMware-Windows-no-network-adaptor.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-16-reocrds_of_installation_errors_and_operations.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-22-ProgressiveGAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-29-Ubuntu_how_to_mount_disk.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-01-30-face-aging_using_GAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-01-autumn_poems_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-02-26-Ubuntu_Atom_Latex_environment_deploy.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-06-CycleGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-06-CycleGAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-03-29-StyleGAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-04-18-spring-poems_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-10-spectral-normalization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-07-03-SAGAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-13-Transferable-Adversarial-Attacks-for-Image-and-Video-Object-Detection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-02-09-2019-nCov.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-02-09-2019-nCov.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/_syntax-highlighting.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives.md" beforeDir="false" afterPath="$PROJECT_DIR$/archives.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/grids-responsive-min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/grids-responsive-min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/jquery.fancybox.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/jquery.fancybox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/pure-min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/pure-min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/data/posts.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/data/posts.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/icomoon.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/ali_pay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/ali_pay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/apple-touch-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/apple-touch-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/donate_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/donate_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/donate_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/donate_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/messages.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/messages.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/wechat_official_account.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/wechat_pay.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/wechat_pay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/yarerusa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/yarerusa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/fancybox.pack.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/fancybox.pack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.fancybox.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.fancybox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/md5.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/md5.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/share.baidu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/share.baidu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/tongji.baidu.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/tongji.baidu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/totop.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/totop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.2048/texture_00.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.2048/texture_00.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.moc" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/moc/unitychan.moc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_01.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_01.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_02.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/idle_02.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_01.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_01.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_02.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_02.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_03.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_03.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_04.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_04.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_05.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_05.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_06.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_06.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_07.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_07.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_08.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_08.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_09.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_09.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_10.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_10.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_11.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_11.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_12.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_12.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_13.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_13.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_14.mtn" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/mtn/m_14.mtn" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.model.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.model.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.physics.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/assets/unitychan.physics.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.0.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/live2dw/lib/L2Dwidget.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu_verify_8nqEEWJYov.html" beforeDir="false" afterPath="$PROJECT_DIR$/baidu_verify_8nqEEWJYov.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category.md" beforeDir="false" afterPath="$PROJECT_DIR$/category.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/donate.md" beforeDir="false" afterPath="$PROJECT_DIR$/donate.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/google23b03f783980f31a.html" beforeDir="false" afterPath="$PROJECT_DIR$/google23b03f783980f31a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guestbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.md" beforeDir="false" afterPath="$PROJECT_DIR$/search.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/SimpleTornadoServer.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/SimpleTornadoServer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/server/__main__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sogousiteverification.txt" beforeDir="false" afterPath="$PROJECT_DIR$/sogousiteverification.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags.md" beforeDir="false" afterPath="$PROJECT_DIR$/tags.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/nginx-proxy.config" beforeDir="false" afterPath="$PROJECT_DIR$/tools/nginx-proxy.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tools/supervisorapp.conf" beforeDir="false" afterPath="$PROJECT_DIR$/tools/supervisorapp.conf" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,59 +174,6 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/oukohou_github_io$resize_image.coverage" NAME="resize_image Coverage Results" MODIFIED="1537262164741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/laboratory" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1386">
-                <caret line="63" selection-start-line="63" selection-end-line="63" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="22">
-                <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="82" column="89" selection-start-line="82" selection-start-column="89" selection-end-line="82" selection-end-column="89" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4056" />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,48 +198,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md" />
-        <option value="$PROJECT_DIR$/index.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="117" />
-    <option name="y" value="249" />
-    <option name="width" value="1772" />
-    <option name="height" value="719" />
-  </component>
   <component name="ProjectId" id="1XOAfmqPgpnBSAgDSjDWVIZpjyg" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oukohou.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oukohou.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -143,6 +212,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -157,18 +227,6 @@
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/server" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="JavaScript Debug.post.html">
     <configuration name="post.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/oukohou.github.io/_layouts/post.html">
@@ -206,18 +264,6 @@
         <item itemvalue="Python.resize_image" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -286,21 +332,8 @@
       <workItem from="1581574357807" duration="2901000" />
       <workItem from="1581578153142" duration="2871000" />
       <workItem from="1586336795639" duration="1137000" />
-      <workItem from="1586763298386" duration="2365000" />
-    </task>
-    <task id="LOCAL-00148" summary="refactor: change category 活动 to 浪游, so as to include more posts.">
-      <created>1547634277179</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1547634277179</updated>
-    </task>
-    <task id="LOCAL-00149" summary="add posts: VMware's network adaptor and records of errors.">
-      <created>1547645225909</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1547645225910</updated>
+      <workItem from="1586763298386" duration="3303000" />
+      <workItem from="1599448402571" duration="10745000" />
     </task>
     <task id="LOCAL-00150" summary="small refinement: add a picture.">
       <created>1547646014565</created>
@@ -631,11 +664,22 @@
       <option name="project" value="LOCAL" />
       <updated>1586764239159</updated>
     </task>
-    <option name="localTasksCounter" value="197" />
+    <task id="LOCAL-00197" summary="bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS.">
+      <created>1586768968073</created>
+      <option name="number" value="00197" />
+      <option name="presentableId" value="LOCAL-00197" />
+      <option name="project" value="LOCAL" />
+      <updated>1586768968073</updated>
+    </task>
+    <task id="LOCAL-00198" summary="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS.">
+      <created>1586769133658</created>
+      <option name="number" value="00198" />
+      <option name="presentableId" value="LOCAL-00198" />
+      <option name="project" value="LOCAL" />
+      <updated>1586769133658</updated>
+    </task>
+    <option name="localTasksCounter" value="199" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3682000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,63 +690,8 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19624102" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498618" weight="0.21743697" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" weight="0.17782427" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" visible="true" weight="0.31589958" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-      <window_info anchor="right" id="make" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25262576" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991708" weight="0.32983193" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.498618" weight="0.21743697" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3294979" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.5317855" visible="true" weight="0.2374477" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5644002" weight="0.31485355" />
-      <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.4997236" weight="0.8880753" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.46821448" side_tool="true" weight="0.2972689" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="R Graphics" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="R Packages" order="6" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -710,19 +699,16 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
               </option>
             </State>
           </value>
@@ -743,10 +729,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add post: Style-based GAN." />
-    <MESSAGE value="refactor: change contents of StyleGAN." />
     <MESSAGE value="refactor: change title of StyleGAN, change time of autumn-poem-2." />
     <MESSAGE value="refactor: change title of face-aging-GAN." />
     <MESSAGE value="refactor: change title of face-aging-gan." />
@@ -770,26 +755,15 @@
     <MESSAGE value="add post:invisible man." />
     <MESSAGE value="feature: add clustrmaps." />
     <MESSAGE value="fix: move clustrmaps to bottom." />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: move clustrmaps to bottom." />
+    <MESSAGE value="bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
+    <MESSAGE value="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
+    <option name="LAST_COMMIT_MESSAGE" value="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1581582422212">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2" timestamp="1599466468134">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581582422212" />
-    <state x="517" y="130" key="FileChooserDialogImpl" timestamp="1581574465763">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="517" y="130" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581574465763" />
-    <state x="503" y="141" key="FileChooserDialogImpl/65.24.1301.744@65.24.1301.744" timestamp="1580981422426" />
-    <state x="143" y="0" key="SettingsEditor" timestamp="1581574471271">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="143" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581574471271" />
-    <state x="261" y="73" key="Vcs.Push.Dialog.v2" timestamp="1581582428435">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="261" y="73" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1581582428435" />
+    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1599466468134" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -800,46 +774,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2019-09-20-SSRNet.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1386">
-            <caret line="63" selection-start-line="63" selection-end-line="63" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2020-04-08-InvisibleMan.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="22">
-            <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4056" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="82" column="89" selection-start-line="82" selection-start-column="89" selection-end-line="82" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>

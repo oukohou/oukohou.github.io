@@ -6,6 +6,11 @@ categories: [部署]
 tags: [notices, help]  
 ---
 
+update 2020-09-06 14:56:32：
+- [7. clustrmaps](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/#7-clustrmaps)
+- [8. google adsense](https://www.oukohou.wang/2018/12/18/notices-for-jekyll-themes-fork/#8-google-adsense)
+
+
 **首先要感谢你使用我的博客主题！**  
 [我的独立博客](http://www.oukohou.wang/) 主题基于 [maupassant-jekyll](https://github.com/alafighting/maupassant-jekyll.git) 
 重新修改和优化，同时很大程度上参考了 [kuanghy](https://github.com/kuanghy) 的博客主题 [luring](https://github.com/kuanghy/luring)，感谢。  
@@ -152,7 +157,35 @@ The answer is no！
 
 具体如何提交站点收录，可以参看我的 [这一篇博客](https://www.oukohou.wang/2018/11/01/sereral_search_engines_urls/)。
 
-### 7. fork and star
+
+### 7. clustrmaps
+关于[主页面](https://www.oukohou.wang)（index.html）最底部的访问统计图:    
+<img src="https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/notices_for_fork_theme/clstymap.gif"
+         width="80%"
+         alt="oukohou"/>  
+是在这里：[https://clustrmaps.com/](https://clustrmaps.com/)申请的，步骤很简单，找到widget选项跟着做就行～～  
+多说一句，这个是后来纯为了装逼而加上去的，现在看来有点妨碍博客整体的排版和美观，我可能在某个时刻还是会把这个去掉的吧，看官们自行衡量即可～～  
+
+
+### 8. google adsense  
+这个是我当时瞎折腾，妄想靠这个平时能不能刷个两毛三毛的钱，现在看来也很鸡肋，这次更新我一并注释掉了这个功能～～  
+当时以前fork我的博客主题的朋友，可能这段代码还是需要自己手动删除，这段代码长这样：  
+```text
+<!--Google Adsense, details at: "https://www.google.com/adsense/new/u/0/pub-3980406043325966/home" -->
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-3980406043325966",
+            enable_page_level_ads: true
+        });
+    </script>
+```
+具体位置在`_layouts/base.html`，开头就是，你一下就能看到的～～  
+这个也确实属于我的疏忽，最开始写这篇注意事项的时候忘了把这个一并写出来，可能会在一定程度上影像各位的体验或者博客的网页加载速度，道歉道歉～～～  
+
+
+
+### 9. fork and star
 赠人玫瑰，手有余香。  
 看在我这么辛苦写readme的份上，不如支持我一下？   
 <div style="float:left;border:solid 1px 000;margin:2px;">
@@ -173,7 +206,7 @@ The answer is no！
 ![yasashii](https://raw.githubusercontent.com/oukohou/image_gallery/master/blogs/anime/%E6%B8%A9%E6%9F%94%E7%9A%84%E7%94%B7%E5%AD%A9%E5%AD%90.jpg "当然，女孩子会更温柔的啦～～")  
 
 
-如有疑问，欢迎留言。
+如有疑问，~~欢迎留言~~。
 
 
 <p  align="right">regards.</p>
