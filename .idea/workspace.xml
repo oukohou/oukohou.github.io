@@ -25,7 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="minor changes:  punctuation." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,13 +193,7 @@
       <workItem from="1586336795639" duration="1137000" />
       <workItem from="1586763298386" duration="3303000" />
       <workItem from="1599448402571" duration="11085000" />
-    </task>
-    <task id="LOCAL-00151" summary="add post: ProgressiveGAN.">
-      <created>1548247427183</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1548247427185</updated>
+      <workItem from="1599466990879" duration="671000" />
     </task>
     <task id="LOCAL-00152" summary="add post: ProgressiveGAN.">
       <created>1548247700336</created>
@@ -537,7 +531,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599466508463</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="minor changes:  punctuation.">
+      <created>1599467059191</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1599467059191</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TodoView">
@@ -591,7 +592,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: change title of StyleGAN, change time of autumn-poem-2." />
     <MESSAGE value="refactor: change title of face-aging-GAN." />
     <MESSAGE value="refactor: change title of face-aging-gan." />
     <MESSAGE value="refactor: change colons in titles of posts into - ." />
@@ -616,17 +616,18 @@
     <MESSAGE value="fix: move clustrmaps to bottom." />
     <MESSAGE value="bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
     <MESSAGE value="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
-    <option name="LAST_COMMIT_MESSAGE" value="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
+    <MESSAGE value="minor changes:  punctuation." />
+    <option name="LAST_COMMIT_MESSAGE" value="minor changes:  punctuation." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2" timestamp="1599466524847">
+    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2" timestamp="1599467059097">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1599466524847" />
-    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1599466513742">
+    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1599467059097" />
+    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1599467061153">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1599466513742" />
+    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1599467061153" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
