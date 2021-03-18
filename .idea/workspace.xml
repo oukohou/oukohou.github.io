@@ -25,7 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="typo:  correct a typo." />
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="typo:  correct a typo.">
+      <change afterPath="$PROJECT_DIR$/_posts/2020-12-21-NoiseStudent.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-03-18-LiYunLongGAN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,6 +199,10 @@
       <workItem from="1599448402571" duration="11085000" />
       <workItem from="1599466990879" duration="671000" />
       <workItem from="1599812188427" duration="455000" />
+      <workItem from="1604373488274" duration="599000" />
+      <workItem from="1604378946724" duration="1204000" />
+      <workItem from="1608546409104" duration="2297000" />
+      <workItem from="1616042272445" duration="1174000" />
     </task>
     <task id="LOCAL-00153" summary="refactor: change a post's name to lower-case.">
       <created>1548293800095</created>
