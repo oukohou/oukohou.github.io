@@ -27,8 +27,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="typo:  correct a typo.">
       <change afterPath="$PROJECT_DIR$/_posts/2020-12-21-NoiseStudent.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-03-18-LiYunLongGAN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-03-18-LiYunLongGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-18-LiYunLongGAN.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,14 +202,8 @@
       <workItem from="1604373488274" duration="599000" />
       <workItem from="1604378946724" duration="1204000" />
       <workItem from="1608546409104" duration="2297000" />
-      <workItem from="1616042272445" duration="1174000" />
-    </task>
-    <task id="LOCAL-00153" summary="refactor: change a post's name to lower-case.">
-      <created>1548293800095</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1548293800096</updated>
+      <workItem from="1616042272445" duration="1802000" />
+      <workItem from="1616117236279" duration="897000" />
     </task>
     <task id="LOCAL-00154" summary="add content: matlab and python's datenum convert.">
       <created>1548300742916</created>
@@ -547,7 +541,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599812237015</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="add post: 李云龙二次元风格化">
+      <created>1616043472943</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1616043472943</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="TodoView">
@@ -601,7 +602,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="refactor: change title of face-aging-gan." />
     <MESSAGE value="refactor: change colons in titles of posts into - ." />
     <MESSAGE value="add post: spring poem 1." />
     <MESSAGE value="add content: section 4: Connection reset by peer." />
@@ -626,17 +626,18 @@
     <MESSAGE value="undo: bug fix: add crossorigin=&quot;anonymous&quot; to clustrMap's JS." />
     <MESSAGE value="minor changes:  punctuation." />
     <MESSAGE value="typo:  correct a typo." />
-    <option name="LAST_COMMIT_MESSAGE" value="typo:  correct a typo." />
+    <MESSAGE value="add post: 李云龙二次元风格化" />
+    <option name="LAST_COMMIT_MESSAGE" value="add post: 李云龙二次元风格化" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2" timestamp="1599812236421">
+    <state x="470" y="109" width="1036" height="887" key="CommitChangelistDialog2" timestamp="1616043471916">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="414" y="88" width="1148" height="928" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1599812236421" />
-    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1599812238935">
+    <state x="470" y="109" width="1036" height="887" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1616043471916" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1616043474091">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="576" y="274" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1599812238935" />
+    <state x="588" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1616043474091" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

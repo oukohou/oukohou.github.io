@@ -2,8 +2,8 @@
 layout: post
 title:  "李云龙二次元风格化！一键fork你也能行 "
 date:   2021-03-18 12:38:00 +0800--
-categories: [GAN, interesting]
-tags: []  
+categories: [技术]
+tags: [GAN, interesting]  
 ---
 
 
@@ -11,9 +11,7 @@ tags: []
 ## 李云龙二次元风格化！一键star、fork，你也可以生成这样的团长！
 **打滚卖萌求star求fork!**
 
-- 视频效果前往B站观看效果最佳：[李云龙二次元风格化](https://www.bilibili.com/video/bv1B54y187tY)：  
-<iframe src="//player.bilibili.com/player.html?aid=844747233&bvid=BV1B54y187tY&cid=311778184&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>  
-
+- 视频效果前往B站观看效果最佳：[李云龙二次元风格化](https://www.bilibili.com/video/bv1B54y187tY)：   
 - github开源repo：[李云龙二次元风格化](https://github.com/oukohou/PaddleGAN-develop)    
 - 百度AIstudio开源地址,一键fork即可运行:  [李云龙二次元风格化！一键fork你也能行](https://aistudio.baidu.com/aistudio/projectdetail/1671397)      
 具体详细操作也在AIstudio上一步步列举了,求star求fork!    
@@ -22,7 +20,8 @@ tags: []
 
 ### 1.首先要找到自己要操作的视频素材，将视频的音频单独提取出来备用  
 我自己找的资源放在了`codes/videos/liyunlong`文件夹下，是李云龙名场面：  
-**你咋不敢跟旅长干一架呢**！→**旅长我给你跪下了**
+**你咋不敢跟旅长干一架呢**！→**旅长我给你跪下了**  
+![名场面](https://raw.githubusercontent.com/oukohou/image_gallery/master/contestorigin%252Bcartoon.png)
 
 ### 2.话不多说，进入代码实操：  
 - 安装基本环境  
