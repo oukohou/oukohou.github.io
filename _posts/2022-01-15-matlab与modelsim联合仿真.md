@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Simulink与Modelsim联合仿真陀螺系统方法"
+title:  "Simulink与Modelsim联合仿真方法"
 date:   2022-01-15 8:00:00 +0800--
 categories: [硬件]
 tags:   [硬件, FPGA, 数字电路]
 ---
 
-背景：在陀螺系统仿真中，分为陀螺表头和数字电路部分。若在FPGA中单独仿真数字电路，无法有效的验证数字算法的正确性。同时，陀螺表头难以写在testbench中。而Simulink可以导入Veilog代码，有效的验证数字算法对陀螺表头的作用。
+背景：在传感器系统仿真中，分为表头和数字电路部分。若在FPGA中单独仿真数字电路，无法有效的验证数字算法的正确性。同时，表头难以写在testbench中。而Simulink可以导入Veilog代码，有效的验证数字算法对表头的作用。
 
-本文以陀螺第一模态为例，将第一模态输出信号传送到数字电路中，并处理输出回Simulink系统。
+本文以谐振器为例，将谐振器输出信号传送到数字电路中，并处理输出回Simulink系统。
 
 环境：Matlab R2016A；Modelsim SE 10.4
 
 ## 将Verilog代码导入Simulink
 
-本文主要介绍系统流程，代码中仅将陀螺输出信号相乘，并输出。代码如下：
+本文主要介绍系统流程，代码中仅将谐振器输出信号相乘，并输出。代码如下：
 
 ```verilog
 
@@ -92,7 +92,7 @@ endmodule
 
 ![image-20220108164820306](https://gitee.com/wamogu_1209/picture_md/raw/master/2022/02/matlab%E4%B8%8Emodelsim%E8%81%94%E5%90%88%E4%BB%BF%E7%9C%9F-20220206-041028.png)
 
-该系统包括了陀螺的16倍频时钟和陀螺的信号输出。
+该系统包括了谐振器的16倍频时钟和陀螺的信号输出。
 
 其中要通过Data Type conversion转换数据类型。否则会报错。同时每个端口前也需要用零阶保持器将数据离散化。
 
@@ -106,4 +106,4 @@ endmodule
 
 ## 总结
 
-通过Matlab和Modelsim的联合仿真，可以有效的分析数字电路中控制系统的部分。解决了testbench难以模拟陀螺表头信号的问题。
+通过Matlab和Modelsim的联合仿真，可以有效的分析数字电路中控制系统的部分。解决了testbench难以模拟传感器系统表头信号的问题。
