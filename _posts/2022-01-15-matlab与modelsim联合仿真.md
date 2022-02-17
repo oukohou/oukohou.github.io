@@ -3,7 +3,7 @@ layout: post
 title:  "Simulink与Modelsim联合仿真方法"
 date:   2022-01-15 8:00:00 +0800--
 categories: [硬件]
-tags:   [硬件, FPGA, 数字电路]
+tags:   [FPGA]
 ---
 
 背景：在传感器系统仿真中，分为表头和数字电路部分。若在FPGA中单独仿真数字电路，无法有效的验证数字算法的正确性。同时，表头难以写在testbench中。而Simulink可以导入Veilog代码，有效的验证数字算法对表头的作用。
