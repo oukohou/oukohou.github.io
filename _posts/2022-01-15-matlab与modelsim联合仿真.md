@@ -9,6 +9,7 @@ tags:   [FPGA]
 - [将Verilog代码导入Simulink](#将verilog代码导入simulink)
 - [Simulink仿真](#simulink仿真)
 - [总结](#总结)
+
 背景：在传感器系统仿真中，分为表头和数字电路部分。若在FPGA中单独仿真数字电路，无法有效的验证数字算法的正确性。同时，表头难以写在testbench中。而Simulink可以导入Veilog代码，有效的验证数字算法对表头的作用。
 
 本文以谐振器为例，将谐振器输出信号传送到数字电路中，并处理输出回Simulink系统。
