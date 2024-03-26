@@ -21,7 +21,7 @@ tags: [GAN, interesting]
 ### 1.首先要找到自己要操作的视频素材，将视频的音频单独提取出来备用  
 我自己找的资源放在了`codes/videos/liyunlong`文件夹下，是李云龙名场面：  
 **你咋不敢跟旅长干一架呢**！→**旅长我给你跪下了**  
-![名场面](https://raw.githubusercontent.com/oukohou/image_gallery/master/contestorigin%252Bcartoon.png)
+![名场面](https://raw.githubusercontent.com/oukohou/image_gallery/master/contestorigin%2Bcartoon.png)
 
 ### 2.话不多说，进入代码实操：  
 - 安装基本环境  

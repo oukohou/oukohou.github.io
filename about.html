@@ -181,31 +181,55 @@ permalink: /about/
 </div>
 
 
-<script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>
-<script src="//unpkg.com/valine/dist/Valine.min.js"></script>
+<!--<script src="https://cdnjs.loli.net/ajax/libs/jquery/3.2.1/jquery.min.js"></script>-->
+<!--<script src="//cdn1.lncld.net/static/js/3.0.4/av-min.js"></script>-->
+<!--<script src="//unpkg.com/valine/dist/Valine.min.js"></script>-->
 
-<p><br/><br/><br/><br/><br/><br>
-<hr/><br/>不写个评论嘛：</p>
-<div id="valine_comment" class="fb_comments_container"></div>
-<script>
-    var notify = '{{site.valine.notify}}' === true;
-    var verify = '{{site.valine.verify}}.>' === true;
-    var visitor = '{{site.valine.visitor}}.>' === true;
+<!--<p><br/><br/><br/><br/><br/><br>-->
+<!--<hr/><br/>不写个评论嘛：</p>-->
+<!--<div id="valine_comment" class="fb_comments_container"></div>-->
+<!--<script>-->
+<!--    var notify = '{{site.valine.notify}}' === true;-->
+<!--    var verify = '{{site.valine.verify}}.>' === true;-->
+<!--    var visitor = '{{site.valine.visitor}}.>' === true;-->
 
-    new Valine({
-        av: AV,
-        el: '#valine_comment',
-        notify: notify,
-        verify: verify,
-        // smiles_url: '/smiles',
-        visitor: visitor,
-        app_id: '{{site.valine.app_id}}',
-        app_key: '{{site.valine.app_key}}',
-        placeholder: '{{site.valine.placeholder}}',
-        avatar: '{{site.valine.avatar}}'
-    });
-</script>
+<!--    new Valine({-->
+<!--        av: AV,-->
+<!--        el: '#valine_comment',-->
+<!--        notify: notify,-->
+<!--        verify: verify,-->
+<!--        // smiles_url: '/smiles',-->
+<!--        visitor: visitor,-->
+<!--        app_id: '{{site.valine.app_id}}',-->
+<!--        app_key: '{{site.valine.app_key}}',-->
+<!--        placeholder: '{{site.valine.placeholder}}',-->
+<!--        avatar: '{{site.valine.avatar}}'-->
+<!--    });-->
+<!--</script>-->
+
+<!--giscus评论插件-->
+<!--https://github.com/settings/installations/47603379-->
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <script src="https://giscus.app/client.js"
+        data-repo="oukohou/image_gallery"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkxODg5ODYzOTY="
+        data-category="General"
+        data-category-id="DIC_kwDOC0O0HM4CdbSz"
+        data-mapping="pathname"
+        data-strict="1"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="light_protanopia"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+        </script>
+    </div>
+  </div>
+</div>
 
 
 <!--<div id="disqus_thread"></div>-->
