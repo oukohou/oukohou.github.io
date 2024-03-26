@@ -25,17 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="typo:  correct a typo.">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="comment: using giscus instead of valine, as valine has benn outdated.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2021-03-18-LiYunLongGAN.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-03-18-LiYunLongGAN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guestbook.html" beforeDir="false" afterPath="$PROJECT_DIR$/guestbook.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,14 +210,7 @@
       <workItem from="1710234899547" duration="1954000" />
       <workItem from="1710321369361" duration="834000" />
       <workItem from="1710899008925" duration="7027000" />
-      <workItem from="1711336265485" duration="3078000" />
-    </task>
-    <task id="LOCAL-00155" summary="add post: how to mount disk on Ubuntu.">
-      <created>1548814056111</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1548814056112</updated>
+      <workItem from="1711336265485" duration="3753000" />
     </task>
     <task id="LOCAL-00156" summary="add post: face aging using GAN.">
       <created>1548930291687</created>
@@ -563,7 +548,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616139166605</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="comment: using giscus instead of valine, as valine has benn outdated.">
+      <created>1711420418440</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1711420418440</updated>
+    </task>
+    <option name="localTasksCounter" value="205" />
     <servers />
   </component>
   <component name="TodoView">
@@ -617,7 +609,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add post: spring poem 1." />
     <MESSAGE value="add content: section 4: Connection reset by peer." />
     <MESSAGE value="add post: sprctral normalization." />
     <MESSAGE value="Big change: now use github to save images, as most image gallery services are unreliable." />
@@ -642,17 +633,26 @@
     <MESSAGE value="typo:  correct a typo." />
     <MESSAGE value="add post: 李云龙二次元风格化" />
     <MESSAGE value="tiny modification: image link" />
-    <option name="LAST_COMMIT_MESSAGE" value="tiny modification: image link" />
+    <MESSAGE value="comment: using giscus instead of valine, as valine has benn outdated." />
+    <option name="LAST_COMMIT_MESSAGE" value="comment: using giscus instead of valine, as valine has benn outdated." />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="384" width="1147" height="626" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1710321499372">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="232" y="384" width="1147" height="626" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1710321499372" />
+    <state x="488" y="69" width="1001" height="967" key="CommitChangelistDialog2" timestamp="1711420869735">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="488" y="69" width="1001" height="967" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1711420869735" />
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1711126347329">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1711126347329" />
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1711420423626">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1711420423626" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

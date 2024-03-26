@@ -133,6 +133,8 @@ google analytics的代码在
 ```
 中的valine配置即可。    
 
+*update 2024-03-26: valine 支持已过时，采用[giscus](https://github.com/giscus/giscus)作为评论系统。*
+
 ### 5. sidebar(侧边栏)
 sidebar（侧边栏）的部署代码在
 ```txt
