@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="comment: using giscus instead of valine, as valine has benn outdated.">
+    <list default="true" id="e1108593-cb63-4cf8-9894-877d9ad19767" name="Default" comment="style.css">
+      <change afterPath="$PROJECT_DIR$/_posts/2024-06-04-storyDiffusion.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-12-18-notices-for-jekyll-themes-fork.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +73,11 @@
     <property name="SearchEverywhereHistoryKey" value="duoshuo&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/_site/jekyll/update/2018/08/28/welcome-to-jekyll.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/laboratory/comment_test.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/guestbook/index.html&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/laboratory/fd.html&#10;true&#10;/home/CVAR/study/interest/blogs/github_page/oukohou.github.io/_site/assets/css/style.css" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../machineLearning/BigModel/Chat-Haruhi-Suzumiya-main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../aistudy/projects/FireDetection/codes/yolov5-master-4.0/yolov5-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -210,28 +210,13 @@
       <workItem from="1710234899547" duration="1954000" />
       <workItem from="1710321369361" duration="834000" />
       <workItem from="1710899008925" duration="7027000" />
-      <workItem from="1711336265485" duration="3753000" />
-    </task>
-    <task id="LOCAL-00156" summary="add post: face aging using GAN.">
-      <created>1548930291687</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1548930291688</updated>
-    </task>
-    <task id="LOCAL-00157" summary="refactor: change format.">
-      <created>1548930674627</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1548930674627</updated>
-    </task>
-    <task id="LOCAL-00158" summary="add post: autumn poems 2;&#10;refactor: simplify tags of autumn poems.">
-      <created>1550052482475</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1550052482475</updated>
+      <workItem from="1711336265485" duration="4406000" />
+      <workItem from="1712628957157" duration="4281000" />
+      <workItem from="1713454083982" duration="2045000" />
+      <workItem from="1715134610856" duration="1316000" />
+      <workItem from="1715389113918" duration="8693000" />
+      <workItem from="1715906052869" duration="13000" />
+      <workItem from="1717466425109" duration="9062000" />
     </task>
     <task id="LOCAL-00159" summary="add content: of post records of installation errors and operations;&#10;refactor: correct a typo.">
       <created>1551074842414</created>
@@ -555,7 +540,28 @@
       <option name="project" value="LOCAL" />
       <updated>1711420418440</updated>
     </task>
-    <option name="localTasksCounter" value="205" />
+    <task id="LOCAL-00205" summary="comment: using giscus instead of valine.">
+      <created>1711421047746</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1711421047746</updated>
+    </task>
+    <task id="LOCAL-00206" summary="style.css">
+      <created>1713454333945</created>
+      <option name="number" value="00206" />
+      <option name="presentableId" value="LOCAL-00206" />
+      <option name="project" value="LOCAL" />
+      <updated>1713454333946</updated>
+    </task>
+    <task id="LOCAL-00207" summary="add post:RAR">
+      <created>1715648269055</created>
+      <option name="number" value="00207" />
+      <option name="presentableId" value="LOCAL-00207" />
+      <option name="project" value="LOCAL" />
+      <updated>1715648269055</updated>
+    </task>
+    <option name="localTasksCounter" value="208" />
     <servers />
   </component>
   <component name="TodoView">
@@ -609,10 +615,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add content: section 4: Connection reset by peer." />
-    <MESSAGE value="add post: sprctral normalization." />
-    <MESSAGE value="Big change: now use github to save images, as most image gallery services are unreliable." />
-    <MESSAGE value="refactor: modify two wrong image links." />
     <MESSAGE value="add post: SAGAN." />
     <MESSAGE value="refactor:donate.md." />
     <MESSAGE value="add post: UEA." />
@@ -634,25 +636,37 @@
     <MESSAGE value="add post: 李云龙二次元风格化" />
     <MESSAGE value="tiny modification: image link" />
     <MESSAGE value="comment: using giscus instead of valine, as valine has benn outdated." />
-    <option name="LAST_COMMIT_MESSAGE" value="comment: using giscus instead of valine, as valine has benn outdated." />
+    <MESSAGE value="comment: using giscus instead of valine." />
+    <MESSAGE value="paper added" />
+    <MESSAGE value="style.css" />
+    <MESSAGE value="add post:RAR" />
+    <option name="LAST_COMMIT_MESSAGE" value="add post:RAR" />
   </component>
   <component name="WindowStateProjectService">
     <state x="232" y="384" width="1147" height="626" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1710321499372">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="232" y="384" width="1147" height="626" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1710321499372" />
-    <state x="488" y="69" width="1001" height="967" key="CommitChangelistDialog2" timestamp="1711420869735">
+    <state x="488" y="69" width="1001" height="967" key="CommitChangelistDialog2" timestamp="1715648268905">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="488" y="69" width="1001" height="967" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1711420869735" />
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1711126347329">
+    <state x="488" y="69" width="1001" height="967" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1715648268905" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1715851580888">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1711126347329" />
-    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1711420423626">
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1715851580888" />
+    <state x="813" y="450" key="GitRewordDialog" timestamp="1713454116711">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1711420423626" />
+    <state x="813" y="450" key="GitRewordDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1713454116711" />
+    <state x="475" y="187" key="SettingsEditor" timestamp="1717569209015">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="475" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1717569209015" />
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1715648271387">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="287" width="800" height="531" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1715648271387" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
