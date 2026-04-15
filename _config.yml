@@ -13,14 +13,9 @@ email: oukohou@outlook.com
 # Build settings
 permalink: /:year/:month/:day/:title/
 exclude: ["README.md", "changelog.md", "server", "tools", "Pipfile"]
-plugins_dir:
+plugins:
   - jekyll-paginate
   - jemoji
-# gems:
-#  - jekyll-coffeescript
-#  - jekyll-watch
-#  - jekyll-assets
-gems: [jekyll-paginate]
 
 # always get github's error email saying redcarpet is not supported,
 # so change it to kramdown.
@@ -73,8 +68,8 @@ links: # 友情链接
 
 
 # Google Analytics
-ga_track_id: 'UA-130856615-1'            # Format: UA-xxxxxx-xx
-ga_domain: www.oukohou.wang              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+google_analytics:
+  measurement_id: 'G-KRCL3V6T8H'
 
 
 # Code hub settings

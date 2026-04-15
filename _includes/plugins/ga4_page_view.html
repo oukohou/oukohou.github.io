@@ -1,0 +1,35 @@
+{# 使用 Google Analytics 4 统计文章阅读量 #}
+{# 需要在 _config.yml 中配置 google_analytics.measurement_id #}
+
+{% if site.google_analytics.measurement_id %}
+<script>
+  // 获取当前页面路径作为文章 ID
+  const pagePath = window.location.pathname;
+  const gaMeasurementId = '{{ site.google_analytics.measurement_id }}';
+  
+  // 发送页面浏览事件到 GA4
+  function sendPageView() {
+    gtag('event', 'page_view', {
+      event_category: 'blog',
+      event_label: pagePath,
+      page_path: pagePath,
+      page_title: document.title,
+      send_to: gaMeasurementId
+    });
+  }
+  
+  // 获取文章阅读量
+  function fetchPageViews() {
+    // 由于 GA4 不直接提供公开的阅读量 API，这里仅记录访问
+    // 如需显示具体数字，需要配合 Google Analytics Reporting API
+    // 但这需要后端支持，对于纯静态博客，我们只记录访问
+    console.log('Page view recorded for:', pagePath);
+  }
+  
+  // 页面加载完成后执行
+  document.addEventListener('DOMContentLoaded', function() {
+    sendPageView();
+    fetchPageViews();
+  });
+</script>
+{% endif %}

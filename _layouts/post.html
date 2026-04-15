@@ -1,4 +1,4 @@
----
+﻿---
 layout: base
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -26,12 +26,10 @@ layout: base
         </span>{% endif %}
 
 
-            <!-- 阅读量统计， id 将作为查询条件 -->
-            <span id={{page.url}} class="leancloud-visitors" data-flag-title={{page.title}}>
-                <span class="post-meta-divider">|</span>
-                <span class="post-meta-item-text">阅读量 </span>
-                <span class="leancloud-visitors-count"></span>
-            </span>
+            <!-- Vercount 阅读量统计 -->
+            <span class="post-meta-divider">|</span>
+            <span class="post-meta-item-text">阅读量 </span>
+            <span id="vercount_value_page_pv{{ page.url | replace: '/', '_' | replace: '.html', '' }}"></span>
         </p>
 
     </header>
@@ -84,7 +82,7 @@ layout: base
 <!--        });-->
 <!--    </script>-->
 
-    <!--giscus评论插件-->
+    <!--giscus 评论插件-->
 <!--https://github.com/settings/installations/47603379-->
 
 <div class="container">
