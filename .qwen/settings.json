@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(set *)",
+      "Bash(%path%)",
+      "Bash(type *)",
+      "Bash(findstr *)",
+      "Bash(powershell *)",
+      "Bash(taskkill *)",
+      "Bash(timeout *)",
+      "Bash(bundle *)",
+      "Bash(select-object *)",
+      "Bash(curl *)"
+    ]
+  },
+  "$version": 3
+}

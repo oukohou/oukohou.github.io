@@ -1,0 +1,52 @@
+# Vercount 域名验证信息
+
+## DNS TXT 记录配置
+
+登录你的域名服务商（如阿里云、腾讯云、Cloudflare 等），添加以下 DNS 记录：
+
+| 字段 | 值 |
+|------|-----|
+| **记录类型 (Type)** | `TXT` |
+| **主机记录 (Name)** | `_vercount.www` |
+| **记录值 (Value)** | `vercount-domain-verify=www.oukohou.wang,yi9onjfneacyuhapum83lzvb` |
+| **TTL** | `600` (或默认值) |
+
+---
+
+## 各平台操作指南
+
+### 阿里云 DNS
+1. 登录 [阿里云控制台](https://dns.console.aliyun.com/)
+2. 选择 `oukohou.wang` 域名
+3. 点击"添加记录"
+4. 填写上述信息并保存
+
+### 腾讯云 DNS
+1. 登录 [腾讯云 DNSPod](https://console.dnspod.cn/)
+2. 选择 `oukohou.wang` 域名
+3. 点击"添加记录"
+4. 选择类型为 `TXT`
+5. 填写上述信息并保存
+
+### Cloudflare
+1. 登录 [Cloudflare Dashboard](https://dash.cloudflare.com/)
+2. 选择 `oukohou.wang` 域名
+3. 进入 "DNS" 标签页
+4. 点击 "Add record"
+5. 选择类型为 `TXT`
+6. 填写上述信息并保存
+
+---
+
+## 验证步骤
+
+1. 添加 DNS 记录后，等待 DNS 生效（通常 1-10 分钟）
+2. 回到 [vercount.one](https://vercount.one) 点击 "Verify" 按钮
+3. 验证通过后，访问量统计将自动开始
+
+---
+
+**注意：** 
+- 如果使用 `www.oukohou.wang`，主机记录填 `_vercount.www`
+- 如果使用根域名 `oukohou.wang`，主机记录填 `_vercount`
+- DNS 生效时间取决于 TTL 设置，最长可能需要 24 小时（通常几分钟即可）
