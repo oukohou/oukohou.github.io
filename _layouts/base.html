@@ -183,50 +183,6 @@ Yet no award for you……
 <!-- Vercount 网站统计 -->
 <script defer src="https://events.vercount.one/js"></script>
 
-<!-- Vercount 单页面阅读量显示 -->
-<script>
-  async function loadVercountPageViews() {
-    // 获取所有需要显示阅读量的元素
-    const elements = document.querySelectorAll('[data-vercount-path]');
-    
-    for (let element of elements) {
-      let pageUrl = element.getAttribute('data-vercount-path');
-      if (!pageUrl) continue;
-      
-      // 移除双斜杠（保留 https:// 中的双斜杠）
-      pageUrl = pageUrl.replace(/([^:]\/)\/+/g, '$1');
-      
-      try {
-        // 调用 Vercount API 获取该页面的阅读量
-        const response = await fetch('https://events.vercount.one/api/v2/log', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({
-            url: pageUrl,
-            isNewUv: false
-          })
-        });
-        
-        if (response.ok) {
-          const data = await response.json();
-          if (data.status === 'success' && data.data) {
-            const views = data.data.page_pv || 0;
-            element.textContent = views + ' 🔥';
-          }
-        }
-      } catch (error) {
-        console.error('Error loading Vercount views:', error);
-        element.textContent = '0 🔥';
-      }
-    }
-  }
-  
-  // DOM 加载完成后执行
-  document.addEventListener('DOMContentLoaded', loadVercountPageViews);
-</script>
-
 </body>
 
 

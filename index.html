@@ -26,10 +26,10 @@ layout: base
         <i class="icon-post-date"> {{ post.date | date: "%Y年%m月%d日" }}
 
         </i>
-            <!-- Vercount 阅读量统计 -->
+            <!-- Vercount 阅读量统计（主页显示主页总浏览量） -->
                 <span class="post-meta-divider">|</span>
                 <span class="post-meta-item-text">浏览量 </span>
-                <span class="vercount-page-pv" data-vercount-path="{{ site.url }}{{ post.url }}">Loading</span>
+                <span id="vercount_value_page_pv">Loading</span> 🔥
         </span>
 
     </div>
