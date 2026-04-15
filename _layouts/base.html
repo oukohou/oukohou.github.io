@@ -190,8 +190,11 @@ Yet no award for you……
     const elements = document.querySelectorAll('[data-vercount-path]');
     
     for (let element of elements) {
-      const pageUrl = element.getAttribute('data-vercount-path');
+      let pageUrl = element.getAttribute('data-vercount-path');
       if (!pageUrl) continue;
+      
+      // 移除双斜杠（保留 https:// 中的双斜杠）
+      pageUrl = pageUrl.replace(/([^:]\/)\/+/g, '$1');
       
       try {
         // 调用 Vercount API 获取该页面的阅读量
