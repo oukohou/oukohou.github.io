@@ -183,6 +183,118 @@ Yet no award for you……
 <!-- Vercount 网站统计 -->
 <script defer src="https://events.vercount.one/js"></script>
 
+<!-- 文章热度计算脚本 -->
+<script>
+  const HEAT_CACHE_KEY = 'article_heat_data';
+  const HEAT_CACHE_TIME_KEY = 'article_heat_time';
+  
+  // 五分位数计算函数
+  function calculatePercentile(arr, p) {
+    if (arr.length === 0) return 0;
+    arr.sort((a, b) => a - b);
+    const index = (arr.length - 1) * p;
+    const lower = Math.floor(index);
+    const upper = Math.ceil(index);
+    const weight = index % 1;
+    
+    if (lower === upper) {
+      return arr[lower];
+    }
+    return arr[lower] * (1 - weight) + arr[upper] * weight;
+  }
+  
+  // 获取热度等级
+  function getHeatLevel(views, percentiles) {
+    if (views <= percentiles[0]) return 1;
+    if (views <= percentiles[1]) return 2;
+    if (views <= percentiles[2]) return 3;
+    if (views <= percentiles[3]) return 4;
+    return 5;
+  }
+  
+  // 生成热度火焰
+  function generateFireEmoji(level) {
+    return '🔥'.repeat(level);
+  }
+  
+  async function loadArticleHeat() {
+    const elements = document.querySelectorAll('.article-heat');
+    if (elements.length === 0) return;
+    
+    // 检查缓存
+    const cached = localStorage.getItem(HEAT_CACHE_KEY);
+    const cachedTime = localStorage.getItem(HEAT_CACHE_TIME_KEY);
+    const today = new Date().toDateString();
+    
+    let heatData = {};
+    let needRefresh = !cached || cachedTime !== today;
+    
+    if (!needRefresh) {
+      heatData = JSON.parse(cached);
+    } else {
+      // 需要重新查询
+      const urls = Array.from(elements).map(el => el.getAttribute('data-article-url'));
+      const viewsData = {};
+      const allViews = [];
+      
+      // 查询所有文章的浏览量
+      for (let url of urls) {
+        try {
+          const response = await fetch('https://events.vercount.one/api/v2/log', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url: url, isNewUv: false }),
+            signal: AbortSignal.timeout(5000)
+          });
+          
+          if (response.ok) {
+            const data = await response.json();
+            const views = data.data?.page_pv || 0;
+            viewsData[url] = views;
+            allViews.push(views);
+          }
+        } catch (error) {
+          console.error('Error fetching views for', url, error);
+          viewsData[url] = 0;
+          allViews.push(0);
+        }
+      }
+      
+      // 计算五分位数（20%, 40%, 60%, 80%）
+      const p20 = calculatePercentile(allViews, 0.2);
+      const p40 = calculatePercentile(allViews, 0.4);
+      const p60 = calculatePercentile(allViews, 0.6);
+      const p80 = calculatePercentile(allViews, 0.8);
+      const percentiles = [p20, p40, p60, p80];
+      
+      // 计算每个文章的热度
+      for (let url in viewsData) {
+        const views = viewsData[url];
+        const level = getHeatLevel(views, percentiles);
+        heatData[url] = { views: views, level: level };
+      }
+      
+      // 缓存结果
+      localStorage.setItem(HEAT_CACHE_KEY, JSON.stringify(heatData));
+      localStorage.setItem(HEAT_CACHE_TIME_KEY, today);
+    }
+    
+    // 显示热度
+    elements.forEach(el => {
+      const url = el.getAttribute('data-article-url');
+      if (heatData[url]) {
+        const level = heatData[url].level;
+        el.textContent = generateFireEmoji(level);
+      } else {
+        el.textContent = '🔥';
+      }
+    });
+  }
+  
+  // 页面加载完成后执行
+  document.addEventListener('DOMContentLoaded', loadArticleHeat);
+</script>
+
 </body>
 
 
