@@ -48,11 +48,11 @@ tags: [ChatGPT, GPT Pro, GPT Business, Cockpit Tools]
 
 还有一些扫盲式的问题：
 
-3. 每个team席位的额度都是独立计算的，跟同team内的其他账号没有任何关系；
+3\. 每个team席位的额度都是独立计算的，跟同team内的其他账号没有任何关系；
 
-4. chatgpt的账号非常容易注册，随便一个邮箱就可以了，gmail、outlook、qq、163等等邮箱都可以；
+4\. chatgpt的账号非常容易注册，随便一个邮箱就可以了，gmail、outlook、qq、163等等邮箱都可以；
 
-5. 是的，没错，这个team的订阅支付不能用国内银行卡、信用卡啥的直接支付，需要一些小技巧。
+5\. 是的，没错，这个team的订阅支付不能用国内银行卡、信用卡啥的直接支付，需要一些小技巧。
 
 这个就不为外人道了，真需要的话，请到[公众号原文](https://mp.weixin.qq.com/s/8nTAnbIilX-oMMaEQN2u6g)后台留言：席位，自行获取。
 
