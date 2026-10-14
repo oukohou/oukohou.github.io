@@ -2,7 +2,7 @@
 layout: post
 title: "买不起GPT Pro的我，只好拼team席位了"
 date: 2026-10-01 14:24:00 +0800
-categories: [技术]
+categories: [AI]
 tags: [ChatGPT, GPT Pro, GPT Business, Cockpit Tools]
 ---
 
